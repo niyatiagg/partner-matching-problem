@@ -1,5 +1,4 @@
 # Graph-Based Roommate/Dating Matching System  
-**Course project (one semester) — Team of 2**
 
 ## 1. Problem statement
 Finding compatible roommates (or dating partners) is hard because “compatibility” depends on multiple lifestyle and personal factors that aren’t captured well by simple profiles. We model each person as a **vertex** in a graph, and pairwise compatibility as **weighted edges**. We then study and compare algorithms that produce **stable** or **high-compatibility** matchings.
@@ -11,7 +10,7 @@ Finding compatible roommates (or dating partners) is hard because “compatibili
   - **Edge weights** (for maximum-weight matching).
 - Compare multiple matching algorithms under consistent datasets and evaluation metrics.
 
-## 3. Algorithms to implement and compare
+## 3. Possible algorithms to implement and compare
 1. **Gale–Shapley Stable Matching** (stable marriage / admissions style) 
 2. **Irving’s Stable Roommates Algorithm** (non-bipartite stable roommates)
 3. **Edmonds’ Blossom Algorithm** for **Maximum Weight Matching** 
@@ -68,27 +67,8 @@ We will evaluate algorithms on:
 - Use public datasets (e.g., Kaggle roommate/dating profile datasets) and
 - Generate **synthetic profiles** with controlled attribute distributions for stress-testing. 
 
-## 9. Roles (2-person split)
-**Person A (Theory + algorithm correctness)**
-- Formalize stability / blocking pairs
-- Implement Gale–Shapley + Irving
-- Write up algorithm comparison and complexity discussion
-
-**Person B (Scoring + evaluation + visuals)**
-- Implement scoring pipeline + preprocessing
-- Implement Blossom / max-weight matching
-- Run experiments, plots, and visualizations
-
-(We’ll both review each other’s code and co-author the final presentation.)
-
-## 10. Deliverables (by end of semester)
+## 9. Deliverables (by end of semester)
 - Working prototype: input profiles → compatibility graph → matching outputs
 - Comparative analysis across algorithms (stability vs. compatibility vs. runtime)
 - Visualizations of graphs and matchings
 - Slide deck + short report (method + results + discussion)
-
-## 11. References
-- Gale, D. & Shapley, L. S. (1962). *College admissions and the stability of marriage.*
-- Irving, R. W. (1985). *An efficient algorithm for the stable roommates problem.* 
-- Edmonds, J. (1965). *Paths, trees, and flowers.* 
-- Cormen et al. (2009). *Introduction to Algorithms (3rd ed.).* 
