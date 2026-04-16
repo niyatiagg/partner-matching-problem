@@ -1,81 +1,59 @@
-# Graph-Based Roommate/Teammate Matcher (DAA Project)
+# Graph-Based Roommate / Teammate Matching (DAA Project)
 
-This project models people as graph nodes and compatibility as weighted edges.
-It supports:
+Finding compatible roommates (or teammates) is hard because compatibility depends on many lifestyle and personality factors. We model each person as a **vertex** in a graph and pairwise compatibility as **weighted edges**, then apply graph matching algorithms to propose pairs.
 
-- **Roommate mode** using **Maximum Weight Matching (Blossom via NetworkX)**.
-- **Teammate mode** using **Gale-Shapley Stable Matching** on bipartite splits.
-- Edge-weight construction using your professor's suggested metrics:
-  - Jaccard similarity
-  - Cosine similarity
-  - Euclidean-distance-based similarity
+## Key idea
 
-## Why this algorithm choice?
+- Build a **compatibility score** from user attributes (OCEAN traits, sleep, diet, cleanliness, lifestyle, interests).
+- Use scores as **edge weights** (maximum-weight matching) or derive **preference lists** (Gale–Shapley).
+- Compare approaches on total compatibility, stability (where defined), and runtime.
 
-- **Primary for roommate finder:** Maximum Weight Matching is the most direct fit when your objective is to maximize total compatibility.
-- **Primary for teammate finder:** Gale-Shapley is a strong option when two-sided preferences are natural (Group A and Group B).
-- **Irving's Stable Roommates** is a valid advanced extension for strict stability in one-sided roommate markets, but it is more complex to implement/debug in a semester timeline.
+## Algorithms (proposal + current code)
 
-## Project Structure
+| Approach | Role in this repo |
+|----------|-------------------|
+| **Edmonds / Blossom — maximum weight matching** | **Roommate mode** — maximize total compatibility (`networkx.max_weight_matching`). |
+| **Gale–Shapley stable matching** | **Teammate mode** — bipartite split + stable pairs. |
+| **Irving stable roommates** | Planned extension (general roommate stability). |
 
-- `matcher.py`: end-to-end implementation.
-- `requirements.txt`: Python dependencies.
-- `outputs/` (generated after run):
-  - `profiles_used.csv`
-  - `pair_scores.csv`
-  - `roommate_matching.json`
-  - `teammate_matching.json`
-  - `compatibility_graph.html` (interactive)
+## Current prototype (implemented)
 
-## Setup
+- **`matcher.py`** — synthetic or CSV profiles → cosine + Jaccard + Euclidean similarity → weighted graph (threshold) → matchings → **PyVis** HTML graph.
+- **`requirements.txt`** — Python dependencies.
+- **`Sprint_1_Progress_Report.md`** — sprint submission notes.
+- **`outputs/`** — generated when you run the script (gitignored): CSVs, JSON matchings, `compatibility_graph.html`.
+
+### Setup
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-## Run (Synthetic Data)
+### Run (synthetic data)
 
 ```bash
 python matcher.py --n_users 20 --edge_threshold 0.45
 ```
 
-## Run (Your Own CSV)
+### Run (your CSV)
 
 ```bash
 python matcher.py --csv_path your_profiles.csv --edge_threshold 0.45
 ```
 
-Expected CSV columns:
+**Expected CSV columns:** `user_id`, `openness`, `conscientiousness`, `extraversion`, `agreeableness`, `neuroticism`, `sleep_schedule`, `cleanliness`, `diet`, `social_style`, `study_style`, `interests` (comma-separated).
 
-- `user_id`
-- `openness`, `conscientiousness`, `extraversion`, `agreeableness`, `neuroticism` (1-10)
-- `sleep_schedule`
-- `cleanliness`
-- `diet`
-- `social_style`
-- `study_style`
-- `interests` (comma-separated, example: `music,travel,gaming`)
+## Scoring (high level)
 
-## Suggested Team Work Split
+Combined edge weight uses tunable contributions: cosine (numeric + encoded categoricals), Jaccard (interests + lifestyle tags), and Euclidean-based similarity on OCEAN (see `matcher.py` for formulas and defaults).
 
-### Partner 1 (Algorithm + Analysis)
-- Implement and tune weighting model.
-- Run complexity/time comparison across user counts.
-- Evaluate stability and quality metrics.
+## Evaluation plan (semester)
 
-### Partner 2 (Data + Visualization + Report)
-- Build/clean dataset (Kaggle + synthetic).
-- Build interactive graph UI outputs.
-- Write experimental results, charts, and conclusion.
+- Stability / blocking pairs where applicable; total and average compatibility; runtime vs. \(n\); sensitivity to weights and threshold.
+- Datasets: public profiles (e.g. Kaggle) **mapped** to this schema, plus synthetic stress tests.
 
-## Recommended Evaluation for Final Demo
+## Deliverables (target)
 
-1. Compare weight-computation variants:
-   - cosine only
-   - cosine + jaccard
-   - cosine + jaccard + euclidean
-2. Compare matching quality:
-   - total compatibility score
-   - average pair score
-3. Compare runtime with increasing `n` (20, 40, 80, 160).
-4. Visual demo in `compatibility_graph.html`.
+Working pipeline, algorithm comparison, visualizations, slides + short report.
+
+**Repository:** [github.com/niyatiagg/partner-matching-problem](https://github.com/niyatiagg/partner-matching-problem)
