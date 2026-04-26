@@ -6,7 +6,7 @@ import random
 from dataclasses import dataclass
 from pathlib import Path
 from collections import deque
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Any
 
 import networkx as nx
 import numpy as np
@@ -220,14 +220,65 @@ def gale_shapley_bipartite(
     return {a: b for b, a in engagement_b.items()}
 
 
-def build_bipartite_groups(df: pd.DataFrame) -> Tuple[List[str], List[str], str]:
+def build_bipartite_groups(df: pd.DataFrame) -> Tuple[List[str], List[str], str, List[Dict[str, str]]]:
     """Create meaningful bipartite sets using lifestyle/personality attributes."""
     if "user_id" not in df.columns:
         raise ValueError("Input dataframe must contain 'user_id' column.")
 
     users_df = df.copy()
 
-    # Primary rule: split by sleep schedule categories (day-vs-night lifestyle).
+    # Primary combined rule: use sleep_schedule + study_style.
+    # If both signals disagree, sleep_schedule takes precedence.
+    sleep_to_side = {"early_bird": "A", "night_owl": "B"}
+    study_to_side = {"quiet": "A", "music": "B", "group": "B"}
+    if "sleep_schedule" in users_df.columns and "study_style" in users_df.columns:
+        group_a: List[str] = []
+        group_b: List[str] = []
+        conflicts: List[Dict[str, str]] = []
+        conflict_count = 0
+
+        for _, row in users_df.iterrows():
+            uid = str(row["user_id"])
+            sleep_value = str(row["sleep_schedule"]).strip().lower()
+            study_value = str(row["study_style"]).strip().lower()
+
+            sleep_side = sleep_to_side.get(sleep_value)
+            study_side = study_to_side.get(study_value)
+
+            chosen_side: str | None = None
+            if sleep_side and study_side and sleep_side != study_side:
+                conflict_count += 1
+                chosen_side = sleep_side
+                conflicts.append(
+                    {
+                        "user_id": uid,
+                        "sleep_schedule": sleep_value,
+                        "study_style": study_value,
+                        "sleep_side": sleep_side,
+                        "study_side": study_side,
+                        "chosen_side": chosen_side,
+                    }
+                )
+            elif sleep_side:
+                chosen_side = sleep_side
+            elif study_side:
+                chosen_side = study_side
+
+            if chosen_side == "A":
+                group_a.append(uid)
+            elif chosen_side == "B":
+                group_b.append(uid)
+
+        if group_a and group_b:
+            return (
+                group_a,
+                group_b,
+                "combined sleep_schedule + study_style "
+                f"(sleep priority, conflicts_resolved={conflict_count})",
+                conflicts,
+            )
+
+    # Fallback 1: split by sleep schedule categories.
     if "sleep_schedule" in users_df.columns:
         schedule_series = users_df["sleep_schedule"].astype(str).str.strip()
         unique_values = sorted({v for v in schedule_series if v and v.lower() != "nan"})
@@ -236,33 +287,42 @@ def build_bipartite_groups(df: pd.DataFrame) -> Tuple[List[str], List[str], str]
             group_a = users_df.loc[schedule_series == val_a, "user_id"].tolist()
             group_b = users_df.loc[schedule_series == val_b, "user_id"].tolist()
             if group_a and group_b:
-                return group_a, group_b, f"sleep_schedule split: {val_a} vs {val_b}"
+                return group_a, group_b, f"sleep_schedule split: {val_a} vs {val_b}", []
 
-    # Fallback: split by median extraversion for meaningful social-style partitioning.
+    # Fallback 2: split by median extraversion.
     if "extraversion" in users_df.columns:
         users_df["extraversion"] = pd.to_numeric(users_df["extraversion"], errors="coerce")
         median_extraversion = float(users_df["extraversion"].median())
         group_a = users_df.loc[users_df["extraversion"] <= median_extraversion, "user_id"].tolist()
         group_b = users_df.loc[users_df["extraversion"] > median_extraversion, "user_id"].tolist()
         if group_a and group_b:
-            return group_a, group_b, f"extraversion median split: <= {median_extraversion:.2f} vs > {median_extraversion:.2f}"
+            return (
+                group_a,
+                group_b,
+                f"extraversion median split: <= {median_extraversion:.2f} vs > {median_extraversion:.2f}",
+                [],
+            )
 
     # Last fallback: deterministic split by sorted user_id.
     sorted_users = sorted(users_df["user_id"].astype(str).tolist())
     mid = len(sorted_users) // 2
-    return sorted_users[:mid], sorted_users[mid:], "deterministic user_id split"
+    return sorted_users[:mid], sorted_users[mid:], "deterministic user_id split", []
 
 
 def teammate_matching_via_stable_marriage(
     graph: nx.Graph, df: pd.DataFrame
-) -> Tuple[List[Tuple[str, str, float]], str, int, int]:
-    group_a, group_b, partition_rule = build_bipartite_groups(df)
+) -> Tuple[List[Tuple[str, str, float]], str, List[str], List[str], List[Dict[str, str]], List[str]]:
+    group_a, group_b, partition_rule, conflicts = build_bipartite_groups(df)
+    original_group_a = group_a[:]
+    original_group_b = group_b[:]
 
     # Keep bipartite sides equal-sized for stable marriage assumptions.
     if len(group_b) > len(group_a):
         group_b = group_b[: len(group_a)]
     elif len(group_a) > len(group_b):
         group_a = group_a[: len(group_b)]
+    kept_users = set(group_a) | set(group_b)
+    dropped_users = [u for u in (original_group_a + original_group_b) if u not in kept_users]
 
     preferences_a = {}
     for a in group_a:
@@ -279,7 +339,7 @@ def teammate_matching_via_stable_marriage(
     for a, b in matches.items():
         score = float(graph[a][b]["weight"]) if graph.has_edge(a, b) else 0.0
         result.append((a, b, score))
-    return sorted(result, key=lambda x: x[2], reverse=True), partition_rule, len(group_a), len(group_b)
+    return sorted(result, key=lambda x: x[2], reverse=True), partition_rule, group_a, group_b, conflicts, dropped_users
 
 
 def export_interactive_graph(graph: nx.Graph, output_path: Path) -> None:
@@ -315,7 +375,9 @@ def run_pipeline(cfg: MatchingConfig, csv_path: str | None) -> None:
     graph, edge_df = build_weighted_graph(df, cfg)
 
     room_matches = max_weight_roommate_matching(graph)
-    team_matches, partition_rule, group_a_size, group_b_size = teammate_matching_via_stable_marriage(graph, df)
+    team_matches, partition_rule, group_a, group_b, conflicts, dropped_users = teammate_matching_via_stable_marriage(
+        graph, df
+    )
 
     df.to_csv(out_dir / "profiles_used.csv", index=False)
     edge_df.to_csv(out_dir / "pair_scores.csv", index=False)
@@ -333,6 +395,15 @@ def run_pipeline(cfg: MatchingConfig, csv_path: str | None) -> None:
             f,
             indent=2,
         )
+    with open(out_dir / "bipartite_groups.json", "w", encoding="utf-8") as f:
+        bipartite_payload: Dict[str, Any] = {
+            "partition_rule": partition_rule,
+            "group_a": group_a,
+            "group_b": group_b,
+            "conflicts": conflicts,
+            "dropped_users_due_to_size_balance": dropped_users,
+        }
+        json.dump(bipartite_payload, f, indent=2)
 
     export_interactive_graph(graph, out_dir / "compatibility_graph.html")
 
@@ -340,7 +411,8 @@ def run_pipeline(cfg: MatchingConfig, csv_path: str | None) -> None:
     print(f"Users: {len(df)}")
     print(f"Graph edges above threshold: {graph.number_of_edges()}")
     print(f"Gale-Shapley bipartite rule: {partition_rule}")
-    print(f"Gale-Shapley group sizes: A={group_a_size}, B={group_b_size}")
+    print(f"Gale-Shapley group sizes: A={len(group_a)}, B={len(group_b)}")
+    print(f"Gale-Shapley conflicts resolved (sleep priority): {len(conflicts)}")
     print(f"Roommate pairs (max weight): {len(room_matches)}")
     print(f"Teammate pairs (Gale-Shapley): {len(team_matches)}")
     if room_matches:
