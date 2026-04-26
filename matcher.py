@@ -220,12 +220,43 @@ def gale_shapley_bipartite(
     return {a: b for b, a in engagement_b.items()}
 
 
-def teammate_matching_via_stable_marriage(graph: nx.Graph, users: List[str]) -> List[Tuple[str, str, float]]:
-    shuffled = users[:]
-    random.shuffle(shuffled)
-    mid = len(shuffled) // 2
-    group_a = shuffled[:mid]
-    group_b = shuffled[mid:]
+def build_bipartite_groups(df: pd.DataFrame) -> Tuple[List[str], List[str], str]:
+    """Create meaningful bipartite sets using lifestyle/personality attributes."""
+    if "user_id" not in df.columns:
+        raise ValueError("Input dataframe must contain 'user_id' column.")
+
+    users_df = df.copy()
+
+    # Primary rule: split by sleep schedule categories (day-vs-night lifestyle).
+    if "sleep_schedule" in users_df.columns:
+        schedule_series = users_df["sleep_schedule"].astype(str).str.strip()
+        unique_values = sorted({v for v in schedule_series if v and v.lower() != "nan"})
+        if len(unique_values) >= 2:
+            val_a, val_b = unique_values[0], unique_values[1]
+            group_a = users_df.loc[schedule_series == val_a, "user_id"].tolist()
+            group_b = users_df.loc[schedule_series == val_b, "user_id"].tolist()
+            if group_a and group_b:
+                return group_a, group_b, f"sleep_schedule split: {val_a} vs {val_b}"
+
+    # Fallback: split by median extraversion for meaningful social-style partitioning.
+    if "extraversion" in users_df.columns:
+        users_df["extraversion"] = pd.to_numeric(users_df["extraversion"], errors="coerce")
+        median_extraversion = float(users_df["extraversion"].median())
+        group_a = users_df.loc[users_df["extraversion"] <= median_extraversion, "user_id"].tolist()
+        group_b = users_df.loc[users_df["extraversion"] > median_extraversion, "user_id"].tolist()
+        if group_a and group_b:
+            return group_a, group_b, f"extraversion median split: <= {median_extraversion:.2f} vs > {median_extraversion:.2f}"
+
+    # Last fallback: deterministic split by sorted user_id.
+    sorted_users = sorted(users_df["user_id"].astype(str).tolist())
+    mid = len(sorted_users) // 2
+    return sorted_users[:mid], sorted_users[mid:], "deterministic user_id split"
+
+
+def teammate_matching_via_stable_marriage(
+    graph: nx.Graph, df: pd.DataFrame
+) -> Tuple[List[Tuple[str, str, float]], str, int, int]:
+    group_a, group_b, partition_rule = build_bipartite_groups(df)
 
     # Keep bipartite sides equal-sized for stable marriage assumptions.
     if len(group_b) > len(group_a):
@@ -248,7 +279,7 @@ def teammate_matching_via_stable_marriage(graph: nx.Graph, users: List[str]) -> 
     for a, b in matches.items():
         score = float(graph[a][b]["weight"]) if graph.has_edge(a, b) else 0.0
         result.append((a, b, score))
-    return sorted(result, key=lambda x: x[2], reverse=True)
+    return sorted(result, key=lambda x: x[2], reverse=True), partition_rule, len(group_a), len(group_b)
 
 
 def export_interactive_graph(graph: nx.Graph, output_path: Path) -> None:
@@ -284,7 +315,7 @@ def run_pipeline(cfg: MatchingConfig, csv_path: str | None) -> None:
     graph, edge_df = build_weighted_graph(df, cfg)
 
     room_matches = max_weight_roommate_matching(graph)
-    team_matches = teammate_matching_via_stable_marriage(graph, df["user_id"].tolist())
+    team_matches, partition_rule, group_a_size, group_b_size = teammate_matching_via_stable_marriage(graph, df)
 
     df.to_csv(out_dir / "profiles_used.csv", index=False)
     edge_df.to_csv(out_dir / "pair_scores.csv", index=False)
@@ -308,10 +339,14 @@ def run_pipeline(cfg: MatchingConfig, csv_path: str | None) -> None:
     print("Run complete.")
     print(f"Users: {len(df)}")
     print(f"Graph edges above threshold: {graph.number_of_edges()}")
+    print(f"Gale-Shapley bipartite rule: {partition_rule}")
+    print(f"Gale-Shapley group sizes: A={group_a_size}, B={group_b_size}")
     print(f"Roommate pairs (max weight): {len(room_matches)}")
     print(f"Teammate pairs (Gale-Shapley): {len(team_matches)}")
     if room_matches:
         print("Top roommate pair:", room_matches[0])
+    if team_matches:
+        print("Top teammate pair:", team_matches[0])
 
 
 def parse_args() -> MatchingConfig:
