@@ -5,6 +5,7 @@ import json
 import random
 from dataclasses import dataclass
 from pathlib import Path
+from collections import deque
 from typing import Dict, List, Tuple
 
 import networkx as nx
@@ -157,28 +158,64 @@ def max_weight_roommate_matching(graph: nx.Graph) -> List[Tuple[str, str, float]
     return sorted(result, key=lambda x: x[2], reverse=True)
 
 
-def gale_shapley_bipartite(preferences_a: Dict[str, List[str]], preferences_b: Dict[str, List[str]]) -> Dict[str, str]:
-    free_a = list(preferences_a.keys())
-    next_proposal_index = {a: 0 for a in preferences_a}
+def gale_shapley_bipartite(
+    preferences_a: Dict[str, List[str]], preferences_b: Dict[str, List[str]]
+) -> Dict[str, str]:
+    """Compute a stable matching for two disjoint sets using Gale-Shapley."""
+    group_a = list(preferences_a.keys())
+    group_b = list(preferences_b.keys())
+    set_a = set(group_a)
+    set_b = set(group_b)
+
+    # Keep only valid counterparts and remove duplicates while preserving order.
+    sanitized_a: Dict[str, List[str]] = {}
+    for a, pref in preferences_a.items():
+        seen: set[str] = set()
+        cleaned = []
+        for b in pref:
+            if b in set_b and b not in seen:
+                cleaned.append(b)
+                seen.add(b)
+        sanitized_a[a] = cleaned
+
+    rank_b: Dict[str, Dict[str, int]] = {}
+    for b, pref in preferences_b.items():
+        seen: set[str] = set()
+        cleaned = []
+        for a in pref:
+            if a in set_a and a not in seen:
+                cleaned.append(a)
+                seen.add(a)
+        ranking = {a: i for i, a in enumerate(cleaned)}
+        # Unlisted proposers are least preferred, but still comparable.
+        fallback_rank = len(cleaned)
+        for a in group_a:
+            ranking.setdefault(a, fallback_rank)
+        rank_b[b] = ranking
+
+    free_a = deque(group_a)
+    next_proposal_index = {a: 0 for a in group_a}
     engagement_b: Dict[str, str] = {}
-    rank_b = {b: {a: i for i, a in enumerate(pref_list)} for b, pref_list in preferences_b.items()}
 
     while free_a:
-        a = free_a.pop(0)
-        if next_proposal_index[a] >= len(preferences_a[a]):
+        a = free_a.popleft()
+        pref_list = sanitized_a.get(a, [])
+        if next_proposal_index[a] >= len(pref_list):
             continue
-        b = preferences_a[a][next_proposal_index[a]]
+
+        b = pref_list[next_proposal_index[a]]
         next_proposal_index[a] += 1
 
-        if b not in engagement_b:
+        current = engagement_b.get(b)
+        if current is None:
             engagement_b[b] = a
+            continue
+
+        if rank_b[b][a] < rank_b[b][current]:
+            engagement_b[b] = a
+            free_a.append(current)
         else:
-            current = engagement_b[b]
-            if rank_b[b][a] < rank_b[b][current]:
-                engagement_b[b] = a
-                free_a.append(current)
-            else:
-                free_a.append(a)
+            free_a.append(a)
 
     return {a: b for b, a in engagement_b.items()}
 
@@ -188,11 +225,13 @@ def teammate_matching_via_stable_marriage(graph: nx.Graph, users: List[str]) -> 
     random.shuffle(shuffled)
     mid = len(shuffled) // 2
     group_a = shuffled[:mid]
-    group_b = shuffled[mid : mid + mid]
+    group_b = shuffled[mid:]
 
-    if len(group_a) != len(group_b):
-        # Ignore one extra user if odd count; this keeps algorithm assumptions valid.
-        pass
+    # Keep bipartite sides equal-sized for stable marriage assumptions.
+    if len(group_b) > len(group_a):
+        group_b = group_b[: len(group_a)]
+    elif len(group_a) > len(group_b):
+        group_a = group_a[: len(group_b)]
 
     preferences_a = {}
     for a in group_a:
