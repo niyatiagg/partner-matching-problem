@@ -1,0 +1,5659 @@
+{
+  "actor_mode": "admin batch",
+  "mode": "roommate",
+  "region": "girls_pg_hostel_region",
+  "blossom_pairs": [
+    {
+      "user_a": "Crystal Perry",
+      "user_b": "Deborah Garner",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kendra Harrison",
+      "user_b": "Paula Gomez",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kathleen Buck",
+      "user_b": "Mary Owens",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Doris Miller",
+      "user_b": "Kimberly Morris",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Sarah Hernandez",
+      "user_b": "Monica Harris",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Cindy Hawkins",
+      "user_b": "Carly Leonard",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Angela Raymond",
+      "user_b": "Crystal Vega",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Cynthia Price",
+      "user_b": "Kathryn Gutierrez",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Sandra Thompson",
+      "user_b": "Cynthia Johnson",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Teresa Paul PhD",
+      "user_b": "Teresa Brennan",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Jill Williamson",
+      "user_b": "Elizabeth Gutierrez",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Rebecca Simon",
+      "user_b": "Diana Johnston",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Jennifer Norris",
+      "user_b": "Rebecca Cantrell",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Pamela Cherry",
+      "user_b": "Laurie Cisneros",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Mary Wilson",
+      "user_b": "Ann Davis",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Danielle Schaefer",
+      "user_b": "Kiara Vazquez",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Wanda Koch",
+      "user_b": "Courtney Allen",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Shelly Mosley",
+      "user_b": "Felicia Stokes",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Isabella Moore",
+      "user_b": "Chelsea Reed",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Jennifer Castro",
+      "user_b": "Jennifer Lawrence",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Leslie Clark",
+      "user_b": "Lori Adams",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Natasha Serrano",
+      "user_b": "Linda Christian",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Dorothy Cisneros",
+      "user_b": "Melissa Ball",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Paula Hubbard",
+      "user_b": "Tasha Sheppard",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Melissa Jacobs",
+      "user_b": "Alexis Jordan",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Heidi Graves",
+      "user_b": "Brandy Warren",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Tammy Gardner",
+      "user_b": "Karina Johnson",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Valerie Lewis",
+      "user_b": "Lauren Harris",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Donna Carroll",
+      "user_b": "Paula Irwin",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Samantha Sanders",
+      "user_b": "Christine Robinson",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Brenda Martinez",
+      "user_b": "Pamela Vasquez",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Miss Nancy Pierce",
+      "user_b": "Stephanie Meyers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Velasquez",
+      "user_b": "Rebecca Richardson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jaclyn Mathis",
+      "user_b": "Samantha Gross",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Pruitt",
+      "user_b": "Vanessa Case",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katie Smith",
+      "user_b": "Yvette Wilson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Emily Moran",
+      "user_b": "Dr. Erica Herrera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Henderson",
+      "user_b": "Renee Meza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katrina Hart",
+      "user_b": "Jennifer Nichols",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kristy Haynes",
+      "user_b": "Krystal Salas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Williams",
+      "user_b": "Amanda Short",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cindy Barajas",
+      "user_b": "Nicole Sheppard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Thompson",
+      "user_b": "Melissa Goodman",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Marks",
+      "user_b": "Elizabeth Carroll",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Nguyen",
+      "user_b": "Donna Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Cortez",
+      "user_b": "Shelley Davis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Evans",
+      "user_b": "Megan Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Johnson",
+      "user_b": "Jennifer Hammond",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Richard",
+      "user_b": "Jessica Sanders",
+      "score": 1.0
+    },
+    {
+      "user_a": "Briana Curry",
+      "user_b": "Melissa Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erin Webster",
+      "user_b": "Christina Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Collins",
+      "user_b": "Stephanie Hoffman",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tracy Martin",
+      "user_b": "Brandi Bailey",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen Madden",
+      "user_b": "Crystal Simmons",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Knapp",
+      "user_b": "Abigail Hamilton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tonya Stout",
+      "user_b": "Carolyn Waters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carolyn Alvarado",
+      "user_b": "Julie Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Brooks",
+      "user_b": "Erica Hernandez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Colleen White",
+      "user_b": "Maria Franco",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katie Walters",
+      "user_b": "Theresa Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katherine Ford",
+      "user_b": "Stephanie Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Ruiz",
+      "user_b": "Molly Flores",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Dawn Bradley MD",
+      "user_b": "Jane Fritz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna King",
+      "user_b": "Tracy Pope",
+      "score": 1.0
+    },
+    {
+      "user_a": "Joy Pruitt",
+      "user_b": "Monica Hart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Sanders",
+      "user_b": "Monique Rivera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Watson",
+      "user_b": "Sarah Tapia",
+      "score": 1.0
+    },
+    {
+      "user_a": "Claudia Marsh",
+      "user_b": "Allison Howard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Farmer",
+      "user_b": "Jessica Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Michele Gates",
+      "user_b": "Kathy Jones",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Fuller",
+      "user_b": "Katelyn Wilson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angie Moore",
+      "user_b": "Sophia Steele",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Gibson",
+      "user_b": "Kelly Stevens",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shelley Lewis",
+      "user_b": "Tammy Barnes",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tanya Shelton",
+      "user_b": "Joyce Sullivan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Hailey Roberts",
+      "user_b": "Katie Park",
+      "score": 1.0
+    },
+    {
+      "user_a": "Maria Stein",
+      "user_b": "Karen Barnett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tracey Davis",
+      "user_b": "Brittany Ingram",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathy Mccall",
+      "user_b": "Kimberly Cook",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jacqueline Miller",
+      "user_b": "Savannah Jimenez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Ochoa",
+      "user_b": "Ann Park",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erika Cruz",
+      "user_b": "Jennifer Munoz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Bauer",
+      "user_b": "Kelly White",
+      "score": 1.0
+    },
+    {
+      "user_a": "Heather Ponce",
+      "user_b": "Dawn Meyer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Warren",
+      "user_b": "Whitney Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Bryant",
+      "user_b": "Brianna Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jill Castaneda",
+      "user_b": "Jeanette Parker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lauren Parker",
+      "user_b": "Amy Nunez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stefanie Jackson",
+      "user_b": "Rebecca Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Tucker",
+      "user_b": "Nicole Monroe",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Barber",
+      "user_b": "Erin Price",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dawn Anderson",
+      "user_b": "Miranda Mason",
+      "score": 1.0
+    },
+    {
+      "user_a": "Haley Russell",
+      "user_b": "Rachel Mcfarland",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Russell",
+      "user_b": "Jenny Powell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Miss Lauren Johnson DDS",
+      "user_b": "Samantha Estes",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erin Baker",
+      "user_b": "Dana Cox",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jordan Ponce",
+      "user_b": "Marilyn Allen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Natalie Erickson",
+      "user_b": "Maria Randolph",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cheryl Jones",
+      "user_b": "Julie Neal",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Price",
+      "user_b": "Patricia Donovan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Rodriguez",
+      "user_b": "Jamie Ferguson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Misty Romero",
+      "user_b": "Rebecca Chambers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Gates",
+      "user_b": "Christy Kirk",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Campbell",
+      "user_b": "Elizabeth Aguilar",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alyssa Avila",
+      "user_b": "Donna Love",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dr. Danielle Carr DDS",
+      "user_b": "Brittany Pruitt",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Brown",
+      "user_b": "Dr. Angela Gaines",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mary Miller",
+      "user_b": "Sherry Bruce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Dunn",
+      "user_b": "Jessica Glass",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melody Hays",
+      "user_b": "Tiffany Richardson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rachel Gardner",
+      "user_b": "Stacy Sanchez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Hall",
+      "user_b": "Maria Hays",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kim Sanchez",
+      "user_b": "Amanda Clay",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erin King",
+      "user_b": "Christine Rice",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katherine Cox",
+      "user_b": "Barbara Evans",
+      "score": 1.0
+    },
+    {
+      "user_a": "Marilyn Coleman",
+      "user_b": "Michelle Little",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Tran",
+      "user_b": "Tracy Wong",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kristin Cruz",
+      "user_b": "Sandra Rasmussen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kara Flores DDS",
+      "user_b": "Nicole Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shannon Kramer",
+      "user_b": "Yvette Robertson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Thompson",
+      "user_b": "Jill Burns",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Simon",
+      "user_b": "Tabitha Palmer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Desiree Hayes",
+      "user_b": "Dawn Garza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alyssa Gilbert",
+      "user_b": "Katie Bell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leah Williams",
+      "user_b": "Brooke Moore DVM",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sharon Taylor DDS",
+      "user_b": "Chelsea Steele",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brooke Daniels",
+      "user_b": "Samantha Dillon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Moore",
+      "user_b": "Kimberly Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Paige Salinas",
+      "user_b": "Melanie Davis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Kane",
+      "user_b": "Melissa Howard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Paige Padilla",
+      "user_b": "Bonnie Hernandez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Hanson",
+      "user_b": "Jasmine Morrow",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nicole Hernandez",
+      "user_b": "Yvonne Neal",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shelley Thompson",
+      "user_b": "Anna Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Berg",
+      "user_b": "Tamara Leon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dawn Mendoza",
+      "user_b": "Leah Arnold",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Hammond",
+      "user_b": "Sarah Guzman",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Brown",
+      "user_b": "Ms. Paula Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ann Rodriguez",
+      "user_b": "Lisa Morrison",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Kimberly Jones MD",
+      "user_b": "Tina Ho",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cheryl Hill",
+      "user_b": "Judith Nguyen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Doris Dillon",
+      "user_b": "Emily Shea",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Campbell",
+      "user_b": "Alyssa Curtis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Spears",
+      "user_b": "Shelley Mayer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Jackson",
+      "user_b": "Elizabeth Fitzgerald",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Parker",
+      "user_b": "Rose Hernandez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tamara Jones",
+      "user_b": "Andrea Gonzalez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Weaver",
+      "user_b": "Tracy Moody",
+      "score": 1.0
+    },
+    {
+      "user_a": "Debbie Richards",
+      "user_b": "Kathleen Bryant",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katelyn Brown",
+      "user_b": "Jill Stewart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lindsey Duncan",
+      "user_b": "Lisa Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Tucker",
+      "user_b": "Molly Scott",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Webster",
+      "user_b": "Sabrina Adams",
+      "score": 1.0
+    },
+    {
+      "user_a": "Debra Graham",
+      "user_b": "Carol Fuller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shirley Mckinney DVM",
+      "user_b": "Tonya Matthews",
+      "score": 1.0
+    },
+    {
+      "user_a": "Pamela Yates",
+      "user_b": "Nicole Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amy Vincent",
+      "user_b": "Aimee Richardson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Annette Byrd",
+      "user_b": "Brittany Keller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stacey Holland",
+      "user_b": "Erin Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tara Moran",
+      "user_b": "Tammy Richard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Teresa Andrews",
+      "user_b": "Karen White",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mary Bowen",
+      "user_b": "Amber Morales",
+      "score": 1.0
+    },
+    {
+      "user_a": "Peggy Turner",
+      "user_b": "Sandy Vance",
+      "score": 1.0
+    },
+    {
+      "user_a": "Valerie Martinez",
+      "user_b": "Jennifer Hawkins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Barrera",
+      "user_b": "Kimberly Williamson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Kirk",
+      "user_b": "Dawn Collins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Pamela Roy",
+      "user_b": "Karen Rivera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Taylor",
+      "user_b": "Cheryl Meyers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Cain",
+      "user_b": "Shannon Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Holland",
+      "user_b": "Teresa Morrow",
+      "score": 1.0
+    },
+    {
+      "user_a": "Taylor Martinez",
+      "user_b": "Heather Torres",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katherine Wallace",
+      "user_b": "Kimberly Sherman",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kendra Shannon",
+      "user_b": "April Robinson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Middleton",
+      "user_b": "Chelsea Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Elizabeth Warner",
+      "user_b": "Alejandra Kirk",
+      "score": 1.0
+    },
+    {
+      "user_a": "Robin Garrison",
+      "user_b": "Sarah Howell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laurie Robertson",
+      "user_b": "Lisa Schwartz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna Williams",
+      "user_b": "Stephanie Colon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Lawrence",
+      "user_b": "Jennifer Williams",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dorothy Cameron",
+      "user_b": "Shelley Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Traci Harper",
+      "user_b": "Kaylee Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rachel Murillo",
+      "user_b": "Mallory Mcdaniel",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Summers",
+      "user_b": "Vicki Olson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brandi Hunt",
+      "user_b": "Ashley Bennett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Deborah Grant",
+      "user_b": "Renee Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Gail Brown",
+      "user_b": "Amber Hicks",
+      "score": 1.0
+    },
+    {
+      "user_a": "Beth Wallace",
+      "user_b": "Stephanie Wise",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ann Henderson",
+      "user_b": "Crystal Austin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Combs",
+      "user_b": "Mary Hall",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Parker",
+      "user_b": "Casey Spencer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Gabriella Johnson",
+      "user_b": "Deborah Higgins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Taylor Olson",
+      "user_b": "Mallory Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jaime Brown",
+      "user_b": "Monica Torres",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Donaldson",
+      "user_b": "Melinda Thompson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Mathis",
+      "user_b": "Julia Edwards",
+      "score": 1.0
+    },
+    {
+      "user_a": "Aimee Wright",
+      "user_b": "Melissa Doyle",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathleen Davis",
+      "user_b": "Janice Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Martin",
+      "user_b": "Colleen Rivera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sharon Contreras",
+      "user_b": "Diane Gibson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Johnson",
+      "user_b": "Samantha Walker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Simpson",
+      "user_b": "Anna Lang",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sharon Sullivan",
+      "user_b": "Crystal Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Sullivan",
+      "user_b": "Kelly Rivera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amy Wolfe",
+      "user_b": "Samantha Welch",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dawn Smith",
+      "user_b": "Christina Allen MD",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stacey Barber",
+      "user_b": "Melissa Hamilton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Baker",
+      "user_b": "Danielle Cardenas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Day",
+      "user_b": "Cassidy Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Valerie Lopez",
+      "user_b": "Ashley Dudley",
+      "score": 1.0
+    },
+    {
+      "user_a": "Michaela Mccarthy",
+      "user_b": "Jennifer Robinson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Miss Heather Bell",
+      "user_b": "Stephanie Arias",
+      "score": 1.0
+    },
+    {
+      "user_a": "Andrea Rogers",
+      "user_b": "Julia Weber",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Ramos",
+      "user_b": "Janet Turner",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carrie Roberts",
+      "user_b": "Kimberly Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tanya Black",
+      "user_b": "Jasmine Cook",
+      "score": 1.0
+    },
+    {
+      "user_a": "Linda Mills",
+      "user_b": "Laura Ramirez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melanie Meyer",
+      "user_b": "Sandra Nolan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Yvonne Page",
+      "user_b": "Kim Cunningham",
+      "score": 1.0
+    },
+    {
+      "user_a": "Robin Mitchell",
+      "user_b": "Lisa Hill",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Dalton",
+      "user_b": "Haley Gardner",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Erickson",
+      "user_b": "Donna Payne",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Dana Scott",
+      "user_b": "Michele Eaton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Robin Coleman",
+      "user_b": "Amanda Lloyd",
+      "score": 1.0
+    },
+    {
+      "user_a": "Valerie Adams",
+      "user_b": "Elizabeth Hall",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Mcclain",
+      "user_b": "Nicole Hanson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alyssa Freeman",
+      "user_b": "Tina Reynolds",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kim Barnett",
+      "user_b": "Courtney Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Cannon",
+      "user_b": "Mary Gonzalez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ruth Campbell",
+      "user_b": "Janet Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Ramirez",
+      "user_b": "Nancy Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jessica Walter",
+      "user_b": "Claudia Gomez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Veronica Nelson",
+      "user_b": "Jennifer Dillon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Michele Walton",
+      "user_b": "Andrea Nichols",
+      "score": 1.0
+    },
+    {
+      "user_a": "Diana Nichols",
+      "user_b": "Kelli Murphy",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Dana Jenkins",
+      "user_b": "Tamara Blair",
+      "score": 1.0
+    },
+    {
+      "user_a": "Emily Mason",
+      "user_b": "Alyssa Stephens",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amy Turner",
+      "user_b": "Amber Barrett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Hernandez",
+      "user_b": "Krystal Thomas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Deanna Young",
+      "user_b": "Kimberly White",
+      "score": 1.0
+    },
+    {
+      "user_a": "Colleen Sosa",
+      "user_b": "Monica Russell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Frye",
+      "user_b": "Marcia Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Lewis",
+      "user_b": "Haley Cameron",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christy Hernandez",
+      "user_b": "Angela Sandoval",
+      "score": 1.0
+    },
+    {
+      "user_a": "Wanda West",
+      "user_b": "Rachel Obrien",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Lane",
+      "user_b": "Kelly Houston",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leslie Coleman",
+      "user_b": "Angela Campos",
+      "score": 1.0
+    },
+    {
+      "user_a": "Michelle Brown",
+      "user_b": "Terri Davenport",
+      "score": 1.0
+    },
+    {
+      "user_a": "Heidi Ball",
+      "user_b": "Samantha Murray",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Hoover",
+      "user_b": "Katherine Dunn",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Castillo",
+      "user_b": "Jocelyn Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dana Walker",
+      "user_b": "Melanie Gillespie",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Stanley",
+      "user_b": "Karen Joyce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Johnson",
+      "user_b": "Nicole Chen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Maria Simmons",
+      "user_b": "Jamie Howell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lauren Benson",
+      "user_b": "Kimberly Gonzales",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebekah Oconnell",
+      "user_b": "Tiffany Rice",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Sanchez",
+      "user_b": "Susan Hansen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Patricia Galvan",
+      "user_b": "Carol Gonzalez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Duffy",
+      "user_b": "Amanda Myers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Liu",
+      "user_b": "Barbara Frost",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Ayala",
+      "user_b": "Sheri Perry",
+      "score": 1.0
+    },
+    {
+      "user_a": "Suzanne Sweeney",
+      "user_b": "Misty Holland",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lindsay Franklin",
+      "user_b": "Stephanie Gordon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dr. Sharon Juarez",
+      "user_b": "Alicia Glover",
+      "score": 1.0
+    },
+    {
+      "user_a": "Olivia Hansen",
+      "user_b": "Jennifer Jones",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sharon Carter",
+      "user_b": "Lisa West MD",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tracy Morrow",
+      "user_b": "Sara Lam",
+      "score": 1.0
+    },
+    {
+      "user_a": "Teresa Chapman",
+      "user_b": "Kathleen Schwartz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Martha Watson",
+      "user_b": "Angela Mason",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sharon Martin",
+      "user_b": "Jessica Benitez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Turner",
+      "user_b": "Tina Curtis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Vanessa Ross",
+      "user_b": "Michele Rocha",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Stevenson",
+      "user_b": "Shawna Carroll",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alison Knight",
+      "user_b": "Katie Gomez",
+      "score": 1.0
+    },
+    {
+      "user_a": "April Green",
+      "user_b": "Lori Reyes",
+      "score": 1.0
+    },
+    {
+      "user_a": "Maureen Lam",
+      "user_b": "Melanie Shaw",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Moore",
+      "user_b": "Christy Willis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Emily Floyd",
+      "user_b": "Hannah Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Huff",
+      "user_b": "Heather Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sonia Watson",
+      "user_b": "Stacy Simpson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Bartlett",
+      "user_b": "Kelly Peters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jasmine Barajas",
+      "user_b": "Lori Knight",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Briggs",
+      "user_b": "Christine Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Taylor",
+      "user_b": "Kimberly Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Torres",
+      "user_b": "Melissa Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julie Rangel",
+      "user_b": "Julie Simmons",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen Jones",
+      "user_b": "Caroline Murray",
+      "score": 1.0
+    },
+    {
+      "user_a": "Barbara Lee",
+      "user_b": "Christine Bennett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Veronica Alvarez",
+      "user_b": "Rebecca Woods",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathryn Hubbard DDS",
+      "user_b": "Kim Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Deanna Garrett",
+      "user_b": "Diana Ray",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Miller",
+      "user_b": "Julie Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mallory Lewis",
+      "user_b": "Tammy Sawyer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Lin",
+      "user_b": "Nicole Donovan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Melendez",
+      "user_b": "Cynthia Garcia",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shelia Holmes",
+      "user_b": "Brandy Williams",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alyssa Schneider",
+      "user_b": "Sierra Wallace",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shannon Farley",
+      "user_b": "Andrea Knight",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Allen",
+      "user_b": "Stephanie Morris",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Barajas",
+      "user_b": "Christine Jacobson DVM",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alison Owens",
+      "user_b": "Samantha Young",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexa Miller",
+      "user_b": "Stephanie Wolfe",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Edwards",
+      "user_b": "Kelly Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Emily Gould",
+      "user_b": "Stephanie Pacheco",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Hernandez",
+      "user_b": "Lisa Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Henson",
+      "user_b": "Nicole Lawson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Salinas",
+      "user_b": "Morgan Conley",
+      "score": 1.0
+    },
+    {
+      "user_a": "Summer Hughes",
+      "user_b": "Krista Sanchez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angelica May",
+      "user_b": "Kayla Moyer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kristine Griffith",
+      "user_b": "Cynthia Armstrong",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carol Montoya",
+      "user_b": "Angela Gutierrez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Whitney Moore",
+      "user_b": "Andrea Mcdaniel",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Hines",
+      "user_b": "Suzanne Harper",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Fuller",
+      "user_b": "April Pugh",
+      "score": 1.0
+    },
+    {
+      "user_a": "Beth Murphy",
+      "user_b": "Diane Blair",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leslie Brown",
+      "user_b": "Angela Mora",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jessica Winters",
+      "user_b": "Carrie Avila",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Jackson",
+      "user_b": "Tonya Jefferson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Linda Sheppard",
+      "user_b": "Sherry Nichols",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Holly Cook",
+      "user_b": "Marissa Kramer",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Regina Molina",
+      "user_b": "Haley Deleon",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Amanda Pratt",
+      "user_b": "Mary Sellers",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Lauren Chan",
+      "user_b": "Jamie Grant",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Robin Reed",
+      "user_b": "Kayla Ali",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Connie Hunter",
+      "user_b": "Victoria Hunter",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Diane Smith",
+      "user_b": "Lisa Perez",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Nicole Hancock",
+      "user_b": "Shannon Cox",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Phyllis Alvarez",
+      "user_b": "Ashley Jones",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Elizabeth Odonnell",
+      "user_b": "Linda Andrews",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Sharon Nguyen",
+      "user_b": "Mrs. Teresa Walsh",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Peggy Mendoza DDS",
+      "user_b": "Hannah Odom",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Miranda Madden",
+      "user_b": "Kathryn Pittman",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Elizabeth Pollard",
+      "user_b": "Nancy Lowe",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Amanda Ward",
+      "user_b": "Samantha Hanson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Lisa Case",
+      "user_b": "Paula Scott",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Destiny Mcintyre",
+      "user_b": "Jennifer Flores",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Lori Wiley",
+      "user_b": "Carol Johnson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Melissa Kirby",
+      "user_b": "Katherine Nguyen",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Destiny Jackson",
+      "user_b": "Sandra Snyder",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Emily Choi",
+      "user_b": "Julia Thornton",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Amanda Mullins",
+      "user_b": "Chelsea Sanders",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Nancy Jackson",
+      "user_b": "Jennifer Molina",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Karen Miller",
+      "user_b": "Diane Stanley",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Lauren Pearson",
+      "user_b": "Cassandra Campbell",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Hannah Kelly",
+      "user_b": "Brittany Lee",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Debra Buchanan",
+      "user_b": "Alison Carson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Jeanette Fernandez",
+      "user_b": "Roberta Hamilton",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Pamela Clayton",
+      "user_b": "Laura Villarreal",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Teresa Massey",
+      "user_b": "Shelly Miller",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Sandy Jones",
+      "user_b": "Alice Beck",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Lisa Molina",
+      "user_b": "Jessica Martinez",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Rebecca Vang",
+      "user_b": "Kayla Watkins",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Michelle Johnson",
+      "user_b": "Angela Ray",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Wanda Ferguson",
+      "user_b": "Meghan Bryan",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kaitlyn Moore",
+      "user_b": "Gina Bell",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Rachel Copeland DDS",
+      "user_b": "April Payne",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Mary Harmon",
+      "user_b": "Amanda Williams",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Christine Long",
+      "user_b": "Sara Cook",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Jacqueline Mcdonald",
+      "user_b": "Michele Peterson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Renee Gardner",
+      "user_b": "Jamie Vaughn",
+      "score": 0.9695718307168957
+    },
+    {
+      "user_a": "Karen Williams",
+      "user_b": "Leslie Rogers",
+      "score": 0.9694963485429857
+    },
+    {
+      "user_a": "Hailey Williamson",
+      "user_b": "Amy Vega",
+      "score": 0.9694963485429857
+    },
+    {
+      "user_a": "Laura Watson",
+      "user_b": "Molly Gonzalez",
+      "score": 0.9694615147450905
+    },
+    {
+      "user_a": "Anita Turner",
+      "user_b": "Dawn Garcia",
+      "score": 0.9694615147450905
+    },
+    {
+      "user_a": "Denise Bell",
+      "user_b": "Susan Cook",
+      "score": 0.9694508977167238
+    },
+    {
+      "user_a": "Tammy Mendoza",
+      "user_b": "Bonnie Smith",
+      "score": 0.9694508977167238
+    },
+    {
+      "user_a": "Carla Griffin",
+      "user_b": "Laurie Pitts",
+      "score": 0.9694454711387062
+    },
+    {
+      "user_a": "Elizabeth Shea",
+      "user_b": "Christina Mcintosh",
+      "score": 0.9437995196195637
+    },
+    {
+      "user_a": "Maria Gross",
+      "user_b": "Yvette Ramirez",
+      "score": 0.9435835315254658
+    },
+    {
+      "user_a": "Stephanie Morgan",
+      "user_b": "Amanda Bush",
+      "score": 0.9201760145005503
+    },
+    {
+      "user_a": "Kelly Vargas",
+      "user_b": "Cindy Ray",
+      "score": 0.8998671360309622
+    },
+    {
+      "user_a": "Anna Wiley",
+      "user_b": "Whitney Armstrong",
+      "score": 0.8
+    },
+    {
+      "user_a": "GIR_SELF_0752",
+      "user_b": "GIR_SELF_0753",
+      "score": 0.8
+    },
+    {
+      "user_a": "Lauren Flores",
+      "user_b": "Allison Stewart",
+      "score": 0.7849999999999999
+    },
+    {
+      "user_a": "Ashley Roth",
+      "user_b": "GIR_SELF_0751",
+      "score": 0.49026128266033253
+    }
+  ],
+  "gale_shapley_pairs": [
+    {
+      "user_a": "Tammy Mendoza",
+      "user_b": "Christine Ayala",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carla Griffin",
+      "user_b": "Katie Bell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Mason",
+      "user_b": "Allison Howard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Debra Buchanan",
+      "user_b": "Alison Carson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Ashley Bennett",
+      "user_b": "Lisa Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Tapia",
+      "user_b": "Jennifer Hawkins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Hailey Williamson",
+      "user_b": "Jennifer Williams",
+      "score": 1.0
+    },
+    {
+      "user_a": "Andrea Mcdaniel",
+      "user_b": "Morgan Conley",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Watson",
+      "user_b": "Jane Fritz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Grant",
+      "user_b": "Marissa Kramer",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Cynthia Johnson",
+      "user_b": "Karina Johnson",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Lauren Flores",
+      "user_b": "Diane Gibson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Chelsea Sanders",
+      "user_b": "Mrs. Teresa Walsh",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Barbara Evans",
+      "user_b": "Jasmine Cook",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Campos",
+      "user_b": "Whitney Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Morris",
+      "user_b": "Samantha Young",
+      "score": 1.0
+    },
+    {
+      "user_a": "Yvette Robertson",
+      "user_b": "Elizabeth Carroll",
+      "score": 1.0
+    },
+    {
+      "user_a": "Monica Torres",
+      "user_b": "Angela Mora",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Reyes",
+      "user_b": "Cheryl Meyers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Villarreal",
+      "user_b": "Nancy Lowe",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kimberly Clark",
+      "user_b": "Rachel Obrien",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Dudley",
+      "user_b": "Melanie Gillespie",
+      "score": 1.0
+    },
+    {
+      "user_a": "Claudia Gomez",
+      "user_b": "Michelle Little",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Colon",
+      "user_b": "Jenny Powell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melinda Thompson",
+      "user_b": "Miranda Mason",
+      "score": 1.0
+    },
+    {
+      "user_a": "Donna Payne",
+      "user_b": "Jessica Glass",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Cantrell",
+      "user_b": "Laurie Cisneros",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Julia Thornton",
+      "user_b": "Kayla Watkins",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Julie Neal",
+      "user_b": "Andrea Nichols",
+      "score": 1.0
+    },
+    {
+      "user_a": "Renee Gardner",
+      "user_b": "Roberta Hamilton",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tiffany Richardson",
+      "user_b": "Kaylee Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anita Turner",
+      "user_b": "Jeanette Parker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna Wiley",
+      "user_b": "Lori Adams",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Katie Gomez",
+      "user_b": "Vanessa Case",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Robinson",
+      "user_b": "Kathleen Schwartz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Shea",
+      "user_b": "Sandra Snyder",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Carolyn Waters",
+      "user_b": "Jocelyn Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Pacheco",
+      "user_b": "Nancy Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Paula Gomez",
+      "user_b": "Brandy Warren",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Karen Williams",
+      "user_b": "Kimberly Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Yvonne Neal",
+      "user_b": "Erin Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Nichols",
+      "user_b": "Krystal Thomas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Krystal Salas",
+      "user_b": "Jamie Ferguson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melanie Shaw",
+      "user_b": "Melissa Doyle",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen Rivera",
+      "user_b": "Courtney Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tammy Barnes",
+      "user_b": "Donna Love",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Martinez",
+      "user_b": "Stephanie Gordon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Walker",
+      "user_b": "Hannah Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Gutierrez",
+      "user_b": "Ann Davis",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Diana Johnston",
+      "user_b": "Linda Christian",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kelly Vargas",
+      "user_b": "Donna Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Weber",
+      "user_b": "Janet Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Austin",
+      "user_b": "Kelly Peters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dana Cox",
+      "user_b": "Terri Davenport",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ann Park",
+      "user_b": "Renee Meza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Dillon",
+      "user_b": "Maria Hays",
+      "score": 1.0
+    },
+    {
+      "user_a": "Denise Bell",
+      "user_b": "Nicole Chen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tammy Sawyer",
+      "user_b": "Jennifer Hammond",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nicole Donovan",
+      "user_b": "Julie Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Hamilton",
+      "user_b": "Samantha Dillon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Morgan",
+      "user_b": "Dawn Collins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Roth",
+      "user_b": "Tracy Moody",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erin Price",
+      "user_b": "Barbara Frost",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Wise",
+      "user_b": "Sophia Steele",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brittany Lee",
+      "user_b": "Jessica Martinez",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kimberly Morris",
+      "user_b": "Crystal Vega",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Brianna Smith",
+      "user_b": "Tina Reynolds",
+      "score": 1.0
+    },
+    {
+      "user_a": "Chelsea Anderson",
+      "user_b": "Nicole Lawson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Lloyd",
+      "user_b": "Jamie Howell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Chelsea Reed",
+      "user_b": "Paula Irwin",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Jennifer Molina",
+      "user_b": "Sherry Nichols",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Gina Bell",
+      "user_b": "Amanda Williams",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tammy Richard",
+      "user_b": "Stacy Simpson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Schwartz",
+      "user_b": "Melanie Davis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelli Murphy",
+      "user_b": "Brooke Moore DVM",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Smith",
+      "user_b": "Karen Joyce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Hoffman",
+      "user_b": "Molly Scott",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brittany Ingram",
+      "user_b": "Dawn Garza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathleen Bryant",
+      "user_b": "Tracy Wong",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Bennett",
+      "user_b": "Stephanie Henson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Clark",
+      "user_b": "Katelyn Wilson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Gutierrez",
+      "user_b": "Jennifer Jones",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Hill",
+      "user_b": "Danielle Cardenas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tonya Jefferson",
+      "user_b": "Deborah Higgins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen White",
+      "user_b": "Brandi Bailey",
+      "score": 1.0
+    },
+    {
+      "user_a": "Maria Randolph",
+      "user_b": "Alyssa Curtis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Casey Spencer",
+      "user_b": "Rebecca Richardson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Michele Peterson",
+      "user_b": "April Payne",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Elizabeth Aguilar",
+      "user_b": "Tonya Matthews",
+      "score": 1.0
+    },
+    {
+      "user_a": "Pamela Vasquez",
+      "user_b": "Lauren Harris",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Emily Shea",
+      "user_b": "Stephanie Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carly Leonard",
+      "user_b": "Deborah Garner",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Mary Owens",
+      "user_b": "Felicia Stokes",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Crystal Simmons",
+      "user_b": "Michele Rocha",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Robinson",
+      "user_b": "Maria Gross",
+      "score": 0.7902325581395349
+    },
+    {
+      "user_a": "Yvette Wilson",
+      "user_b": "Kelly White",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Meyers",
+      "user_b": "Shannon Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Meghan Bryan",
+      "user_b": "Paula Scott",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Chelsea Steele",
+      "user_b": "Samantha Gross",
+      "score": 1.0
+    },
+    {
+      "user_a": "Colleen Rivera",
+      "user_b": "Savannah Jimenez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Gonzales",
+      "user_b": "Mary Hall",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Howell",
+      "user_b": "Haley Cameron",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nicole Hanson",
+      "user_b": "Jamie Mcclain",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Ray",
+      "user_b": "Jennifer Flores",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Katherine Dunn",
+      "user_b": "Christina Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Bush",
+      "user_b": "Janet Turner",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandy Vance",
+      "user_b": "Kimberly Williamson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rose Hernandez",
+      "user_b": "Julie Simmons",
+      "score": 1.0
+    },
+    {
+      "user_a": "Monica Harris",
+      "user_b": "Teresa Brennan",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Christy Willis",
+      "user_b": "Lisa Morrison",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Middleton",
+      "user_b": "Michelle Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Lewis",
+      "user_b": "Robin Garrison",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Goodman",
+      "user_b": "Shelley Mayer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna Moore",
+      "user_b": "Vicki Olson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Judith Nguyen",
+      "user_b": "Heather Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Jackson",
+      "user_b": "Ashley Edwards",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Cook",
+      "user_b": "Haley Deleon",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tamara Leon",
+      "user_b": "Theresa Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mary Gonzalez",
+      "user_b": "Amanda Clay",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Jordan",
+      "user_b": "Kiara Vazquez",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Lisa Perez",
+      "user_b": "Samantha Hanson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Victoria Hunter",
+      "user_b": "Mary Sellers",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Cynthia Armstrong",
+      "user_b": "April Pugh",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tamara Blair",
+      "user_b": "Abigail Hamilton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cassandra Campbell",
+      "user_b": "Diane Stanley",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Donna Carroll",
+      "user_b": "Isabella Moore",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kimberly Cook",
+      "user_b": "Dr. Erica Herrera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Aimee Richardson",
+      "user_b": "Tina Ho",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Allen MD",
+      "user_b": "Sherry Bruce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathryn Gutierrez",
+      "user_b": "Cynthia Price",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Michele Eaton",
+      "user_b": "Rebecca Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly White",
+      "user_b": "Tabitha Palmer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Caroline Murray",
+      "user_b": "Karen Barnett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alejandra Kirk",
+      "user_b": "Amanda Myers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Vaughn",
+      "user_b": "Carolyn Alvarado",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Ball",
+      "user_b": "Tasha Sheppard",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Nicole Sheppard",
+      "user_b": "Nicole Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sabrina Adams",
+      "user_b": "Suzanne Harper",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nicole Anderson",
+      "user_b": "Kara Flores DDS",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Knapp",
+      "user_b": "Mrs. Dana Jenkins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Marcia Jackson",
+      "user_b": "Sonia Watson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tracy Pope",
+      "user_b": "Alyssa Stephens",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Woods",
+      "user_b": "Diane Blair",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Welch",
+      "user_b": "Mallory Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jessica Clark",
+      "user_b": "Joyce Sullivan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Sandoval",
+      "user_b": "Sheri Perry",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Jones",
+      "user_b": "Alice Beck",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Jessica Sanders",
+      "user_b": "Sarah Richard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Lawrence",
+      "user_b": "Christina Mcintosh",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Samantha Estes",
+      "user_b": "Tina Curtis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathy Jones",
+      "user_b": "Lisa West MD",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Short",
+      "user_b": "Megan Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Nolan",
+      "user_b": "Tiffany Rice",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Johnson",
+      "user_b": "Ann Rodriguez",
+      "score": 0.8269942334787427
+    },
+    {
+      "user_a": "Bonnie Hernandez",
+      "user_b": "Stephanie Wolfe",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Chambers",
+      "user_b": "Heather Torres",
+      "score": 1.0
+    },
+    {
+      "user_a": "Gabriella Johnson",
+      "user_b": "Laura Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brittany Pruitt",
+      "user_b": "Kelly Stevens",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Johnson",
+      "user_b": "Stacy Sanchez",
+      "score": 0.7972814498933902
+    },
+    {
+      "user_a": "Jill Burns",
+      "user_b": "Samantha Murray",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cassidy Perez",
+      "user_b": "Kimberly Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jessica Benitez",
+      "user_b": "Christine Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carol Gonzalez",
+      "user_b": "Katie Park",
+      "score": 1.0
+    },
+    {
+      "user_a": "Janice Taylor",
+      "user_b": "Shelley Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Fitzgerald",
+      "user_b": "Laurie Pitts",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carol Johnson",
+      "user_b": "Linda Andrews",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kimberly Gibson",
+      "user_b": "Dr. Danielle Carr DDS",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leah Arnold",
+      "user_b": "Lori Knight",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shannon Cox",
+      "user_b": "Cindy Ray",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Christine Jacobson DVM",
+      "user_b": "Andrea Gonzalez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amber Morales",
+      "user_b": "Emily Moran",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brandy Williams",
+      "user_b": "Monica Russell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Jacobs",
+      "user_b": "Valerie Lewis",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Shelly Miller",
+      "user_b": "Teresa Massey",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Rebekah Oconnell",
+      "user_b": "Melanie Meyer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Glover",
+      "user_b": "Stephanie Arias",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Sherman",
+      "user_b": "Anna Lang",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Hall",
+      "user_b": "Misty Holland",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Liu",
+      "user_b": "Rebecca Barber",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mallory Mcdaniel",
+      "user_b": "Lisa Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Rasmussen",
+      "user_b": "Teresa Morrow",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Hansen",
+      "user_b": "Kelly Rivera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Molly Gonzalez",
+      "user_b": "Katie Walters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Marilyn Allen",
+      "user_b": "Amber Barrett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amy Nunez",
+      "user_b": "Rachel Mcfarland",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dr. Angela Gaines",
+      "user_b": "Melissa Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Moore",
+      "user_b": "Maria Simmons",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathryn Pittman",
+      "user_b": "Katherine Nguyen",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Mallory Lewis",
+      "user_b": "Sandra Dunn",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Guzman",
+      "user_b": "Jennifer Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Valerie Adams",
+      "user_b": "Erin Webster",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jill Stewart",
+      "user_b": "Nicole Monroe",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jasmine Barajas",
+      "user_b": "Dawn Mendoza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Haley Gardner",
+      "user_b": "Ms. Paula Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Barajas",
+      "user_b": "Katherine Ford",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Simpson",
+      "user_b": "Katherine Wallace",
+      "score": 1.0
+    },
+    {
+      "user_a": "April Robinson",
+      "user_b": "Christine Rice",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Tran",
+      "user_b": "Debbie Richards",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sierra Wallace",
+      "user_b": "Brittany Keller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shawna Carroll",
+      "user_b": "Jennifer Munoz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Hernandez",
+      "user_b": "Rachel Murillo",
+      "score": 1.0
+    },
+    {
+      "user_a": "Whitney Armstrong",
+      "user_b": "Paula Hubbard",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Christina Simon",
+      "user_b": "Deanna Young",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Parker",
+      "user_b": "Amanda Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Robinson",
+      "user_b": "Courtney Allen",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Robin Coleman",
+      "user_b": "Brooke Daniels",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Ramirez",
+      "user_b": "Molly Flores",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shelly Mosley",
+      "user_b": "Kathleen Buck",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Dawn Meyer",
+      "user_b": "Christy Kirk",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erica Hernandez",
+      "user_b": "Carrie Avila",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Stevenson",
+      "user_b": "Colleen Sosa",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julie Taylor",
+      "user_b": "Susan Cook",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kim Cunningham",
+      "user_b": "Krista Sanchez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Miss Heather Bell",
+      "user_b": "Dr. Sharon Juarez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Raymond",
+      "user_b": "Doris Miller",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Elizabeth Odonnell",
+      "user_b": "Lori Wiley",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Doris Dillon",
+      "user_b": "Olivia Hansen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christy Hernandez",
+      "user_b": "Jaclyn Mathis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Fuller",
+      "user_b": "Nancy Torres",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amber Hicks",
+      "user_b": "Monica Hart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Briggs",
+      "user_b": "Sharon Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lauren Pearson",
+      "user_b": "Mary Harmon",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Angela Bartlett",
+      "user_b": "Ann Henderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Houston",
+      "user_b": "Haley Russell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Jackson",
+      "user_b": "Tanya Shelton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Maria Franco",
+      "user_b": "Colleen White",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kayla Ali",
+      "user_b": "Hannah Odom",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kim Sanchez",
+      "user_b": "Christine Cannon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Wanda Koch",
+      "user_b": "Samantha Sanders",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Patricia Donovan",
+      "user_b": "Leslie Rogers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shelley Davis",
+      "user_b": "Christina Cortez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erin Baker",
+      "user_b": "Jill Castaneda",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Hall",
+      "user_b": "Veronica Nelson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Annette Byrd",
+      "user_b": "Alyssa Schneider",
+      "score": 1.0
+    },
+    {
+      "user_a": "Miranda Madden",
+      "user_b": "Sandy Jones",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Dawn Garcia",
+      "user_b": "Samantha Gates",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Castro",
+      "user_b": "Teresa Paul PhD",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Shelia Holmes",
+      "user_b": "Dorothy Cameron",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tara Moran",
+      "user_b": "Kim Barnett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Lam",
+      "user_b": "Kim Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Kimberly Jones MD",
+      "user_b": "Amy Vincent",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Miller",
+      "user_b": "Elizabeth Tucker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sharon Taylor DDS",
+      "user_b": "Paige Salinas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cynthia Garcia",
+      "user_b": "Renee Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Combs",
+      "user_b": "Lauren Benson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Ruiz",
+      "user_b": "Donna Payne",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rachel Gardner",
+      "user_b": "Alexa Miller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Edwards",
+      "user_b": "Amy Vega",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stefanie Jackson",
+      "user_b": "Mrs. Dana Scott",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Sanchez",
+      "user_b": "Pamela Yates",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jasmine Morrow",
+      "user_b": "Ashley Hanson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Diana Ray",
+      "user_b": "Bonnie Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Beth Murphy",
+      "user_b": "Veronica Alvarez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Hoover",
+      "user_b": "Nancy Russell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Melendez",
+      "user_b": "Heidi Ball",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Holland",
+      "user_b": "Kristin Cruz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Huff",
+      "user_b": "Cheryl Hill",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Howard",
+      "user_b": "Nancy Kane",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathleen Davis",
+      "user_b": "Erika Cruz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Erickson",
+      "user_b": "Brenda Martinez",
+      "score": 0.9696000354733689
+    },
+    {
+      "user_a": "Andrea Knight",
+      "user_b": "Allison Stewart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kaitlyn Moore",
+      "user_b": "Destiny Jackson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Julie Rangel",
+      "user_b": "Alicia Parker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Day",
+      "user_b": "Taylor Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Phyllis Alvarez",
+      "user_b": "Destiny Mcintyre",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Emily Floyd",
+      "user_b": "Ashley Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carol Montoya",
+      "user_b": "Angela Nguyen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Pratt",
+      "user_b": "Connie Hunter",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Laurie Robertson",
+      "user_b": "Michele Walton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Summer Hughes",
+      "user_b": "Yvonne Page",
+      "score": 1.0
+    },
+    {
+      "user_a": "Yvette Ramirez",
+      "user_b": "Peggy Mendoza DDS",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Mary Miller",
+      "user_b": "Dawn Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Monique Rivera",
+      "user_b": "Julia Duffy",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Price",
+      "user_b": "Leah Williams",
+      "score": 1.0
+    },
+    {
+      "user_a": "April Green",
+      "user_b": "Mrs. Dawn Bradley MD",
+      "score": 1.0
+    },
+    {
+      "user_a": "Linda Mills",
+      "user_b": "Emily Mason",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Mathis",
+      "user_b": "Jessica Winters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Linda Sheppard",
+      "user_b": "Nancy Jackson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Nicole Hancock",
+      "user_b": "Regina Molina",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Anna Williams",
+      "user_b": "Christina Lawrence",
+      "score": 1.0
+    },
+    {
+      "user_a": "Misty Romero",
+      "user_b": "Carrie Roberts",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Marks",
+      "user_b": "Shannon Kramer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Campbell",
+      "user_b": "Natalie Erickson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Pamela Roy",
+      "user_b": "Alyssa Gilbert",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathy Mccall",
+      "user_b": "Sarah Bauer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dorothy Cisneros",
+      "user_b": "Natasha Serrano",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kathryn Hubbard DDS",
+      "user_b": "Tracy Morrow",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Tucker",
+      "user_b": "Katelyn Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amy Turner",
+      "user_b": "Jordan Ponce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Paige Padilla",
+      "user_b": "Samantha Salinas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Berg",
+      "user_b": "Vanessa Ross",
+      "score": 1.0
+    },
+    {
+      "user_a": "Robin Reed",
+      "user_b": "Amanda Ward",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Michelle Johnson",
+      "user_b": "Jeanette Fernandez",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Joy Pruitt",
+      "user_b": "Gail Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ruth Campbell",
+      "user_b": "Andrea Rogers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna King",
+      "user_b": "Alicia Fuller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Long",
+      "user_b": "Lisa Molina",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tamara Jones",
+      "user_b": "Stephanie Brown",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Kayla Moyer",
+      "user_b": "Carol Fuller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Pruitt",
+      "user_b": "Alison Knight",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shannon Farley",
+      "user_b": "Sharon Carter",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Turner",
+      "user_b": "Miss Lauren Johnson DDS",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Thompson",
+      "user_b": "Maria Stein",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rachel Copeland DDS",
+      "user_b": "Jacqueline Mcdonald",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Amanda Hines",
+      "user_b": "Samantha Webster",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cindy Barajas",
+      "user_b": "Stephanie Stanley",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lauren Parker",
+      "user_b": "Lori Evans",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angie Moore",
+      "user_b": "Beth Wallace",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Baker",
+      "user_b": "Robin Mitchell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Heather Ponce",
+      "user_b": "Hailey Roberts",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Elizabeth Warner",
+      "user_b": "Sandra Kirk",
+      "score": 1.0
+    },
+    {
+      "user_a": "Valerie Martinez",
+      "user_b": "Lisa Watson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Hannah Kelly",
+      "user_b": "Sharon Nguyen",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Erin King",
+      "user_b": "Kendra Shannon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jacqueline Miller",
+      "user_b": "Lori Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Diana Nichols",
+      "user_b": "Elizabeth Henderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mary Wilson",
+      "user_b": "Jill Williamson",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Tanya Black",
+      "user_b": "Katherine Cox",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen Jones",
+      "user_b": "Sara Ramos",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dana Walker",
+      "user_b": "Valerie Lopez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Diane Smith",
+      "user_b": "Lisa Case",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Sarah Hernandez",
+      "user_b": "Pamela Cherry",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Desiree Hayes",
+      "user_b": "Tracey Davis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Debra Graham",
+      "user_b": "Angelica May",
+      "score": 1.0
+    },
+    {
+      "user_a": "Patricia Galvan",
+      "user_b": "Jamie Rodriguez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Williams",
+      "user_b": "Amanda Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Collins",
+      "user_b": "Claudia Marsh",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cheryl Jones",
+      "user_b": "Deanna Garrett",
+      "score": 0.9694508977167238
+    },
+    {
+      "user_a": "Jamie Warren",
+      "user_b": "Leslie Coleman",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leslie Brown",
+      "user_b": "Jaime Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Frye",
+      "user_b": "Barbara Lee",
+      "score": 0.9694508977167238
+    },
+    {
+      "user_a": "Alyssa Freeman",
+      "user_b": "Melissa Bryant",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Farmer",
+      "user_b": "Aimee Wright",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Perry",
+      "user_b": "Cindy Hawkins",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Stephanie Hammond",
+      "user_b": "Lindsey Duncan",
+      "score": 0.9695192020945628
+    },
+    {
+      "user_a": "Stacey Holland",
+      "user_b": "Nicole Hernandez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katie Smith",
+      "user_b": "Kelly Castillo",
+      "score": 1.0
+    },
+    {
+      "user_a": "Teresa Chapman",
+      "user_b": "Michaela Mccarthy",
+      "score": 1.0
+    },
+    {
+      "user_a": "Marilyn Coleman",
+      "user_b": "Jessica Walter",
+      "score": 1.0
+    },
+    {
+      "user_a": "Suzanne Sweeney",
+      "user_b": "Rebecca Brooks",
+      "score": 0.9694963485429857
+    },
+    {
+      "user_a": "Kristy Haynes",
+      "user_b": "Sharon Sullivan",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Deborah Grant",
+      "user_b": "Alison Owens",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Karen Madden",
+      "user_b": "Tracy Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Ramirez",
+      "user_b": "Emily Gould",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Spears",
+      "user_b": "Stephanie Thompson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Dalton",
+      "user_b": "Taylor Olson",
+      "score": 0.9434869884205324
+    },
+    {
+      "user_a": "Holly Cook",
+      "user_b": "Lauren Chan",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Melissa Hernandez",
+      "user_b": "Katrina Hart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alyssa Avila",
+      "user_b": "Shelley Lewis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Barrera",
+      "user_b": "Peggy Turner",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Simon",
+      "user_b": "Tammy Gardner",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Michele Gates",
+      "user_b": "Christine Cain",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stacey Barber",
+      "user_b": "Kristine Griffith",
+      "score": 0.8612416813749595
+    },
+    {
+      "user_a": "Wanda Ferguson",
+      "user_b": "Elizabeth Pollard",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Rebecca Vang",
+      "user_b": "Emily Choi",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Laura Sanders",
+      "user_b": "Ashley Allen",
+      "score": 0.9432807363812614
+    },
+    {
+      "user_a": "Wanda West",
+      "user_b": "Kelly Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Ochoa",
+      "user_b": "Teresa Andrews",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Shirley Mckinney DVM",
+      "user_b": "Rebecca Campbell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tonya Stout",
+      "user_b": "Sharon Contreras",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lindsay Franklin",
+      "user_b": "Briana Curry",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Summers",
+      "user_b": "Shelley Thompson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brandi Hunt",
+      "user_b": "Karen Miller",
+      "score": 0.9695446315972378
+    },
+    {
+      "user_a": "Crystal Lin",
+      "user_b": "Traci Harper",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Velasquez",
+      "user_b": "Miss Nancy Pierce",
+      "score": 0.9432486498174775
+    },
+    {
+      "user_a": "Melody Hays",
+      "user_b": "Melissa Kirby",
+      "score": 0.9695718307168957
+    },
+    {
+      "user_a": "Pamela Clayton",
+      "user_b": "Heidi Graves",
+      "score": 0.9437995196195637
+    },
+    {
+      "user_a": "Sandra Thompson",
+      "user_b": "Dawn Anderson",
+      "score": 0.9006606251062714
+    },
+    {
+      "user_a": "Whitney Moore",
+      "user_b": "Jennifer Norris",
+      "score": 0.9696000354733689
+    },
+    {
+      "user_a": "Amy Wolfe",
+      "user_b": "Amanda Mullins",
+      "score": 0.9695446315972378
+    },
+    {
+      "user_a": "Mary Bowen",
+      "user_b": "Sarah Lane",
+      "score": 0.7545563769109649
+    },
+    {
+      "user_a": "Lori Weaver",
+      "user_b": "Alicia Sullivan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leslie Clark",
+      "user_b": "Danielle Schaefer",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kendra Harrison",
+      "user_b": "Maureen Lam",
+      "score": 0.8107919181288746
+    },
+    {
+      "user_a": "Alicia Donaldson",
+      "user_b": "Martha Watson",
+      "score": 0.9203123386779118
+    },
+    {
+      "user_a": "GIR_SELF_0751",
+      "user_b": "GIR_SELF_0752",
+      "score": 0.3776328443678856
+    },
+    {
+      "user_a": "GIR_SELF_0753",
+      "user_b": "GIR_SELF_0752",
+      "score": 0.8
+    }
+  ],
+  "irving_pairs": [
+    {
+      "user_a": "Tammy Mendoza",
+      "user_b": "Christine Ayala",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carla Griffin",
+      "user_b": "Katie Bell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Mason",
+      "user_b": "Allison Howard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Debra Buchanan",
+      "user_b": "Alison Carson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Ashley Bennett",
+      "user_b": "Lisa Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Tapia",
+      "user_b": "Jennifer Hawkins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Hailey Williamson",
+      "user_b": "Jennifer Williams",
+      "score": 1.0
+    },
+    {
+      "user_a": "Andrea Mcdaniel",
+      "user_b": "Morgan Conley",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Watson",
+      "user_b": "Jane Fritz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Grant",
+      "user_b": "Marissa Kramer",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Cynthia Johnson",
+      "user_b": "Karina Johnson",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Lauren Flores",
+      "user_b": "Diane Gibson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Chelsea Sanders",
+      "user_b": "Mrs. Teresa Walsh",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Barbara Evans",
+      "user_b": "Jasmine Cook",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Campos",
+      "user_b": "Whitney Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Morris",
+      "user_b": "Samantha Young",
+      "score": 1.0
+    },
+    {
+      "user_a": "Yvette Robertson",
+      "user_b": "Elizabeth Carroll",
+      "score": 1.0
+    },
+    {
+      "user_a": "Monica Torres",
+      "user_b": "Angela Mora",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Reyes",
+      "user_b": "Cheryl Meyers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Villarreal",
+      "user_b": "Nancy Lowe",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kimberly Clark",
+      "user_b": "Rachel Obrien",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Dudley",
+      "user_b": "Melanie Gillespie",
+      "score": 1.0
+    },
+    {
+      "user_a": "Claudia Gomez",
+      "user_b": "Michelle Little",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Colon",
+      "user_b": "Jenny Powell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melinda Thompson",
+      "user_b": "Miranda Mason",
+      "score": 1.0
+    },
+    {
+      "user_a": "Donna Payne",
+      "user_b": "Jessica Glass",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Cantrell",
+      "user_b": "Laurie Cisneros",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Julia Thornton",
+      "user_b": "Kayla Watkins",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Julie Neal",
+      "user_b": "Andrea Nichols",
+      "score": 1.0
+    },
+    {
+      "user_a": "Renee Gardner",
+      "user_b": "Roberta Hamilton",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tiffany Richardson",
+      "user_b": "Kaylee Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anita Turner",
+      "user_b": "Jeanette Parker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna Wiley",
+      "user_b": "Lori Adams",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Katie Gomez",
+      "user_b": "Vanessa Case",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Robinson",
+      "user_b": "Kathleen Schwartz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Shea",
+      "user_b": "Sandra Snyder",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Carolyn Waters",
+      "user_b": "Jocelyn Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Pacheco",
+      "user_b": "Nancy Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Paula Gomez",
+      "user_b": "Brandy Warren",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Karen Williams",
+      "user_b": "Kimberly Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Yvonne Neal",
+      "user_b": "Erin Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Nichols",
+      "user_b": "Krystal Thomas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Krystal Salas",
+      "user_b": "Jamie Ferguson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melanie Shaw",
+      "user_b": "Melissa Doyle",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen Rivera",
+      "user_b": "Courtney Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tammy Barnes",
+      "user_b": "Donna Love",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Martinez",
+      "user_b": "Stephanie Gordon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Walker",
+      "user_b": "Hannah Perez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Gutierrez",
+      "user_b": "Ann Davis",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Diana Johnston",
+      "user_b": "Linda Christian",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kelly Vargas",
+      "user_b": "Donna Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Weber",
+      "user_b": "Janet Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Austin",
+      "user_b": "Kelly Peters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dana Cox",
+      "user_b": "Terri Davenport",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ann Park",
+      "user_b": "Renee Meza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Dillon",
+      "user_b": "Maria Hays",
+      "score": 1.0
+    },
+    {
+      "user_a": "Denise Bell",
+      "user_b": "Nicole Chen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tammy Sawyer",
+      "user_b": "Jennifer Hammond",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nicole Donovan",
+      "user_b": "Julie Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Hamilton",
+      "user_b": "Samantha Dillon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Morgan",
+      "user_b": "Dawn Collins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Roth",
+      "user_b": "Tracy Moody",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erin Price",
+      "user_b": "Barbara Frost",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Wise",
+      "user_b": "Sophia Steele",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brittany Lee",
+      "user_b": "Jessica Martinez",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kimberly Morris",
+      "user_b": "Crystal Vega",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Brianna Smith",
+      "user_b": "Tina Reynolds",
+      "score": 1.0
+    },
+    {
+      "user_a": "Chelsea Anderson",
+      "user_b": "Nicole Lawson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Lloyd",
+      "user_b": "Jamie Howell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Chelsea Reed",
+      "user_b": "Paula Irwin",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Jennifer Molina",
+      "user_b": "Sherry Nichols",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Gina Bell",
+      "user_b": "Amanda Williams",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tammy Richard",
+      "user_b": "Stacy Simpson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Schwartz",
+      "user_b": "Melanie Davis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelli Murphy",
+      "user_b": "Brooke Moore DVM",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Smith",
+      "user_b": "Karen Joyce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Hoffman",
+      "user_b": "Molly Scott",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brittany Ingram",
+      "user_b": "Dawn Garza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathleen Bryant",
+      "user_b": "Tracy Wong",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Bennett",
+      "user_b": "Stephanie Henson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Clark",
+      "user_b": "Katelyn Wilson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Gutierrez",
+      "user_b": "Jennifer Jones",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Hill",
+      "user_b": "Danielle Cardenas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tonya Jefferson",
+      "user_b": "Deborah Higgins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen White",
+      "user_b": "Brandi Bailey",
+      "score": 1.0
+    },
+    {
+      "user_a": "Maria Randolph",
+      "user_b": "Alyssa Curtis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Casey Spencer",
+      "user_b": "Rebecca Richardson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Michele Peterson",
+      "user_b": "April Payne",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Elizabeth Aguilar",
+      "user_b": "Tonya Matthews",
+      "score": 1.0
+    },
+    {
+      "user_a": "Pamela Vasquez",
+      "user_b": "Lauren Harris",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Emily Shea",
+      "user_b": "Stephanie Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carly Leonard",
+      "user_b": "Deborah Garner",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Mary Owens",
+      "user_b": "Felicia Stokes",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Crystal Simmons",
+      "user_b": "Michele Rocha",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Robinson",
+      "user_b": "Maria Gross",
+      "score": 0.7902325581395349
+    },
+    {
+      "user_a": "Yvette Wilson",
+      "user_b": "Kelly White",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stephanie Meyers",
+      "user_b": "Shannon Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Meghan Bryan",
+      "user_b": "Paula Scott",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Chelsea Steele",
+      "user_b": "Samantha Gross",
+      "score": 1.0
+    },
+    {
+      "user_a": "Colleen Rivera",
+      "user_b": "Savannah Jimenez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Gonzales",
+      "user_b": "Mary Hall",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Howell",
+      "user_b": "Haley Cameron",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nicole Hanson",
+      "user_b": "Jamie Mcclain",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Ray",
+      "user_b": "Jennifer Flores",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Katherine Dunn",
+      "user_b": "Christina Clark",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Bush",
+      "user_b": "Janet Turner",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandy Vance",
+      "user_b": "Kimberly Williamson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rose Hernandez",
+      "user_b": "Julie Simmons",
+      "score": 1.0
+    },
+    {
+      "user_a": "Monica Harris",
+      "user_b": "Teresa Brennan",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Christy Willis",
+      "user_b": "Lisa Morrison",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Middleton",
+      "user_b": "Michelle Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Lewis",
+      "user_b": "Robin Garrison",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Goodman",
+      "user_b": "Shelley Mayer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna Moore",
+      "user_b": "Vicki Olson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Judith Nguyen",
+      "user_b": "Heather Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Jackson",
+      "user_b": "Ashley Edwards",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Cook",
+      "user_b": "Haley Deleon",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tamara Leon",
+      "user_b": "Theresa Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mary Gonzalez",
+      "user_b": "Amanda Clay",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Jordan",
+      "user_b": "Kiara Vazquez",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Lisa Perez",
+      "user_b": "Samantha Hanson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Victoria Hunter",
+      "user_b": "Mary Sellers",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Cynthia Armstrong",
+      "user_b": "April Pugh",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tamara Blair",
+      "user_b": "Abigail Hamilton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cassandra Campbell",
+      "user_b": "Diane Stanley",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Donna Carroll",
+      "user_b": "Isabella Moore",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kimberly Cook",
+      "user_b": "Dr. Erica Herrera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Aimee Richardson",
+      "user_b": "Tina Ho",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Allen MD",
+      "user_b": "Sherry Bruce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathryn Gutierrez",
+      "user_b": "Cynthia Price",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Michele Eaton",
+      "user_b": "Rebecca Phillips",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly White",
+      "user_b": "Tabitha Palmer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Caroline Murray",
+      "user_b": "Karen Barnett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alejandra Kirk",
+      "user_b": "Amanda Myers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Vaughn",
+      "user_b": "Carolyn Alvarado",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Ball",
+      "user_b": "Tasha Sheppard",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Nicole Sheppard",
+      "user_b": "Nicole Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sabrina Adams",
+      "user_b": "Suzanne Harper",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nicole Anderson",
+      "user_b": "Kara Flores DDS",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Knapp",
+      "user_b": "Mrs. Dana Jenkins",
+      "score": 1.0
+    },
+    {
+      "user_a": "Marcia Jackson",
+      "user_b": "Sonia Watson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tracy Pope",
+      "user_b": "Alyssa Stephens",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Woods",
+      "user_b": "Diane Blair",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Welch",
+      "user_b": "Mallory Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jessica Clark",
+      "user_b": "Joyce Sullivan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Sandoval",
+      "user_b": "Sheri Perry",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Jones",
+      "user_b": "Alice Beck",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Jessica Sanders",
+      "user_b": "Sarah Richard",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Lawrence",
+      "user_b": "Christina Mcintosh",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Samantha Estes",
+      "user_b": "Tina Curtis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathy Jones",
+      "user_b": "Lisa West MD",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Short",
+      "user_b": "Megan Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Nolan",
+      "user_b": "Tiffany Rice",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Johnson",
+      "user_b": "Ann Rodriguez",
+      "score": 0.8269942334787427
+    },
+    {
+      "user_a": "Bonnie Hernandez",
+      "user_b": "Stephanie Wolfe",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Chambers",
+      "user_b": "Heather Torres",
+      "score": 1.0
+    },
+    {
+      "user_a": "Gabriella Johnson",
+      "user_b": "Laura Jackson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brittany Pruitt",
+      "user_b": "Kelly Stevens",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Johnson",
+      "user_b": "Stacy Sanchez",
+      "score": 0.7972814498933902
+    },
+    {
+      "user_a": "Jill Burns",
+      "user_b": "Samantha Murray",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cassidy Perez",
+      "user_b": "Kimberly Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jessica Benitez",
+      "user_b": "Christine Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carol Gonzalez",
+      "user_b": "Katie Park",
+      "score": 1.0
+    },
+    {
+      "user_a": "Janice Taylor",
+      "user_b": "Shelley Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Fitzgerald",
+      "user_b": "Laurie Pitts",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carol Johnson",
+      "user_b": "Linda Andrews",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kimberly Gibson",
+      "user_b": "Dr. Danielle Carr DDS",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leah Arnold",
+      "user_b": "Lori Knight",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shannon Cox",
+      "user_b": "Cindy Ray",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Christine Jacobson DVM",
+      "user_b": "Andrea Gonzalez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amber Morales",
+      "user_b": "Emily Moran",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brandy Williams",
+      "user_b": "Monica Russell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Jacobs",
+      "user_b": "Valerie Lewis",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Shelly Miller",
+      "user_b": "Teresa Massey",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Rebekah Oconnell",
+      "user_b": "Melanie Meyer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Glover",
+      "user_b": "Stephanie Arias",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Sherman",
+      "user_b": "Anna Lang",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Hall",
+      "user_b": "Misty Holland",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Liu",
+      "user_b": "Rebecca Barber",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mallory Mcdaniel",
+      "user_b": "Lisa Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Rasmussen",
+      "user_b": "Teresa Morrow",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Hansen",
+      "user_b": "Kelly Rivera",
+      "score": 1.0
+    },
+    {
+      "user_a": "Molly Gonzalez",
+      "user_b": "Katie Walters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Marilyn Allen",
+      "user_b": "Amber Barrett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amy Nunez",
+      "user_b": "Rachel Mcfarland",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dr. Angela Gaines",
+      "user_b": "Melissa Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Moore",
+      "user_b": "Maria Simmons",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathryn Pittman",
+      "user_b": "Katherine Nguyen",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Mallory Lewis",
+      "user_b": "Sandra Dunn",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Guzman",
+      "user_b": "Jennifer Moore",
+      "score": 1.0
+    },
+    {
+      "user_a": "Valerie Adams",
+      "user_b": "Erin Webster",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jill Stewart",
+      "user_b": "Nicole Monroe",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jasmine Barajas",
+      "user_b": "Dawn Mendoza",
+      "score": 1.0
+    },
+    {
+      "user_a": "Haley Gardner",
+      "user_b": "Ms. Paula Anderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Barajas",
+      "user_b": "Katherine Ford",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Simpson",
+      "user_b": "Katherine Wallace",
+      "score": 1.0
+    },
+    {
+      "user_a": "April Robinson",
+      "user_b": "Christine Rice",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Tran",
+      "user_b": "Debbie Richards",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sierra Wallace",
+      "user_b": "Brittany Keller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shawna Carroll",
+      "user_b": "Jennifer Munoz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Hernandez",
+      "user_b": "Rachel Murillo",
+      "score": 1.0
+    },
+    {
+      "user_a": "Whitney Armstrong",
+      "user_b": "Paula Hubbard",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Christina Simon",
+      "user_b": "Deanna Young",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Parker",
+      "user_b": "Amanda Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Robinson",
+      "user_b": "Courtney Allen",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Robin Coleman",
+      "user_b": "Brooke Daniels",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Ramirez",
+      "user_b": "Molly Flores",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shelly Mosley",
+      "user_b": "Kathleen Buck",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Dawn Meyer",
+      "user_b": "Christy Kirk",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erica Hernandez",
+      "user_b": "Carrie Avila",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sandra Stevenson",
+      "user_b": "Colleen Sosa",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julie Taylor",
+      "user_b": "Susan Cook",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kim Cunningham",
+      "user_b": "Krista Sanchez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Miss Heather Bell",
+      "user_b": "Dr. Sharon Juarez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Raymond",
+      "user_b": "Doris Miller",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Elizabeth Odonnell",
+      "user_b": "Lori Wiley",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Doris Dillon",
+      "user_b": "Olivia Hansen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christy Hernandez",
+      "user_b": "Jaclyn Mathis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Fuller",
+      "user_b": "Nancy Torres",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amber Hicks",
+      "user_b": "Monica Hart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ashley Briggs",
+      "user_b": "Sharon Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lauren Pearson",
+      "user_b": "Mary Harmon",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Angela Bartlett",
+      "user_b": "Ann Henderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Houston",
+      "user_b": "Haley Russell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Elizabeth Jackson",
+      "user_b": "Tanya Shelton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Maria Franco",
+      "user_b": "Colleen White",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kayla Ali",
+      "user_b": "Hannah Odom",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Kim Sanchez",
+      "user_b": "Christine Cannon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Wanda Koch",
+      "user_b": "Samantha Sanders",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Patricia Donovan",
+      "user_b": "Leslie Rogers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shelley Davis",
+      "user_b": "Christina Cortez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Erin Baker",
+      "user_b": "Jill Castaneda",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Hall",
+      "user_b": "Veronica Nelson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Annette Byrd",
+      "user_b": "Alyssa Schneider",
+      "score": 1.0
+    },
+    {
+      "user_a": "Miranda Madden",
+      "user_b": "Sandy Jones",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Dawn Garcia",
+      "user_b": "Samantha Gates",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Castro",
+      "user_b": "Teresa Paul PhD",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Shelia Holmes",
+      "user_b": "Dorothy Cameron",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tara Moran",
+      "user_b": "Kim Barnett",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Lam",
+      "user_b": "Kim Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Kimberly Jones MD",
+      "user_b": "Amy Vincent",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Miller",
+      "user_b": "Elizabeth Tucker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sharon Taylor DDS",
+      "user_b": "Paige Salinas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cynthia Garcia",
+      "user_b": "Renee Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jamie Combs",
+      "user_b": "Lauren Benson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sarah Ruiz",
+      "user_b": "Donna Payne",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rachel Gardner",
+      "user_b": "Alexa Miller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Edwards",
+      "user_b": "Amy Vega",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stefanie Jackson",
+      "user_b": "Mrs. Dana Scott",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Sanchez",
+      "user_b": "Pamela Yates",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jasmine Morrow",
+      "user_b": "Ashley Hanson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Diana Ray",
+      "user_b": "Bonnie Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Beth Murphy",
+      "user_b": "Veronica Alvarez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Hoover",
+      "user_b": "Nancy Russell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Melendez",
+      "user_b": "Heidi Ball",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Holland",
+      "user_b": "Kristin Cruz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jennifer Huff",
+      "user_b": "Cheryl Hill",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Howard",
+      "user_b": "Nancy Kane",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathleen Davis",
+      "user_b": "Erika Cruz",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angela Erickson",
+      "user_b": "Brenda Martinez",
+      "score": 0.9696000354733689
+    },
+    {
+      "user_a": "Andrea Knight",
+      "user_b": "Allison Stewart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kaitlyn Moore",
+      "user_b": "Destiny Jackson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Julie Rangel",
+      "user_b": "Alicia Parker",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Day",
+      "user_b": "Taylor Martinez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Phyllis Alvarez",
+      "user_b": "Destiny Mcintyre",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Emily Floyd",
+      "user_b": "Ashley Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Carol Montoya",
+      "user_b": "Angela Nguyen",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Pratt",
+      "user_b": "Connie Hunter",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Laurie Robertson",
+      "user_b": "Michele Walton",
+      "score": 1.0
+    },
+    {
+      "user_a": "Summer Hughes",
+      "user_b": "Yvonne Page",
+      "score": 1.0
+    },
+    {
+      "user_a": "Yvette Ramirez",
+      "user_b": "Peggy Mendoza DDS",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Mary Miller",
+      "user_b": "Dawn Smith",
+      "score": 1.0
+    },
+    {
+      "user_a": "Monique Rivera",
+      "user_b": "Julia Duffy",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Price",
+      "user_b": "Leah Williams",
+      "score": 1.0
+    },
+    {
+      "user_a": "April Green",
+      "user_b": "Mrs. Dawn Bradley MD",
+      "score": 1.0
+    },
+    {
+      "user_a": "Linda Mills",
+      "user_b": "Emily Mason",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alexis Mathis",
+      "user_b": "Jessica Winters",
+      "score": 1.0
+    },
+    {
+      "user_a": "Linda Sheppard",
+      "user_b": "Nancy Jackson",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Nicole Hancock",
+      "user_b": "Regina Molina",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Anna Williams",
+      "user_b": "Christina Lawrence",
+      "score": 1.0
+    },
+    {
+      "user_a": "Misty Romero",
+      "user_b": "Carrie Roberts",
+      "score": 1.0
+    },
+    {
+      "user_a": "Julia Marks",
+      "user_b": "Shannon Kramer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amanda Campbell",
+      "user_b": "Natalie Erickson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Pamela Roy",
+      "user_b": "Alyssa Gilbert",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kathy Mccall",
+      "user_b": "Sarah Bauer",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dorothy Cisneros",
+      "user_b": "Natasha Serrano",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kathryn Hubbard DDS",
+      "user_b": "Tracy Morrow",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Tucker",
+      "user_b": "Katelyn Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Amy Turner",
+      "user_b": "Jordan Ponce",
+      "score": 1.0
+    },
+    {
+      "user_a": "Paige Padilla",
+      "user_b": "Samantha Salinas",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kelly Berg",
+      "user_b": "Vanessa Ross",
+      "score": 1.0
+    },
+    {
+      "user_a": "Robin Reed",
+      "user_b": "Amanda Ward",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Michelle Johnson",
+      "user_b": "Jeanette Fernandez",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Joy Pruitt",
+      "user_b": "Gail Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Ruth Campbell",
+      "user_b": "Andrea Rogers",
+      "score": 1.0
+    },
+    {
+      "user_a": "Anna King",
+      "user_b": "Alicia Fuller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christine Long",
+      "user_b": "Lisa Molina",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Tamara Jones",
+      "user_b": "Stephanie Brown",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Kayla Moyer",
+      "user_b": "Carol Fuller",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Pruitt",
+      "user_b": "Alison Knight",
+      "score": 1.0
+    },
+    {
+      "user_a": "Shannon Farley",
+      "user_b": "Sharon Carter",
+      "score": 1.0
+    },
+    {
+      "user_a": "Christina Turner",
+      "user_b": "Miss Lauren Johnson DDS",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Thompson",
+      "user_b": "Maria Stein",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rachel Copeland DDS",
+      "user_b": "Jacqueline Mcdonald",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Amanda Hines",
+      "user_b": "Samantha Webster",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cindy Barajas",
+      "user_b": "Stephanie Stanley",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lauren Parker",
+      "user_b": "Lori Evans",
+      "score": 1.0
+    },
+    {
+      "user_a": "Angie Moore",
+      "user_b": "Beth Wallace",
+      "score": 1.0
+    },
+    {
+      "user_a": "Susan Baker",
+      "user_b": "Robin Mitchell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Heather Ponce",
+      "user_b": "Hailey Roberts",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mrs. Elizabeth Warner",
+      "user_b": "Sandra Kirk",
+      "score": 1.0
+    },
+    {
+      "user_a": "Valerie Martinez",
+      "user_b": "Lisa Watson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Hannah Kelly",
+      "user_b": "Sharon Nguyen",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Erin King",
+      "user_b": "Kendra Shannon",
+      "score": 1.0
+    },
+    {
+      "user_a": "Jacqueline Miller",
+      "user_b": "Lori Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Diana Nichols",
+      "user_b": "Elizabeth Henderson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Mary Wilson",
+      "user_b": "Jill Williamson",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Tanya Black",
+      "user_b": "Katherine Cox",
+      "score": 1.0
+    },
+    {
+      "user_a": "Karen Jones",
+      "user_b": "Sara Ramos",
+      "score": 1.0
+    },
+    {
+      "user_a": "Dana Walker",
+      "user_b": "Valerie Lopez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Diane Smith",
+      "user_b": "Lisa Case",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Sarah Hernandez",
+      "user_b": "Pamela Cherry",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Desiree Hayes",
+      "user_b": "Tracey Davis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Debra Graham",
+      "user_b": "Angelica May",
+      "score": 1.0
+    },
+    {
+      "user_a": "Patricia Galvan",
+      "user_b": "Jamie Rodriguez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lisa Williams",
+      "user_b": "Amanda Johnson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Laura Collins",
+      "user_b": "Claudia Marsh",
+      "score": 1.0
+    },
+    {
+      "user_a": "Cheryl Jones",
+      "user_b": "Deanna Garrett",
+      "score": 0.9694508977167238
+    },
+    {
+      "user_a": "Jamie Warren",
+      "user_b": "Leslie Coleman",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leslie Brown",
+      "user_b": "Jaime Brown",
+      "score": 1.0
+    },
+    {
+      "user_a": "Nancy Frye",
+      "user_b": "Barbara Lee",
+      "score": 0.9694508977167238
+    },
+    {
+      "user_a": "Alyssa Freeman",
+      "user_b": "Melissa Bryant",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Farmer",
+      "user_b": "Aimee Wright",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Perry",
+      "user_b": "Cindy Hawkins",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Stephanie Hammond",
+      "user_b": "Lindsey Duncan",
+      "score": 0.9695192020945628
+    },
+    {
+      "user_a": "Stacey Holland",
+      "user_b": "Nicole Hernandez",
+      "score": 1.0
+    },
+    {
+      "user_a": "Katie Smith",
+      "user_b": "Kelly Castillo",
+      "score": 1.0
+    },
+    {
+      "user_a": "Teresa Chapman",
+      "user_b": "Michaela Mccarthy",
+      "score": 1.0
+    },
+    {
+      "user_a": "Marilyn Coleman",
+      "user_b": "Jessica Walter",
+      "score": 1.0
+    },
+    {
+      "user_a": "Suzanne Sweeney",
+      "user_b": "Rebecca Brooks",
+      "score": 0.9694963485429857
+    },
+    {
+      "user_a": "Kristy Haynes",
+      "user_b": "Sharon Sullivan",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Deborah Grant",
+      "user_b": "Alison Owens",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Karen Madden",
+      "user_b": "Tracy Martin",
+      "score": 1.0
+    },
+    {
+      "user_a": "Crystal Ramirez",
+      "user_b": "Emily Gould",
+      "score": 1.0
+    },
+    {
+      "user_a": "Melissa Spears",
+      "user_b": "Stephanie Thompson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Kimberly Dalton",
+      "user_b": "Taylor Olson",
+      "score": 0.9434869884205324
+    },
+    {
+      "user_a": "Holly Cook",
+      "user_b": "Lauren Chan",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Melissa Hernandez",
+      "user_b": "Katrina Hart",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alyssa Avila",
+      "user_b": "Shelley Lewis",
+      "score": 1.0
+    },
+    {
+      "user_a": "Sara Barrera",
+      "user_b": "Peggy Turner",
+      "score": 1.0
+    },
+    {
+      "user_a": "Rebecca Simon",
+      "user_b": "Tammy Gardner",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Michele Gates",
+      "user_b": "Christine Cain",
+      "score": 1.0
+    },
+    {
+      "user_a": "Stacey Barber",
+      "user_b": "Kristine Griffith",
+      "score": 0.8612416813749595
+    },
+    {
+      "user_a": "Wanda Ferguson",
+      "user_b": "Elizabeth Pollard",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Rebecca Vang",
+      "user_b": "Emily Choi",
+      "score": 0.9999999999999998
+    },
+    {
+      "user_a": "Laura Sanders",
+      "user_b": "Ashley Allen",
+      "score": 0.9432807363812614
+    },
+    {
+      "user_a": "Wanda West",
+      "user_b": "Kelly Taylor",
+      "score": 1.0
+    },
+    {
+      "user_a": "Alicia Ochoa",
+      "user_b": "Teresa Andrews",
+      "score": 0.9694768724254887
+    },
+    {
+      "user_a": "Shirley Mckinney DVM",
+      "user_b": "Rebecca Campbell",
+      "score": 1.0
+    },
+    {
+      "user_a": "Tonya Stout",
+      "user_b": "Sharon Contreras",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lindsay Franklin",
+      "user_b": "Briana Curry",
+      "score": 1.0
+    },
+    {
+      "user_a": "Lori Summers",
+      "user_b": "Shelley Thompson",
+      "score": 1.0
+    },
+    {
+      "user_a": "Brandi Hunt",
+      "user_b": "Karen Miller",
+      "score": 0.9695446315972378
+    },
+    {
+      "user_a": "Crystal Lin",
+      "user_b": "Traci Harper",
+      "score": 1.0
+    },
+    {
+      "user_a": "Samantha Velasquez",
+      "user_b": "Miss Nancy Pierce",
+      "score": 0.9432486498174775
+    },
+    {
+      "user_a": "Melody Hays",
+      "user_b": "Melissa Kirby",
+      "score": 0.9695718307168957
+    },
+    {
+      "user_a": "Pamela Clayton",
+      "user_b": "Heidi Graves",
+      "score": 0.9437995196195637
+    },
+    {
+      "user_a": "Sandra Thompson",
+      "user_b": "Dawn Anderson",
+      "score": 0.9006606251062714
+    },
+    {
+      "user_a": "Whitney Moore",
+      "user_b": "Jennifer Norris",
+      "score": 0.9696000354733689
+    },
+    {
+      "user_a": "Amy Wolfe",
+      "user_b": "Amanda Mullins",
+      "score": 0.9695446315972378
+    },
+    {
+      "user_a": "Mary Bowen",
+      "user_b": "Sarah Lane",
+      "score": 0.7545563769109649
+    },
+    {
+      "user_a": "Lori Weaver",
+      "user_b": "Alicia Sullivan",
+      "score": 1.0
+    },
+    {
+      "user_a": "Leslie Clark",
+      "user_b": "Danielle Schaefer",
+      "score": 1.0000000000000002
+    },
+    {
+      "user_a": "Kendra Harrison",
+      "user_b": "Maureen Lam",
+      "score": 0.8107919181288746
+    },
+    {
+      "user_a": "Alicia Donaldson",
+      "user_b": "Martha Watson",
+      "score": 0.9203123386779118
+    },
+    {
+      "user_a": "GIR_SELF_0751",
+      "user_b": "GIR_SELF_0752",
+      "score": 0.3776328443678856
+    },
+    {
+      "user_a": "GIR_SELF_0753",
+      "user_b": "GIR_SELF_0752",
+      "score": 0.8
+    }
+  ],
+  "blossom_note": "No fallback needed; algorithm output already covered all users.",
+  "gale_shapley_note": "Fallback used for 377 assignment(s): when strict algorithm pairs were incomplete, best-score completion was applied.",
+  "irving_note": "Irving skipped on large pool; used complete fallback pairing."
+}

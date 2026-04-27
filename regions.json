@@ -1,0 +1,12 @@
+{
+  "synthetic_region": {
+    "type": "synthetic"
+  },
+  "girls_pg_hostel_region": {
+    "type": "csv",
+    "path": "Girls_pg_hostel_CSV_data-1.csv"
+  },
+  "new town 1": {
+    "type": "synthetic"
+  }
+}

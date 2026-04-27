@@ -1,0 +1,15 @@
+{
+  "mode": "roommate",
+  "region": "girls_pg_hostel_region",
+  "blossom_max_weight_matching": [
+    {
+      "user_a": "GIR_SELF_0753",
+      "user_b": "GIR_SELF_0752",
+      "score": 0.9133333333333333
+    }
+  ],
+  "gale_shapley_matching": [],
+  "irving_stable_roommates": [],
+  "irving_status": "no stable matching found",
+  "irving_note": "Irving found no globally stable roommate matching for this pool. This can happen mathematically even when good weighted matches exist."
+}

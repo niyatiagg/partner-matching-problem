@@ -1,0 +1,751 @@
+user_name,work_shift,profession,personality,cleanliness,bedtime,wake_time,sleep_type,noise_preference,social_energy_rating,room_type_preference,privacy_importance,pets,smoking_drinking,dietary_restrictions
+Tammy Mendoza,Night,Engineer,Introvert,Both,10 PM,7 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,Has Dog,Okay with Roommate's Habits,Jain
+Carla Griffin,Morning,Developer,Introvert,Organised,11 PM,6 AM,Light Sleeper,Quiet,2,Private Room,Low,No Pets,Smoker,Non-Vegetarian
+Angela Mason,Night,Supporting Staff,Extrovert,Both,11 PM,9 AM,Heavy Sleeper,Noisy,3,Private Room,High,Has Cat,Drinker,Jain
+Katie Bell,Evening,Nurse,Extrovert,Both,1 AM,9 AM,Light Sleeper,Quiet,2,Private Room,Low,Has Cat,Drinker,No Restrictions
+Debra Buchanan,Night,Engineer,Extrovert,Organised,9 PM,5 AM,Heavy Sleeper,Quiet,8,Private Room,High,Okay with Roommate's Pets,Smoker,Non-Vegetarian
+Ashley Bennett,Morning,Nurse,Extrovert,Both,10 PM,8 AM,Heavy Sleeper,Quiet,7,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,No Restrictions
+Sarah Tapia,Evening,Customer Support,Introvert,Both,1 AM,9 AM,Heavy Sleeper,Noisy,3,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Hailey Williamson,Evening,Supporting Staff,Extrovert,Organised,1 AM,8 AM,Light Sleeper,Noisy,5,Private Room,High,No Pets,Drinker,Vegetarian
+Christine Ayala,Evening,Engineer,Extrovert,Both,10 PM,8 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Andrea Mcdaniel,Evening,Developer,Introvert,Both,1 AM,5 AM,Heavy Sleeper,Noisy,9,Shared Room,Medium,Has Dog,Drinker,Non-Vegetarian
+Jennifer Williams,Evening,Developer,Extrovert,Messy,11 PM,8 AM,Light Sleeper,Noisy,5,Private Room,High,No Pets,Both,Vegetarian
+Allison Howard,Night,Supporting Staff,Extrovert,Organised,9 PM,5 AM,Light Sleeper,Noisy,3,Private Room,High,No Pets,Smoker,Non-Vegetarian
+Laura Watson,Evening,Developer,Introvert,Organised,9 PM,9 AM,Light Sleeper,Quiet,3,Shared Room,Medium,Has Cat,Both,Vegan
+Jamie Grant,Morning,Developer,Extrovert,Both,1 AM,9 AM,Heavy Sleeper,Noisy,8,Private Room,Medium,Has Dog,Drinker,Jain
+Alison Carson,Evening,Supporting Staff,Introvert,Organised,9 PM,9 AM,Light Sleeper,Noisy,8,Private Room,High,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Cynthia Johnson,Evening,Supporting Staff,Introvert,Messy,11 PM,5 AM,Light Sleeper,Quiet,10,Private Room,High,No Pets,Both,Vegetarian
+Lauren Flores,Evening,Supporting Staff,Introvert,Organised,10 PM,9 AM,Heavy Sleeper,Noisy,1,Shared Room,High,No Pets,Non-Smoker/Non-Drinker,Jain
+Chelsea Sanders,Evening,Customer Support,Introvert,Organised,11 PM,7 AM,Light Sleeper,Quiet,8,Shared Room,High,Okay with Roommate's Pets,Both,Vegan
+Barbara Evans,Night,Supporting Staff,Extrovert,Organised,12 AM,7 AM,Heavy Sleeper,Quiet,2,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,No Restrictions
+Jane Fritz,Night,Developer,Introvert,Both,12 AM,7 AM,Light Sleeper,Quiet,3,Shared Room,Medium,Has Cat,Smoker,No Restrictions
+Angela Campos,Morning,Nurse,Introvert,Messy,12 AM,8 AM,Heavy Sleeper,Noisy,6,Private Room,Medium,No Pets,Both,Non-Vegetarian
+Stephanie Morris,Morning,Customer Support,Introvert,Organised,1 AM,6 AM,Light Sleeper,Noisy,4,Shared Room,Low,Has Dog,Drinker,Non-Vegetarian
+Yvette Robertson,Morning,Engineer,Introvert,Messy,10 PM,5 AM,Heavy Sleeper,Noisy,6,Shared Room,High,Okay with Roommate's Pets,Smoker,Non-Vegetarian
+Monica Torres,Night,Customer Support,Introvert,Organised,11 PM,5 AM,Heavy Sleeper,Quiet,1,Private Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Lori Reyes,Evening,Supporting Staff,Introvert,Organised,9 PM,8 AM,Heavy Sleeper,Noisy,3,Shared Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Non-Vegetarian
+Laura Villarreal,Night,Developer,Extrovert,Messy,10 PM,9 AM,Heavy Sleeper,Quiet,8,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Marissa Kramer,Evening,Nurse,Introvert,Both,11 PM,8 AM,Light Sleeper,Noisy,8,Private Room,Medium,No Pets,Drinker,Vegetarian
+Kimberly Clark,Morning,Engineer,Introvert,Organised,11 PM,7 AM,Light Sleeper,Quiet,9,Shared Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Ashley Dudley,Night,Supporting Staff,Introvert,Both,9 PM,9 AM,Heavy Sleeper,Noisy,7,Private Room,High,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Claudia Gomez,Evening,Engineer,Introvert,Organised,12 AM,5 AM,Light Sleeper,Noisy,3,Shared Room,High,Has Cat,Drinker,Vegetarian
+Stephanie Colon,Morning,Nurse,Extrovert,Organised,12 AM,9 AM,Light Sleeper,Quiet,5,Private Room,High,Has Dog,Both,No Restrictions
+Melinda Thompson,Night,Nurse,Introvert,Both,9 PM,9 AM,Heavy Sleeper,Quiet,6,Private Room,High,No Pets,Drinker,No Restrictions
+Donna Payne,Evening,Supporting Staff,Introvert,Messy,10 PM,8 AM,Heavy Sleeper,Noisy,7,Private Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Jain
+Rebecca Cantrell,Night,Nurse,Extrovert,Messy,12 AM,9 AM,Heavy Sleeper,Noisy,10,Shared Room,Medium,Has Dog,Okay with Roommate's Habits,Vegan
+Julia Thornton,Evening,Developer,Introvert,Organised,1 AM,7 AM,Heavy Sleeper,Quiet,8,Private Room,High,Has Cat,Both,Non-Vegetarian
+Julie Neal,Night,Customer Support,Extrovert,Both,12 AM,8 AM,Light Sleeper,Noisy,2,Private Room,Medium,Has Dog,Both,Vegan
+Jessica Glass,Evening,Customer Support,Introvert,Messy,10 PM,7 AM,Light Sleeper,Noisy,9,Private Room,Medium,Has Dog,Drinker,No Restrictions
+Michelle Little,Night,Nurse,Extrovert,Messy,9 PM,6 AM,Light Sleeper,Noisy,3,Shared Room,High,Has Dog,Drinker,Vegetarian
+Renee Gardner,Night,Engineer,Introvert,Messy,12 AM,5 AM,Light Sleeper,Quiet,8,Shared Room,Low,Has Cat,Drinker,Non-Vegetarian
+Tiffany Richardson,Night,Customer Support,Extrovert,Both,11 PM,5 AM,Light Sleeper,Quiet,9,Shared Room,Low,Has Cat,Smoker,Vegan
+Kayla Watkins,Night,Engineer,Extrovert,Organised,9 PM,8 AM,Heavy Sleeper,Noisy,8,Private Room,High,No Pets,Smoker,Non-Vegetarian
+Karina Johnson,Night,Supporting Staff,Introvert,Organised,1 AM,7 AM,Light Sleeper,Noisy,10,Private Room,High,Okay with Roommate's Pets,Drinker,Vegan
+Anita Turner,Night,Developer,Introvert,Organised,12 AM,7 AM,Heavy Sleeper,Quiet,3,Private Room,Low,No Pets,Smoker,Vegan
+Anna Wiley,Night,Engineer,Extrovert,Organised,11 PM,8 AM,Heavy Sleeper,Noisy,10,Private Room,Medium,Has Cat,Okay with Roommate's Habits,Vegetarian
+Diane Gibson,Night,Engineer,Extrovert,Messy,10 PM,8 AM,Light Sleeper,Noisy,1,Shared Room,High,Has Cat,Both,Jain
+Katie Gomez,Evening,Supporting Staff,Extrovert,Organised,12 AM,5 AM,Light Sleeper,Noisy,7,Private Room,Low,Okay with Roommate's Pets,Drinker,Vegetarian
+Jasmine Cook,Evening,Nurse,Introvert,Both,10 PM,5 AM,Light Sleeper,Noisy,2,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,No Restrictions
+Jennifer Robinson,Evening,Nurse,Extrovert,Both,11 PM,6 AM,Light Sleeper,Quiet,6,Private Room,Low,Has Dog,Smoker,Vegetarian
+Elizabeth Shea,Morning,Customer Support,Introvert,Messy,10 PM,5 AM,Light Sleeper,Quiet,8,Shared Room,Medium,No Pets,Smoker,Non-Vegetarian
+Kathleen Schwartz,Morning,Customer Support,Extrovert,Messy,10 PM,7 AM,Light Sleeper,Quiet,6,Shared Room,Low,No Pets,Drinker,Jain
+Carolyn Waters,Evening,Engineer,Introvert,Both,1 AM,7 AM,Heavy Sleeper,Noisy,1,Shared Room,High,Has Cat,Smoker,Vegetarian
+Stephanie Pacheco,Night,Developer,Extrovert,Messy,12 AM,7 AM,Light Sleeper,Quiet,7,Shared Room,Low,Has Cat,Both,Vegan
+Paula Gomez,Night,Developer,Extrovert,Both,10 PM,5 AM,Light Sleeper,Quiet,10,Private Room,Low,No Pets,Smoker,Non-Vegetarian
+Karen Williams,Evening,Engineer,Extrovert,Both,11 PM,8 AM,Light Sleeper,Noisy,6,Shared Room,Medium,Okay with Roommate's Pets,Both,Jain
+Lisa Jackson,Night,Nurse,Extrovert,Both,1 AM,9 AM,Heavy Sleeper,Quiet,7,Shared Room,Medium,Okay with Roommate's Pets,Both,Vegetarian
+Elizabeth Carroll,Night,Engineer,Extrovert,Both,11 PM,9 AM,Heavy Sleeper,Quiet,6,Shared Room,High,Okay with Roommate's Pets,Smoker,Vegetarian
+Angela Mora,Evening,Customer Support,Introvert,Messy,1 AM,5 AM,Heavy Sleeper,Noisy,1,Private Room,High,Has Cat,Both,No Restrictions
+Yvonne Neal,Morning,Customer Support,Introvert,Organised,10 PM,8 AM,Light Sleeper,Noisy,9,Private Room,High,Has Cat,Okay with Roommate's Habits,Vegan
+Jennifer Nichols,Morning,Supporting Staff,Extrovert,Both,11 PM,5 AM,Light Sleeper,Noisy,5,Private Room,Medium,Okay with Roommate's Pets,Smoker,Jain
+Krystal Salas,Evening,Nurse,Extrovert,Both,11 PM,8 AM,Light Sleeper,Noisy,4,Private Room,Low,Has Dog,Drinker,No Restrictions
+Melanie Shaw,Evening,Developer,Extrovert,Both,9 PM,6 AM,Heavy Sleeper,Quiet,1,Private Room,Low,Okay with Roommate's Pets,Drinker,No Restrictions
+Mrs. Teresa Walsh,Night,Nurse,Extrovert,Organised,9 PM,5 AM,Heavy Sleeper,Quiet,8,Shared Room,High,Has Dog,Both,Non-Vegetarian
+Karen Rivera,Night,Nurse,Extrovert,Both,9 PM,5 AM,Light Sleeper,Noisy,2,Private Room,Low,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Tammy Barnes,Evening,Customer Support,Extrovert,Organised,10 PM,9 AM,Light Sleeper,Noisy,9,Private Room,Low,Has Dog,Okay with Roommate's Habits,No Restrictions
+Morgan Conley,Evening,Engineer,Extrovert,Organised,10 PM,6 AM,Light Sleeper,Quiet,9,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegan
+Jennifer Hawkins,Morning,Customer Support,Extrovert,Organised,9 PM,8 AM,Light Sleeper,Noisy,3,Shared Room,Low,Has Cat,Okay with Roommate's Habits,Vegetarian
+Melissa Martinez,Morning,Customer Support,Introvert,Organised,10 PM,9 AM,Light Sleeper,Noisy,2,Shared Room,High,Has Cat,Okay with Roommate's Habits,Jain
+Whitney Perez,Night,Supporting Staff,Introvert,Messy,1 AM,9 AM,Light Sleeper,Quiet,6,Private Room,Medium,Has Dog,Drinker,Jain
+Brandy Warren,Night,Developer,Introvert,Organised,12 AM,6 AM,Heavy Sleeper,Noisy,10,Private Room,Low,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Jeanette Parker,Morning,Customer Support,Extrovert,Both,11 PM,9 AM,Light Sleeper,Noisy,3,Private Room,Low,Okay with Roommate's Pets,Smoker,Jain
+Vanessa Case,Morning,Customer Support,Introvert,Organised,12 AM,8 AM,Light Sleeper,Noisy,7,Private Room,Low,Has Dog,Smoker,Vegan
+Samantha Walker,Evening,Supporting Staff,Introvert,Both,10 PM,5 AM,Heavy Sleeper,Quiet,3,Shared Room,High,No Pets,Non-Smoker/Non-Drinker,No Restrictions
+Elizabeth Gutierrez,Morning,Customer Support,Introvert,Both,10 PM,5 AM,Heavy Sleeper,Quiet,10,Shared Room,Low,Has Cat,Smoker,No Restrictions
+Diana Johnston,Night,Customer Support,Introvert,Both,9 PM,7 AM,Heavy Sleeper,Quiet,10,Private Room,High,Has Dog,Smoker,No Restrictions
+Samantha Young,Night,Engineer,Introvert,Organised,12 AM,6 AM,Light Sleeper,Quiet,4,Shared Room,Low,No Pets,Both,Jain
+Nancy Lowe,Evening,Nurse,Extrovert,Messy,9 PM,6 AM,Light Sleeper,Noisy,8,Private Room,Low,Has Cat,Okay with Roommate's Habits,Jain
+Kelly Vargas,Evening,Nurse,Introvert,Both,12 AM,7 AM,Light Sleeper,Quiet,4,Shared Room,High,Has Dog,Smoker,Vegetarian
+Julia Weber,Evening,Engineer,Extrovert,Messy,11 PM,5 AM,Light Sleeper,Quiet,6,Shared Room,Low,Okay with Roommate's Pets,Both,Non-Vegetarian
+Melanie Gillespie,Morning,Developer,Extrovert,Messy,12 AM,5 AM,Heavy Sleeper,Quiet,7,Private Room,High,No Pets,Smoker,Non-Vegetarian
+Crystal Austin,Morning,Supporting Staff,Introvert,Both,9 PM,9 AM,Heavy Sleeper,Quiet,2,Shared Room,Medium,Has Dog,Both,Vegan
+Donna Martin,Night,Customer Support,Introvert,Messy,1 AM,8 AM,Light Sleeper,Noisy,4,Shared Room,High,Has Dog,Both,No Restrictions
+Miranda Mason,Night,Supporting Staff,Introvert,Organised,11 PM,7 AM,Light Sleeper,Quiet,6,Private Room,High,Has Dog,Okay with Roommate's Habits,No Restrictions
+Dana Cox,Morning,Nurse,Extrovert,Organised,11 PM,8 AM,Heavy Sleeper,Quiet,3,Private Room,Low,Has Cat,Both,Non-Vegetarian
+Ann Park,Evening,Supporting Staff,Extrovert,Organised,11 PM,5 AM,Light Sleeper,Quiet,5,Shared Room,Medium,Has Dog,Both,Jain
+Hannah Perez,Night,Engineer,Introvert,Messy,10 PM,7 AM,Heavy Sleeper,Noisy,3,Shared Room,High,No Pets,Non-Smoker/Non-Drinker,No Restrictions
+Jennifer Dillon,Night,Developer,Introvert,Organised,9 PM,6 AM,Light Sleeper,Quiet,1,Shared Room,Low,Has Dog,Smoker,Non-Vegetarian
+Cheryl Meyers,Morning,Customer Support,Introvert,Organised,9 PM,7 AM,Heavy Sleeper,Noisy,3,Shared Room,Medium,Okay with Roommate's Pets,Drinker,Non-Vegetarian
+Kaylee Jackson,Morning,Customer Support,Extrovert,Messy,10 PM,6 AM,Light Sleeper,Noisy,9,Shared Room,Low,No Pets,Smoker,Vegan
+Denise Bell,Evening,Engineer,Extrovert,Organised,12 AM,9 AM,Light Sleeper,Quiet,2,Private Room,High,Has Cat,Drinker,Jain
+Tammy Sawyer,Evening,Developer,Introvert,Organised,11 PM,7 AM,Heavy Sleeper,Quiet,9,Private Room,Medium,No Pets,Smoker,Vegetarian
+Nicole Donovan,Morning,Supporting Staff,Extrovert,Organised,11 PM,5 AM,Light Sleeper,Noisy,9,Shared Room,Low,No Pets,Smoker,Vegan
+Terri Davenport,Evening,Supporting Staff,Extrovert,Organised,1 AM,5 AM,Light Sleeper,Noisy,3,Private Room,Low,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Ann Davis,Morning,Supporting Staff,Extrovert,Organised,12 AM,7 AM,Light Sleeper,Noisy,10,Shared Room,Low,Has Cat,Drinker,Jain
+Andrea Nichols,Night,Developer,Introvert,Both,10 PM,7 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,Has Cat,Smoker,Vegetarian
+Melissa Hamilton,Evening,Developer,Introvert,Organised,10 PM,5 AM,Light Sleeper,Noisy,1,Private Room,Medium,No Pets,Both,No Restrictions
+Samantha Dillon,Evening,Nurse,Extrovert,Messy,1 AM,7 AM,Light Sleeper,Quiet,1,Private Room,Medium,Has Dog,Both,No Restrictions
+Sandra Snyder,Night,Customer Support,Extrovert,Organised,11 PM,9 AM,Light Sleeper,Noisy,8,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegan
+Stephanie Morgan,Morning,Developer,Introvert,Organised,10 PM,5 AM,Light Sleeper,Quiet,2,Shared Room,Low,Okay with Roommate's Pets,Smoker,Jain
+Ashley Roth,Evening,Engineer,Introvert,Both,9 PM,9 AM,Heavy Sleeper,Noisy,5,Private Room,Low,Okay with Roommate's Pets,Both,Jain
+Erin Price,Night,Developer,Introvert,Both,9 PM,5 AM,Heavy Sleeper,Noisy,6,Private Room,Medium,No Pets,Both,Non-Vegetarian
+Stephanie Wise,Night,Nurse,Extrovert,Messy,1 AM,7 AM,Heavy Sleeper,Noisy,7,Private Room,High,No Pets,Drinker,Non-Vegetarian
+Brittany Lee,Morning,Supporting Staff,Extrovert,Messy,11 PM,7 AM,Light Sleeper,Noisy,8,Shared Room,High,Has Dog,Smoker,Jain
+Kimberly Morris,Evening,Engineer,Introvert,Messy,9 PM,8 AM,Heavy Sleeper,Quiet,10,Shared Room,Low,No Pets,Non-Smoker/Non-Drinker,Jain
+Renee Meza,Evening,Customer Support,Introvert,Messy,10 PM,8 AM,Light Sleeper,Quiet,5,Shared Room,Medium,Has Dog,Okay with Roommate's Habits,Vegan
+Crystal Vega,Morning,Nurse,Extrovert,Messy,1 AM,9 AM,Light Sleeper,Quiet,10,Shared Room,Low,Has Cat,Drinker,Non-Vegetarian
+Brianna Smith,Evening,Customer Support,Introvert,Messy,12 AM,9 AM,Heavy Sleeper,Noisy,4,Shared Room,Low,No Pets,Smoker,Vegetarian
+Janet Taylor,Night,Supporting Staff,Extrovert,Messy,1 AM,5 AM,Light Sleeper,Quiet,6,Shared Room,Low,No Pets,Okay with Roommate's Habits,No Restrictions
+Tracy Moody,Evening,Engineer,Extrovert,Organised,12 AM,8 AM,Light Sleeper,Noisy,5,Private Room,Low,Has Dog,Smoker,Non-Vegetarian
+Chelsea Anderson,Evening,Customer Support,Extrovert,Messy,9 PM,6 AM,Light Sleeper,Noisy,3,Private Room,Low,Has Cat,Drinker,Jain
+Donna Love,Night,Engineer,Extrovert,Both,12 AM,5 AM,Light Sleeper,Noisy,9,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Courtney Clark,Evening,Nurse,Introvert,Messy,9 PM,6 AM,Heavy Sleeper,Quiet,2,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Jain
+Amanda Lloyd,Night,Customer Support,Extrovert,Both,11 PM,7 AM,Heavy Sleeper,Noisy,1,Private Room,Medium,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Tina Reynolds,Night,Customer Support,Extrovert,Organised,1 AM,5 AM,Heavy Sleeper,Quiet,4,Shared Room,Low,Has Cat,Both,Non-Vegetarian
+Chelsea Reed,Night,Nurse,Introvert,Organised,11 PM,7 AM,Heavy Sleeper,Quiet,10,Private Room,Low,No Pets,Smoker,Jain
+Rachel Obrien,Night,Customer Support,Extrovert,Both,12 AM,7 AM,Heavy Sleeper,Quiet,9,Shared Room,High,No Pets,Smoker,Vegetarian
+Jennifer Molina,Morning,Nurse,Introvert,Messy,1 AM,9 AM,Heavy Sleeper,Noisy,8,Private Room,Medium,Has Cat,Okay with Roommate's Habits,No Restrictions
+Nicole Lawson,Evening,Customer Support,Introvert,Both,12 AM,5 AM,Light Sleeper,Noisy,3,Private Room,Low,No Pets,Drinker,Non-Vegetarian
+Gina Bell,Evening,Supporting Staff,Extrovert,Both,11 PM,6 AM,Light Sleeper,Quiet,8,Shared Room,Medium,Has Dog,Both,Non-Vegetarian
+Tammy Richard,Morning,Nurse,Introvert,Organised,11 PM,8 AM,Heavy Sleeper,Quiet,2,Private Room,Low,Okay with Roommate's Pets,Drinker,Jain
+Lisa Schwartz,Evening,Nurse,Extrovert,Both,11 PM,8 AM,Light Sleeper,Noisy,2,Private Room,Medium,No Pets,Okay with Roommate's Habits,No Restrictions
+Kelli Murphy,Night,Customer Support,Extrovert,Messy,11 PM,8 AM,Heavy Sleeper,Quiet,5,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Jain
+Jennifer Hammond,Night,Developer,Extrovert,Both,11 PM,5 AM,Heavy Sleeper,Noisy,9,Private Room,Medium,Has Cat,Smoker,Non-Vegetarian
+Jocelyn Martinez,Morning,Supporting Staff,Extrovert,Messy,11 PM,5 AM,Heavy Sleeper,Quiet,1,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Lori Adams,Morning,Nurse,Introvert,Organised,11 PM,9 AM,Light Sleeper,Quiet,10,Private Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Jain
+Crystal Smith,Evening,Nurse,Introvert,Both,10 PM,5 AM,Light Sleeper,Quiet,5,Private Room,Low,No Pets,Drinker,Vegan
+Stephanie Hoffman,Morning,Engineer,Introvert,Messy,9 PM,5 AM,Light Sleeper,Noisy,3,Private Room,High,Has Dog,Both,Non-Vegetarian
+Dawn Collins,Morning,Engineer,Introvert,Messy,1 AM,9 AM,Light Sleeper,Quiet,2,Shared Room,Low,Has Cat,Smoker,Jain
+Brittany Ingram,Evening,Developer,Introvert,Both,9 PM,6 AM,Light Sleeper,Quiet,4,Private Room,High,Has Dog,Drinker,Jain
+Kathleen Bryant,Evening,Engineer,Extrovert,Both,9 PM,8 AM,Light Sleeper,Quiet,4,Shared Room,Low,Has Cat,Both,Non-Vegetarian
+Christine Bennett,Morning,Nurse,Introvert,Organised,10 PM,5 AM,Light Sleeper,Quiet,3,Private Room,Low,Has Cat,Smoker,Jain
+Melissa Clark,Night,Nurse,Extrovert,Organised,11 PM,9 AM,Heavy Sleeper,Noisy,6,Shared Room,High,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Julie Anderson,Evening,Developer,Introvert,Organised,12 AM,6 AM,Light Sleeper,Quiet,9,Shared Room,Low,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Tracy Wong,Evening,Nurse,Extrovert,Messy,9 PM,9 AM,Light Sleeper,Quiet,4,Shared Room,Low,Okay with Roommate's Pets,Drinker,Jain
+Angela Gutierrez,Night,Engineer,Extrovert,Messy,1 AM,6 AM,Light Sleeper,Noisy,4,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Karen Joyce,Night,Supporting Staff,Introvert,Both,12 AM,5 AM,Heavy Sleeper,Noisy,5,Private Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,Jain
+Lisa Hill,Evening,Engineer,Extrovert,Organised,1 AM,5 AM,Heavy Sleeper,Quiet,7,Shared Room,Medium,No Pets,Okay with Roommate's Habits,No Restrictions
+Tonya Jefferson,Evening,Engineer,Introvert,Both,10 PM,9 AM,Heavy Sleeper,Quiet,4,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Linda Christian,Morning,Supporting Staff,Introvert,Both,9 PM,9 AM,Heavy Sleeper,Quiet,10,Private Room,High,Okay with Roommate's Pets,Both,Non-Vegetarian
+Karen White,Night,Supporting Staff,Extrovert,Organised,12 AM,5 AM,Heavy Sleeper,Quiet,4,Shared Room,Medium,Okay with Roommate's Pets,Drinker,Vegan
+Maria Randolph,Evening,Customer Support,Introvert,Both,12 AM,9 AM,Light Sleeper,Noisy,9,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Casey Spencer,Night,Supporting Staff,Extrovert,Both,1 AM,9 AM,Heavy Sleeper,Noisy,3,Shared Room,Medium,No Pets,Drinker,Non-Vegetarian
+Michele Peterson,Morning,Supporting Staff,Introvert,Organised,12 AM,6 AM,Light Sleeper,Noisy,8,Private Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Deborah Higgins,Morning,Supporting Staff,Introvert,Organised,9 PM,8 AM,Light Sleeper,Quiet,4,Shared Room,Low,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Barbara Frost,Night,Nurse,Introvert,Organised,9 PM,8 AM,Heavy Sleeper,Quiet,6,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegan
+April Payne,Evening,Customer Support,Extrovert,Messy,10 PM,9 AM,Light Sleeper,Quiet,8,Private Room,High,Has Cat,Smoker,Vegetarian
+Dawn Garza,Evening,Engineer,Introvert,Both,1 AM,5 AM,Heavy Sleeper,Quiet,4,Private Room,High,Has Dog,Smoker,Vegan
+Elizabeth Aguilar,Night,Supporting Staff,Extrovert,Organised,9 PM,7 AM,Light Sleeper,Noisy,6,Private Room,High,Has Dog,Okay with Roommate's Habits,Jain
+Pamela Vasquez,Morning,Customer Support,Introvert,Both,1 AM,5 AM,Light Sleeper,Quiet,10,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Jennifer Jones,Evening,Customer Support,Introvert,Messy,10 PM,5 AM,Light Sleeper,Noisy,4,Shared Room,High,Has Cat,Both,Non-Vegetarian
+Erin Perez,Night,Customer Support,Extrovert,Messy,1 AM,7 AM,Heavy Sleeper,Noisy,9,Private Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Emily Shea,Morning,Developer,Introvert,Messy,9 PM,9 AM,Light Sleeper,Noisy,4,Shared Room,High,No Pets,Non-Smoker/Non-Drinker,Jain
+Sherry Nichols,Night,Engineer,Extrovert,Organised,10 PM,7 AM,Light Sleeper,Quiet,8,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Roberta Hamilton,Evening,Customer Support,Introvert,Organised,10 PM,9 AM,Light Sleeper,Quiet,8,Shared Room,Low,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Carly Leonard,Night,Customer Support,Extrovert,Organised,12 AM,8 AM,Light Sleeper,Noisy,10,Shared Room,High,No Pets,Smoker,Vegetarian
+Brandi Bailey,Evening,Nurse,Extrovert,Organised,9 PM,9 AM,Light Sleeper,Noisy,4,Shared Room,Medium,Has Dog,Drinker,Vegan
+Mary Owens,Evening,Developer,Extrovert,Organised,9 PM,8 AM,Light Sleeper,Quiet,10,Shared Room,Low,Okay with Roommate's Pets,Both,Vegetarian
+Crystal Simmons,Evening,Engineer,Introvert,Organised,11 PM,5 AM,Light Sleeper,Quiet,4,Shared Room,Medium,No Pets,Drinker,Jain
+Jenny Powell,Evening,Customer Support,Introvert,Organised,9 PM,6 AM,Light Sleeper,Quiet,5,Private Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Melanie Davis,Morning,Engineer,Introvert,Both,11 PM,6 AM,Light Sleeper,Noisy,2,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,Jain
+Jennifer Robinson,Evening,Supporting Staff,Introvert,Both,9 PM,9 AM,Heavy Sleeper,Noisy,6,Shared Room,Low,Has Dog,Drinker,Non-Vegetarian
+Yvette Wilson,Evening,Developer,Extrovert,Messy,11 PM,9 AM,Heavy Sleeper,Noisy,1,Shared Room,High,Okay with Roommate's Pets,Drinker,Non-Vegetarian
+Kelly White,Night,Engineer,Introvert,Both,9 PM,7 AM,Heavy Sleeper,Quiet,1,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Stephanie Henson,Morning,Supporting Staff,Introvert,Messy,9 PM,7 AM,Heavy Sleeper,Noisy,3,Private Room,Low,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Stephanie Meyers,Night,Supporting Staff,Introvert,Both,1 AM,7 AM,Light Sleeper,Noisy,1,Shared Room,Medium,Has Cat,Drinker,Vegan
+Meghan Bryan,Night,Developer,Extrovert,Messy,12 AM,8 AM,Light Sleeper,Quiet,8,Private Room,Low,Has Dog,Smoker,Jain
+Chelsea Steele,Evening,Nurse,Extrovert,Both,12 AM,5 AM,Heavy Sleeper,Quiet,2,Private Room,Medium,Has Dog,Both,Vegetarian
+Krystal Thomas,Night,Developer,Extrovert,Messy,10 PM,7 AM,Light Sleeper,Quiet,5,Private Room,Medium,No Pets,Drinker,Non-Vegetarian
+Colleen Rivera,Evening,Developer,Extrovert,Organised,10 PM,8 AM,Heavy Sleeper,Quiet,9,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Vegan
+Laurie Cisneros,Night,Developer,Introvert,Messy,1 AM,5 AM,Heavy Sleeper,Quiet,10,Shared Room,Medium,Has Cat,Both,Non-Vegetarian
+Jamie Howell,Evening,Customer Support,Extrovert,Messy,11 PM,5 AM,Heavy Sleeper,Quiet,1,Private Room,Medium,Has Dog,Both,Non-Vegetarian
+Nancy Phillips,Night,Nurse,Extrovert,Organised,1 AM,7 AM,Light Sleeper,Quiet,7,Shared Room,Low,Has Dog,Smoker,Vegan
+Kimberly Gonzales,Morning,Customer Support,Introvert,Both,1 AM,7 AM,Heavy Sleeper,Quiet,7,Private Room,Low,Has Dog,Drinker,Vegetarian
+Stephanie Gordon,Morning,Supporting Staff,Extrovert,Organised,11 PM,5 AM,Light Sleeper,Noisy,2,Shared Room,High,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Sarah Howell,Morning,Engineer,Extrovert,Messy,9 PM,6 AM,Light Sleeper,Quiet,6,Private Room,Medium,Okay with Roommate's Pets,Smoker,Non-Vegetarian
+Haley Cameron,Night,Nurse,Introvert,Messy,1 AM,8 AM,Light Sleeper,Quiet,6,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,No Restrictions
+Nicole Hanson,Morning,Customer Support,Introvert,Organised,12 AM,5 AM,Heavy Sleeper,Noisy,6,Private Room,Medium,No Pets,Okay with Roommate's Habits,Vegan
+Felicia Stokes,Morning,Engineer,Extrovert,Messy,12 AM,9 AM,Heavy Sleeper,Noisy,10,Shared Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Alyssa Curtis,Morning,Nurse,Introvert,Both,11 PM,6 AM,Heavy Sleeper,Noisy,9,Shared Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Jamie Mcclain,Evening,Engineer,Extrovert,Organised,10 PM,6 AM,Heavy Sleeper,Quiet,6,Private Room,Medium,Okay with Roommate's Pets,Drinker,Vegetarian
+Angela Ray,Morning,Developer,Extrovert,Messy,10 PM,9 AM,Light Sleeper,Quiet,8,Shared Room,Low,No Pets,Both,No Restrictions
+Katherine Dunn,Evening,Developer,Introvert,Both,1 AM,6 AM,Light Sleeper,Quiet,5,Private Room,High,Has Cat,Okay with Roommate's Habits,Vegetarian
+Amanda Bush,Evening,Developer,Introvert,Messy,11 PM,8 AM,Light Sleeper,Noisy,5,Shared Room,Low,No Pets,Smoker,Jain
+Sandy Vance,Evening,Engineer,Extrovert,Organised,11 PM,6 AM,Heavy Sleeper,Quiet,4,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Rose Hernandez,Morning,Engineer,Extrovert,Both,11 PM,5 AM,Heavy Sleeper,Noisy,5,Private Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Vegetarian
+Monica Harris,Night,Engineer,Introvert,Both,1 AM,5 AM,Heavy Sleeper,Quiet,10,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Mary Hall,Night,Engineer,Extrovert,Messy,10 PM,8 AM,Light Sleeper,Noisy,7,Private Room,Low,Okay with Roommate's Pets,Smoker,Jain
+Stacy Simpson,Night,Developer,Extrovert,Messy,1 AM,7 AM,Heavy Sleeper,Quiet,2,Private Room,Low,Has Dog,Drinker,Vegan
+Paula Scott,Morning,Nurse,Introvert,Organised,10 PM,8 AM,Light Sleeper,Quiet,8,Private Room,Low,Has Cat,Smoker,Jain
+Paula Irwin,Morning,Supporting Staff,Extrovert,Messy,12 AM,7 AM,Heavy Sleeper,Noisy,10,Private Room,Low,Has Cat,Non-Smoker/Non-Drinker,Vegetarian
+Amanda Williams,Evening,Customer Support,Introvert,Messy,12 AM,6 AM,Light Sleeper,Noisy,8,Shared Room,Medium,No Pets,Smoker,Jain
+Christy Willis,Morning,Developer,Introvert,Organised,10 PM,5 AM,Light Sleeper,Noisy,1,Private Room,Medium,Has Cat,Smoker,No Restrictions
+Kimberly Williamson,Evening,Developer,Introvert,Both,1 AM,6 AM,Heavy Sleeper,Noisy,4,Private Room,Medium,Has Cat,Both,No Restrictions
+Maria Gross,Evening,Supporting Staff,Introvert,Organised,11 PM,5 AM,Heavy Sleeper,Noisy,6,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegan
+Lisa Morrison,Morning,Engineer,Introvert,Both,11 PM,6 AM,Heavy Sleeper,Quiet,1,Private Room,Medium,Okay with Roommate's Pets,Smoker,Jain
+Michele Rocha,Morning,Engineer,Extrovert,Messy,11 PM,8 AM,Light Sleeper,Noisy,4,Shared Room,Medium,No Pets,Drinker,No Restrictions
+Lauren Harris,Morning,Supporting Staff,Extrovert,Organised,12 AM,9 AM,Heavy Sleeper,Quiet,10,Private Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Vegan
+Susan Middleton,Evening,Developer,Introvert,Both,1 AM,8 AM,Light Sleeper,Quiet,3,Private Room,Low,Has Cat,Smoker,No Restrictions
+Danielle Cardenas,Morning,Supporting Staff,Extrovert,Messy,11 PM,6 AM,Heavy Sleeper,Noisy,7,Shared Room,Medium,No Pets,Non-Smoker/Non-Drinker,Vegan
+Jessica Martinez,Night,Nurse,Extrovert,Both,9 PM,9 AM,Heavy Sleeper,Noisy,8,Shared Room,High,Has Cat,Drinker,No Restrictions
+Samantha Gross,Evening,Developer,Introvert,Messy,1 AM,6 AM,Light Sleeper,Noisy,2,Private Room,Medium,Has Cat,Okay with Roommate's Habits,Vegan
+Nicole Chen,Morning,Nurse,Extrovert,Messy,10 PM,9 AM,Light Sleeper,Quiet,2,Private Room,High,Has Cat,Drinker,No Restrictions
+Melissa Lewis,Evening,Nurse,Extrovert,Organised,12 AM,6 AM,Heavy Sleeper,Noisy,6,Private Room,Medium,Has Cat,Drinker,Vegetarian
+Melissa Goodman,Night,Supporting Staff,Introvert,Messy,1 AM,6 AM,Light Sleeper,Quiet,2,Shared Room,High,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Anna Moore,Night,Nurse,Introvert,Messy,12 AM,7 AM,Light Sleeper,Quiet,7,Private Room,Medium,Has Dog,Smoker,Jain
+Maria Hays,Morning,Customer Support,Introvert,Messy,12 AM,6 AM,Heavy Sleeper,Noisy,1,Shared Room,Low,Has Cat,Both,Vegetarian
+Stephanie Johnson,Night,Developer,Extrovert,Organised,1 AM,9 AM,Light Sleeper,Noisy,4,Shared Room,High,Okay with Roommate's Pets,Drinker,No Restrictions
+Vicki Olson,Night,Nurse,Extrovert,Messy,11 PM,5 AM,Heavy Sleeper,Noisy,7,Private Room,Medium,No Pets,Drinker,Non-Vegetarian
+Judith Nguyen,Morning,Customer Support,Extrovert,Organised,11 PM,6 AM,Light Sleeper,Noisy,7,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,No Restrictions
+Kelly Jackson,Night,Engineer,Extrovert,Both,9 PM,9 AM,Light Sleeper,Quiet,9,Private Room,Medium,No Pets,Both,Non-Vegetarian
+Tonya Matthews,Night,Supporting Staff,Extrovert,Organised,1 AM,7 AM,Light Sleeper,Noisy,6,Private Room,High,No Pets,Both,No Restrictions
+Sara Cook,Evening,Engineer,Extrovert,Messy,11 PM,6 AM,Light Sleeper,Noisy,8,Shared Room,High,No Pets,Smoker,Non-Vegetarian
+Tamara Leon,Night,Engineer,Extrovert,Messy,9 PM,6 AM,Heavy Sleeper,Noisy,4,Shared Room,Medium,No Pets,Smoker,Non-Vegetarian
+Mary Gonzalez,Morning,Engineer,Introvert,Organised,9 PM,6 AM,Light Sleeper,Noisy,9,Shared Room,High,No Pets,Both,Non-Vegetarian
+Alexis Jordan,Morning,Developer,Extrovert,Organised,11 PM,8 AM,Heavy Sleeper,Quiet,10,Private Room,Medium,Okay with Roommate's Pets,Smoker,Jain
+Rebecca Richardson,Evening,Supporting Staff,Introvert,Organised,1 AM,8 AM,Light Sleeper,Quiet,3,Shared Room,Medium,Has Cat,Smoker,Vegetarian
+Lisa Perez,Night,Customer Support,Introvert,Organised,11 PM,6 AM,Light Sleeper,Noisy,8,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegan
+Katelyn Wilson,Morning,Customer Support,Introvert,Both,1 AM,8 AM,Heavy Sleeper,Quiet,6,Shared Room,High,Okay with Roommate's Pets,Smoker,Vegan
+Victoria Hunter,Night,Nurse,Extrovert,Both,9 PM,7 AM,Heavy Sleeper,Quiet,8,Private Room,High,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Cynthia Armstrong,Evening,Developer,Extrovert,Organised,10 PM,8 AM,Heavy Sleeper,Quiet,7,Private Room,Medium,No Pets,Okay with Roommate's Habits,Jain
+Tamara Blair,Morning,Developer,Extrovert,Organised,10 PM,8 AM,Heavy Sleeper,Quiet,6,Shared Room,High,Has Dog,Okay with Roommate's Habits,Vegan
+Shannon Brown,Evening,Developer,Extrovert,Organised,12 AM,5 AM,Light Sleeper,Quiet,1,Shared Room,Medium,No Pets,Okay with Roommate's Habits,Vegetarian
+April Pugh,Morning,Supporting Staff,Introvert,Messy,12 AM,6 AM,Light Sleeper,Quiet,7,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Jain
+Abigail Hamilton,Evening,Supporting Staff,Introvert,Organised,11 PM,8 AM,Heavy Sleeper,Noisy,6,Shared Room,High,Okay with Roommate's Pets,Smoker,Vegan
+Cassandra Campbell,Night,Customer Support,Extrovert,Messy,10 PM,5 AM,Heavy Sleeper,Noisy,8,Shared Room,Medium,Has Dog,Smoker,Jain
+Donna Carroll,Morning,Customer Support,Introvert,Organised,10 PM,7 AM,Heavy Sleeper,Noisy,10,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Teresa Brennan,Evening,Customer Support,Extrovert,Organised,9 PM,9 AM,Light Sleeper,Quiet,10,Shared Room,Medium,Has Dog,Both,Vegan
+Kelly Peters,Night,Engineer,Introvert,Organised,11 PM,7 AM,Heavy Sleeper,Quiet,2,Shared Room,Medium,No Pets,Drinker,No Restrictions
+Kimberly Cook,Morning,Supporting Staff,Extrovert,Both,10 PM,6 AM,Heavy Sleeper,Noisy,1,Shared Room,High,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Aimee Richardson,Evening,Supporting Staff,Introvert,Messy,12 AM,6 AM,Light Sleeper,Quiet,3,Shared Room,High,Okay with Roommate's Pets,Drinker,Non-Vegetarian
+Christina Allen MD,Evening,Supporting Staff,Extrovert,Both,1 AM,5 AM,Heavy Sleeper,Quiet,4,Private Room,High,No Pets,Okay with Roommate's Habits,No Restrictions
+Kathryn Gutierrez,Morning,Customer Support,Introvert,Both,1 AM,8 AM,Light Sleeper,Noisy,10,Shared Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,Jain
+Brooke Moore DVM,Evening,Developer,Introvert,Both,11 PM,9 AM,Heavy Sleeper,Quiet,5,Shared Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Non-Vegetarian
+Janet Turner,Morning,Developer,Introvert,Messy,9 PM,9 AM,Light Sleeper,Quiet,5,Shared Room,Low,Okay with Roommate's Pets,Drinker,Vegan
+Michele Eaton,Night,Supporting Staff,Extrovert,Both,12 AM,5 AM,Light Sleeper,Quiet,9,Private Room,High,No Pets,Smoker,No Restrictions
+Kimberly White,Night,Supporting Staff,Introvert,Organised,11 PM,6 AM,Heavy Sleeper,Noisy,1,Private Room,High,No Pets,Non-Smoker/Non-Drinker,Vegan
+Caroline Murray,Night,Customer Support,Introvert,Organised,9 PM,9 AM,Heavy Sleeper,Quiet,5,Shared Room,Low,Okay with Roommate's Pets,Smoker,Non-Vegetarian
+Alejandra Kirk,Night,Nurse,Introvert,Messy,11 PM,5 AM,Light Sleeper,Noisy,2,Shared Room,Low,Has Dog,Smoker,Vegetarian
+Jennifer Flores,Night,Supporting Staff,Introvert,Messy,10 PM,7 AM,Light Sleeper,Quiet,8,Shared Room,Low,No Pets,Smoker,Vegan
+Savannah Jimenez,Evening,Developer,Introvert,Organised,10 PM,5 AM,Heavy Sleeper,Noisy,9,Private Room,Low,Has Cat,Drinker,Vegan
+Jamie Vaughn,Evening,Supporting Staff,Extrovert,Organised,1 AM,6 AM,Heavy Sleeper,Quiet,9,Shared Room,Low,No Pets,Drinker,Vegan
+Ashley Edwards,Night,Customer Support,Extrovert,Messy,10 PM,8 AM,Heavy Sleeper,Noisy,9,Private Room,Medium,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegan
+Melissa Ball,Evening,Customer Support,Introvert,Messy,1 AM,7 AM,Light Sleeper,Quiet,10,Private Room,High,Has Dog,Okay with Roommate's Habits,Jain
+Christina Clark,Morning,Engineer,Extrovert,Both,12 AM,5 AM,Light Sleeper,Quiet,5,Private Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Non-Vegetarian
+Nicole Sheppard,Evening,Engineer,Extrovert,Messy,10 PM,7 AM,Light Sleeper,Quiet,5,Private Room,Low,No Pets,Okay with Roommate's Habits,Vegan
+Sabrina Adams,Evening,Engineer,Introvert,Both,11 PM,6 AM,Heavy Sleeper,Quiet,9,Private Room,Low,Okay with Roommate's Pets,Smoker,Vegan
+Nicole Anderson,Morning,Engineer,Introvert,Organised,1 AM,8 AM,Light Sleeper,Quiet,2,Shared Room,Medium,Has Dog,Smoker,Non-Vegetarian
+Tasha Sheppard,Night,Developer,Extrovert,Messy,1 AM,9 AM,Light Sleeper,Noisy,10,Private Room,High,Has Cat,Okay with Roommate's Habits,Jain
+Haley Deleon,Evening,Developer,Introvert,Organised,10 PM,6 AM,Light Sleeper,Noisy,8,Shared Room,High,Has Dog,Okay with Roommate's Habits,No Restrictions
+Kiara Vazquez,Evening,Developer,Extrovert,Messy,10 PM,7 AM,Heavy Sleeper,Noisy,10,Private Room,Medium,Has Cat,Okay with Roommate's Habits,Vegetarian
+Diane Stanley,Night,Customer Support,Introvert,Organised,10 PM,9 AM,Light Sleeper,Noisy,8,Shared Room,Medium,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Tina Ho,Morning,Engineer,Introvert,Both,1 AM,6 AM,Heavy Sleeper,Quiet,3,Shared Room,High,Has Dog,Both,No Restrictions
+Ashley Knapp,Night,Supporting Staff,Introvert,Both,9 PM,5 AM,Light Sleeper,Quiet,6,Shared Room,High,Has Cat,Okay with Roommate's Habits,Jain
+Nicole Martinez,Night,Supporting Staff,Introvert,Both,12 AM,6 AM,Heavy Sleeper,Quiet,5,Private Room,Low,Has Dog,Both,Vegan
+Marcia Jackson,Evening,Nurse,Extrovert,Messy,10 PM,7 AM,Heavy Sleeper,Noisy,2,Private Room,Low,No Pets,Smoker,Vegan
+Melissa Doyle,Evening,Engineer,Extrovert,Organised,9 PM,8 AM,Light Sleeper,Noisy,1,Private Room,Low,Okay with Roommate's Pets,Smoker,Vegan
+Tracy Pope,Morning,Developer,Extrovert,Both,9 PM,8 AM,Heavy Sleeper,Noisy,7,Private Room,Medium,No Pets,Both,Jain
+Rebecca Woods,Evening,Engineer,Introvert,Messy,11 PM,7 AM,Light Sleeper,Quiet,7,Shared Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Diane Blair,Night,Supporting Staff,Introvert,Organised,10 PM,6 AM,Heavy Sleeper,Noisy,7,Shared Room,Low,No Pets,Okay with Roommate's Habits,Vegan
+Samantha Welch,Morning,Developer,Extrovert,Messy,10 PM,5 AM,Heavy Sleeper,Quiet,7,Shared Room,High,No Pets,Both,No Restrictions
+Jessica Clark,Evening,Developer,Extrovert,Organised,9 PM,9 AM,Heavy Sleeper,Noisy,1,Private Room,Low,Okay with Roommate's Pets,Drinker,Vegan
+Theresa Johnson,Morning,Engineer,Extrovert,Organised,1 AM,6 AM,Heavy Sleeper,Quiet,4,Shared Room,Medium,Has Dog,Both,Non-Vegetarian
+Angela Sandoval,Morning,Engineer,Introvert,Organised,1 AM,8 AM,Heavy Sleeper,Quiet,2,Private Room,Medium,Has Dog,Both,Vegan
+Sherry Bruce,Morning,Nurse,Extrovert,Messy,11 PM,6 AM,Light Sleeper,Quiet,4,Private Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Karen Barnett,Morning,Nurse,Introvert,Both,11 PM,6 AM,Light Sleeper,Noisy,5,Shared Room,Low,Has Dog,Smoker,Non-Vegetarian
+Sophia Steele,Morning,Nurse,Extrovert,Messy,1 AM,9 AM,Light Sleeper,Quiet,7,Private Room,High,Has Cat,Okay with Roommate's Habits,No Restrictions
+Ashley Jones,Morning,Nurse,Extrovert,Both,1 AM,5 AM,Heavy Sleeper,Quiet,8,Shared Room,Low,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Jessica Sanders,Morning,Supporting Staff,Extrovert,Organised,12 AM,5 AM,Light Sleeper,Noisy,3,Shared Room,High,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Alice Beck,Morning,Supporting Staff,Introvert,Organised,12 AM,7 AM,Light Sleeper,Quiet,8,Shared Room,Low,No Pets,Non-Smoker/Non-Drinker,Vegetarian
+Jennifer Lawrence,Night,Nurse,Introvert,Organised,9 PM,8 AM,Light Sleeper,Quiet,10,Shared Room,Medium,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Samantha Estes,Evening,Nurse,Extrovert,Organised,10 PM,8 AM,Heavy Sleeper,Noisy,3,Shared Room,Low,Has Dog,Both,Jain
+Kathy Jones,Morning,Engineer,Introvert,Both,1 AM,8 AM,Heavy Sleeper,Quiet,1,Shared Room,Medium,No Pets,Smoker,Jain
+Amanda Short,Evening,Developer,Introvert,Organised,9 PM,8 AM,Light Sleeper,Noisy,2,Private Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Kimberly Moore,Morning,Developer,Introvert,Organised,11 PM,6 AM,Heavy Sleeper,Noisy,6,Shared Room,Medium,Has Cat,Drinker,Non-Vegetarian
+Sandra Nolan,Night,Developer,Introvert,Messy,9 PM,5 AM,Heavy Sleeper,Quiet,6,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Jain
+Jennifer Johnson,Morning,Customer Support,Extrovert,Organised,10 PM,9 AM,Heavy Sleeper,Quiet,9,Shared Room,Low,Has Cat,Drinker,Vegan
+Amanda Clay,Morning,Engineer,Extrovert,Messy,10 PM,6 AM,Heavy Sleeper,Noisy,9,Shared Room,High,No Pets,Drinker,No Restrictions
+Jamie Ferguson,Evening,Developer,Extrovert,Messy,10 PM,7 AM,Heavy Sleeper,Quiet,4,Private Room,Low,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Bonnie Hernandez,Morning,Nurse,Extrovert,Organised,11 PM,9 AM,Heavy Sleeper,Quiet,9,Shared Room,Medium,Has Cat,Both,Non-Vegetarian
+Rebecca Chambers,Evening,Nurse,Extrovert,Messy,10 PM,8 AM,Light Sleeper,Quiet,6,Shared Room,Medium,Has Dog,Smoker,Non-Vegetarian
+Molly Scott,Evening,Developer,Extrovert,Messy,9 PM,6 AM,Heavy Sleeper,Noisy,3,Private Room,High,No Pets,Both,Vegan
+Shelley Mayer,Morning,Nurse,Extrovert,Organised,1 AM,9 AM,Heavy Sleeper,Noisy,2,Shared Room,High,Has Dog,Okay with Roommate's Habits,Vegan
+Heather Phillips,Night,Nurse,Extrovert,Both,12 AM,7 AM,Heavy Sleeper,Noisy,7,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Gabriella Johnson,Morning,Nurse,Introvert,Both,1 AM,7 AM,Heavy Sleeper,Noisy,4,Shared Room,Low,Okay with Roommate's Pets,Drinker,No Restrictions
+Heather Torres,Evening,Developer,Extrovert,Organised,12 AM,6 AM,Light Sleeper,Noisy,6,Shared Room,Medium,No Pets,Both,Vegetarian
+Ann Rodriguez,Morning,Supporting Staff,Extrovert,Organised,12 AM,7 AM,Light Sleeper,Noisy,1,Private Room,Medium,Okay with Roommate's Pets,Smoker,Non-Vegetarian
+Brittany Pruitt,Evening,Supporting Staff,Extrovert,Organised,10 PM,5 AM,Light Sleeper,Quiet,7,Shared Room,Low,No Pets,Okay with Roommate's Habits,Vegan
+Stephanie Wolfe,Morning,Developer,Introvert,Both,9 PM,5 AM,Light Sleeper,Quiet,9,Shared Room,Medium,Has Cat,Both,Jain
+Dr. Erica Herrera,Night,Nurse,Extrovert,Both,11 PM,9 AM,Heavy Sleeper,Noisy,1,Shared Room,High,Okay with Roommate's Pets,Both,Jain
+Jennifer Johnson,Evening,Engineer,Extrovert,Messy,10 PM,5 AM,Heavy Sleeper,Noisy,9,Private Room,Medium,No Pets,Smoker,Jain
+Jill Burns,Morning,Supporting Staff,Extrovert,Messy,11 PM,8 AM,Light Sleeper,Quiet,5,Shared Room,Low,Has Dog,Non-Smoker/Non-Drinker,Vegan
+Cassidy Perez,Morning,Customer Support,Extrovert,Organised,12 AM,9 AM,Light Sleeper,Quiet,6,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,Vegetarian
+Julie Simmons,Night,Nurse,Extrovert,Both,1 AM,5 AM,Light Sleeper,Noisy,5,Private Room,Medium,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Christina Mcintosh,Morning,Nurse,Extrovert,Both,11 PM,7 AM,Light Sleeper,Noisy,10,Shared Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Non-Vegetarian
+Michelle Brown,Night,Customer Support,Introvert,Organised,9 PM,8 AM,Light Sleeper,Quiet,3,Private Room,Low,Has Cat,Okay with Roommate's Habits,Jain
+Jessica Benitez,Morning,Developer,Extrovert,Both,9 PM,6 AM,Light Sleeper,Quiet,5,Private Room,Medium,Okay with Roommate's Pets,Both,Non-Vegetarian
+Joyce Sullivan,Night,Supporting Staff,Extrovert,Messy,12 AM,7 AM,Light Sleeper,Quiet,1,Private Room,Low,Has Dog,Drinker,Non-Vegetarian
+Carol Gonzalez,Morning,Supporting Staff,Introvert,Both,1 AM,5 AM,Heavy Sleeper,Quiet,4,Private Room,Low,Okay with Roommate's Pets,Smoker,Non-Vegetarian
+Mary Sellers,Evening,Customer Support,Extrovert,Both,9 PM,7 AM,Light Sleeper,Quiet,8,Private Room,High,Has Cat,Drinker,Vegetarian
+Janice Taylor,Morning,Engineer,Introvert,Organised,12 AM,5 AM,Light Sleeper,Noisy,6,Private Room,Low,Has Dog,Smoker,Non-Vegetarian
+Kara Flores DDS,Morning,Supporting Staff,Extrovert,Both,12 AM,7 AM,Light Sleeper,Noisy,2,Shared Room,Medium,No Pets,Smoker,Jain
+Elizabeth Fitzgerald,Night,Supporting Staff,Extrovert,Both,10 PM,9 AM,Heavy Sleeper,Noisy,1,Private Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,No Restrictions
+Laurie Pitts,Night,Engineer,Introvert,Organised,12 AM,6 AM,Heavy Sleeper,Quiet,1,Private Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
+Carol Johnson,Morning,Customer Support,Introvert,Organised,12 AM,9 AM,Heavy Sleeper,Noisy,8,Private Room,Medium,Has Cat,Both,Jain
+Kelly Stevens,Morning,Developer,Extrovert,Both,12 AM,8 AM,Heavy Sleeper,Noisy,7,Shared Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegan
+Kimberly Gibson,Evening,Supporting Staff,Extrovert,Organised,12 AM,6 AM,Heavy Sleeper,Noisy,7,Shared Room,Low,Has Dog,Non-Smoker/Non-Drinker,No Restrictions
+Leah Arnold,Evening,Supporting Staff,Extrovert,Both,1 AM,7 AM,Heavy Sleeper,Quiet,1,Shared Room,Low,No Pets,Non-Smoker/Non-Drinker,Vegan
+Katie Park,Evening,Engineer,Introvert,Organised,12 AM,6 AM,Heavy Sleeper,Quiet,4,Private Room,Low,Okay with Roommate's Pets,Drinker,No Restrictions
+Tina Curtis,Morning,Engineer,Extrovert,Organised,1 AM,8 AM,Heavy Sleeper,Quiet,3,Shared Room,Low,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Shannon Cox,Evening,Developer,Introvert,Organised,10 PM,6 AM,Light Sleeper,Quiet,8,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,No Restrictions
+Shelley Taylor,Night,Supporting Staff,Extrovert,Both,9 PM,7 AM,Light Sleeper,Quiet,6,Private Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
+Christine Jacobson DVM,Morning,Developer,Extrovert,Messy,9 PM,7 AM,Light Sleeper,Quiet,4,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
+Amber Morales,Morning,Customer Support,Extrovert,Messy,11 PM,6 AM,Light Sleeper,Noisy,1,Shared Room,High,Has Cat,Non-Smoker/Non-Drinker,Vegan
+Mallory Moore,Morning,Supporting Staff,Extrovert,Both,11 PM,6 AM,Heavy Sleeper,Quiet,7,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Andrea Gonzalez,Evening,Nurse,Introvert,Messy,12 AM,9 AM,Heavy Sleeper,Quiet,4,Shared Room,High,Has Cat,Both,Non-Vegetarian
+Brandy Williams,Night,Customer Support,Introvert,Messy,1 AM,9 AM,Light Sleeper,Quiet,6,Private Room,Low,Has Cat,Non-Smoker/Non-Drinker,Jain
+Sheri Perry,Evening,Nurse,Extrovert,Messy,12 AM,6 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Tiffany Rice,Night,Nurse,Introvert,Messy,11 PM,8 AM,Light Sleeper,Noisy,6,Shared Room,Low,No Pets,Okay with Roommate's Habits,Jain
+Melissa Jacobs,Morning,Developer,Extrovert,Messy,1 AM,6 AM,Light Sleeper,Quiet,10,Private Room,Medium,Okay with Roommate's Pets,Both,Vegetarian
+Shelly Miller,Night,Engineer,Extrovert,Organised,10 PM,9 AM,Heavy Sleeper,Noisy,8,Private Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
+Laura Jackson,Evening,Customer Support,Extrovert,Both,12 AM,5 AM,Heavy Sleeper,Noisy,4,Shared Room,Low,Has Cat,Smoker,Vegan
+Robin Garrison,Evening,Supporting Staff,Extrovert,Messy,1 AM,7 AM,Heavy Sleeper,Quiet,6,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Rebekah Oconnell,Evening,Supporting Staff,Extrovert,Both,9 PM,5 AM,Heavy Sleeper,Noisy,6,Shared Room,Low,Has Dog,Smoker,Jain
+Alicia Glover,Evening,Nurse,Introvert,Messy,1 AM,7 AM,Heavy Sleeper,Quiet,4,Private Room,High,Has Dog,Both,Non-Vegetarian
+Kimberly Sherman,Night,Supporting Staff,Introvert,Organised,9 PM,6 AM,Light Sleeper,Quiet,7,Shared Room,Medium,No Pets,Smoker,Vegan
+Melanie Meyer,Night,Customer Support,Extrovert,Both,1 AM,5 AM,Heavy Sleeper,Noisy,6,Shared Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,No Restrictions
+Linda Andrews,Morning,Nurse,Introvert,Organised,1 AM,8 AM,Heavy Sleeper,Quiet,8,Private Room,Medium,No Pets,Okay with Roommate's Habits,No Restrictions
+Elizabeth Hall,Evening,Customer Support,Introvert,Messy,1 AM,5 AM,Heavy Sleeper,Quiet,5,Private Room,High,Has Cat,Drinker,No Restrictions
+Angela Liu,Morning,Nurse,Introvert,Messy,12 AM,8 AM,Heavy Sleeper,Noisy,6,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,No Restrictions
+Mallory Mcdaniel,Evening,Customer Support,Introvert,Messy,11 PM,6 AM,Heavy Sleeper,Noisy,9,Shared Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Tabitha Palmer,Night,Developer,Introvert,Messy,12 AM,6 AM,Light Sleeper,Noisy,1,Private Room,High,No Pets,Both,Vegetarian
+Megan Smith,Night,Nurse,Introvert,Organised,11 PM,6 AM,Heavy Sleeper,Noisy,2,Private Room,High,Has Cat,Drinker,Vegetarian
+Lori Knight,Night,Supporting Staff,Extrovert,Both,11 PM,5 AM,Heavy Sleeper,Quiet,1,Shared Room,Low,Has Dog,Non-Smoker/Non-Drinker,Jain
+Lisa Martin,Evening,Customer Support,Extrovert,Both,12 AM,6 AM,Heavy Sleeper,Quiet,9,Shared Room,High,No Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Rebecca Phillips,Night,Nurse,Extrovert,Messy,1 AM,5 AM,Heavy Sleeper,Quiet,9,Private Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Sandra Rasmussen,Evening,Developer,Extrovert,Organised,12 AM,9 AM,Heavy Sleeper,Noisy,3,Shared Room,Low,Okay with Roommate's Pets,Both,Vegetarian
+Susan Hansen,Night,Customer Support,Extrovert,Both,12 AM,5 AM,Heavy Sleeper,Quiet,5,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Vegetarian
+Molly Gonzalez,Evening,Engineer,Introvert,Organised,11 PM,5 AM,Light Sleeper,Quiet,4,Shared Room,Medium,Has Cat,Smoker,Vegetarian
+Marilyn Allen,Evening,Developer,Extrovert,Organised,10 PM,7 AM,Heavy Sleeper,Noisy,2,Shared Room,High,Has Dog,Non-Smoker/Non-Drinker,Jain
+Anna Lang,Morning,Nurse,Extrovert,Organised,12 AM,5 AM,Heavy Sleeper,Noisy,7,Shared Room,Medium,Has Dog,Smoker,No Restrictions
+Sonia Watson,Morning,Developer,Introvert,Both,10 PM,7 AM,Light Sleeper,Quiet,2,Private Room,Low,Okay with Roommate's Pets,Smoker,Vegan
+Amy Nunez,Night,Supporting Staff,Introvert,Both,12 AM,8 AM,Heavy Sleeper,Noisy,2,Private Room,High,Has Dog,Smoker,Vegan
+Mrs. Dana Jenkins,Evening,Engineer,Extrovert,Both,12 AM,8 AM,Light Sleeper,Noisy,6,Shared Room,High,Has Cat,Drinker,No Restrictions
+Dr. Angela Gaines,Morning,Nurse,Extrovert,Both,12 AM,6 AM,Heavy Sleeper,Noisy,7,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Monica Russell,Morning,Supporting Staff,Introvert,Both,12 AM,8 AM,Light Sleeper,Quiet,6,Private Room,Low,Has Cat,Smoker,Vegan
+Ashley Moore,Evening,Nurse,Extrovert,Organised,12 AM,7 AM,Heavy Sleeper,Noisy,1,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,Vegetarian
+Valerie Lewis,Morning,Customer Support,Extrovert,Messy,11 PM,8 AM,Light Sleeper,Quiet,10,Private Room,Medium,Okay with Roommate's Pets,Both,Jain
+Kathryn Pittman,Evening,Nurse,Introvert,Both,12 AM,6 AM,Light Sleeper,Quiet,8,Shared Room,Low,Okay with Roommate's Pets,Both,Vegan
+Mallory Lewis,Evening,Engineer,Introvert,Messy,12 AM,9 AM,Heavy Sleeper,Quiet,9,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Emily Moran,Evening,Customer Support,Introvert,Organised,11 PM,5 AM,Heavy Sleeper,Quiet,1,Shared Room,High,Has Cat,Smoker,Vegetarian
+Cindy Ray,Evening,Customer Support,Introvert,Messy,9 PM,8 AM,Light Sleeper,Quiet,8,Shared Room,High,No Pets,Drinker,No Restrictions
+Misty Holland,Night,Nurse,Introvert,Organised,12 AM,9 AM,Light Sleeper,Noisy,5,Private Room,High,Has Cat,Drinker,Vegetarian
+Kimberly Johnson,Evening,Supporting Staff,Introvert,Messy,11 PM,6 AM,Heavy Sleeper,Quiet,6,Shared Room,Medium,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Sarah Guzman,Morning,Supporting Staff,Introvert,Organised,12 AM,6 AM,Light Sleeper,Noisy,6,Shared Room,Medium,Has Dog,Smoker,Jain
+Stephanie Arias,Night,Customer Support,Introvert,Messy,10 PM,8 AM,Heavy Sleeper,Quiet,4,Private Room,High,Has Dog,Both,Vegetarian
+Deborah Garner,Evening,Supporting Staff,Introvert,Organised,12 AM,5 AM,Light Sleeper,Noisy,10,Shared Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Samantha Hanson,Night,Supporting Staff,Introvert,Organised,12 AM,7 AM,Heavy Sleeper,Noisy,8,Private Room,Low,No Pets,Smoker,No Restrictions
+Valerie Adams,Night,Engineer,Introvert,Organised,1 AM,5 AM,Heavy Sleeper,Quiet,5,Private Room,High,No Pets,Okay with Roommate's Habits,Vegan
+Jill Stewart,Morning,Developer,Introvert,Both,1 AM,9 AM,Light Sleeper,Noisy,7,Private Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Christine Taylor,Evening,Developer,Extrovert,Both,11 PM,7 AM,Light Sleeper,Quiet,5,Private Room,Medium,Has Cat,Okay with Roommate's Habits,Jain
+Jasmine Barajas,Evening,Customer Support,Introvert,Both,1 AM,8 AM,Heavy Sleeper,Noisy,1,Shared Room,Low,Has Cat,Okay with Roommate's Habits,Jain
+Haley Gardner,Morning,Developer,Extrovert,Messy,1 AM,8 AM,Light Sleeper,Noisy,5,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,No Restrictions
+Christine Barajas,Evening,Developer,Introvert,Messy,1 AM,7 AM,Light Sleeper,Quiet,4,Shared Room,High,Has Dog,Smoker,Non-Vegetarian
+Angela Simpson,Evening,Engineer,Introvert,Both,10 PM,8 AM,Heavy Sleeper,Quiet,7,Shared Room,Medium,No Pets,Drinker,Vegetarian
+Alyssa Stephens,Morning,Nurse,Introvert,Both,12 AM,8 AM,Heavy Sleeper,Quiet,7,Private Room,Medium,No Pets,Drinker,Vegan
+April Robinson,Night,Nurse,Extrovert,Organised,12 AM,9 AM,Light Sleeper,Noisy,7,Shared Room,High,Okay with Roommate's Pets,Drinker,Non-Vegetarian
+Kelly Rivera,Morning,Supporting Staff,Introvert,Messy,10 PM,9 AM,Heavy Sleeper,Quiet,5,Private Room,Low,Okay with Roommate's Pets,Both,Vegan
+Susan Tran,Morning,Nurse,Introvert,Messy,9 PM,6 AM,Heavy Sleeper,Quiet,4,Shared Room,Low,Has Cat,Smoker,No Restrictions
+Sierra Wallace,Night,Customer Support,Introvert,Messy,12 AM,6 AM,Heavy Sleeper,Noisy,9,Private Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Christine Rice,Evening,Supporting Staff,Introvert,Organised,1 AM,6 AM,Heavy Sleeper,Quiet,7,Shared Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Shawna Carroll,Morning,Customer Support,Extrovert,Organised,12 AM,9 AM,Light Sleeper,Noisy,6,Private Room,Low,Okay with Roommate's Pets,Both,Non-Vegetarian
+Stacy Sanchez,Evening,Customer Support,Introvert,Messy,10 PM,5 AM,Light Sleeper,Quiet,9,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Jain
+Kelly Hernandez,Morning,Engineer,Introvert,Organised,10 PM,5 AM,Heavy Sleeper,Noisy,9,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Whitney Armstrong,Morning,Developer,Introvert,Messy,9 PM,6 AM,Heavy Sleeper,Noisy,10,Private Room,High,Has Dog,Drinker,Non-Vegetarian
+Christina Simon,Morning,Developer,Extrovert,Messy,1 AM,5 AM,Heavy Sleeper,Noisy,1,Private Room,High,Has Cat,Okay with Roommate's Habits,No Restrictions
+Maria Simmons,Morning,Developer,Extrovert,Messy,11 PM,9 AM,Heavy Sleeper,Quiet,1,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Jain
+Nancy Parker,Morning,Customer Support,Extrovert,Both,9 PM,5 AM,Light Sleeper,Noisy,3,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,Jain
+Rachel Mcfarland,Night,Customer Support,Extrovert,Messy,9 PM,8 AM,Light Sleeper,Quiet,2,Private Room,High,No Pets,Drinker,Non-Vegetarian
+Christine Robinson,Morning,Supporting Staff,Extrovert,Both,1 AM,6 AM,Light Sleeper,Noisy,10,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Robin Coleman,Evening,Developer,Introvert,Both,1 AM,9 AM,Light Sleeper,Quiet,1,Private Room,Medium,Has Dog,Both,Non-Vegetarian
+Courtney Allen,Evening,Developer,Introvert,Both,1 AM,6 AM,Light Sleeper,Quiet,10,Shared Room,High,No Pets,Drinker,Vegetarian
+Nicole Monroe,Morning,Nurse,Extrovert,Organised,12 AM,8 AM,Light Sleeper,Quiet,7,Private Room,High,No Pets,Both,Vegan
+Cynthia Price,Night,Customer Support,Extrovert,Organised,9 PM,5 AM,Light Sleeper,Quiet,10,Shared Room,Low,No Pets,Both,Vegan
+Laura Ramirez,Evening,Engineer,Introvert,Both,11 PM,6 AM,Light Sleeper,Noisy,7,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
+Jennifer Munoz,Night,Customer Support,Introvert,Both,9 PM,9 AM,Heavy Sleeper,Quiet,6,Private Room,Low,Has Cat,Okay with Roommate's Habits,Vegetarian
+Katherine Ford,Morning,Nurse,Extrovert,Both,9 PM,5 AM,Heavy Sleeper,Quiet,4,Shared Room,High,Has Cat,Smoker,No Restrictions
+Shelly Mosley,Morning,Engineer,Introvert,Organised,12 AM,5 AM,Heavy Sleeper,Noisy,10,Shared Room,Low,Has Cat,Drinker,Jain
+Teresa Morrow,Evening,Nurse,Extrovert,Messy,12 AM,8 AM,Light Sleeper,Noisy,3,Shared Room,Low,Okay with Roommate's Pets,Smoker,Jain
+Dawn Meyer,Night,Engineer,Extrovert,Messy,10 PM,5 AM,Light Sleeper,Noisy,4,Private Room,Low,Has Cat,Both,Vegan
+Erica Hernandez,Evening,Developer,Introvert,Messy,1 AM,6 AM,Light Sleeper,Noisy,6,Private Room,High,Has Cat,Non-Smoker/Non-Drinker,Vegetarian
+Sandra Stevenson,Evening,Nurse,Extrovert,Both,12 AM,9 AM,Heavy Sleeper,Noisy,6,Private Room,Low,Has Cat,Drinker,Jain
+Amber Barrett,Night,Nurse,Introvert,Both,10 PM,9 AM,Heavy Sleeper,Noisy,2,Shared Room,High,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Julie Taylor,Evening,Customer Support,Extrovert,Messy,9 PM,9 AM,Light Sleeper,Quiet,3,Private Room,High,No Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Kim Cunningham,Morning,Supporting Staff,Introvert,Both,10 PM,9 AM,Heavy Sleeper,Quiet,7,Private Room,High,No Pets,Smoker,Jain
+Kathleen Buck,Night,Engineer,Extrovert,Both,11 PM,6 AM,Heavy Sleeper,Noisy,10,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Jain
+Ms. Paula Anderson,Night,Nurse,Extrovert,Messy,9 PM,8 AM,Heavy Sleeper,Noisy,5,Shared Room,High,Has Dog,Smoker,No Restrictions
+Katherine Wallace,Morning,Customer Support,Introvert,Organised,9 PM,8 AM,Heavy Sleeper,Noisy,7,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,Jain
+Molly Flores,Morning,Developer,Extrovert,Messy,11 PM,9 AM,Light Sleeper,Noisy,7,Private Room,Medium,Has Dog,Drinker,Non-Vegetarian
+Miss Heather Bell,Morning,Developer,Extrovert,Organised,1 AM,9 AM,Light Sleeper,Quiet,4,Private Room,High,Okay with Roommate's Pets,Both,No Restrictions
+Angela Raymond,Evening,Nurse,Extrovert,Both,9 PM,6 AM,Heavy Sleeper,Noisy,10,Shared Room,Low,Has Cat,Non-Smoker/Non-Drinker,Jain
+Elizabeth Odonnell,Night,Engineer,Introvert,Messy,1 AM,9 AM,Light Sleeper,Noisy,8,Private Room,Medium,No Pets,Smoker,Jain
+Dr. Sharon Juarez,Evening,Nurse,Extrovert,Messy,10 PM,8 AM,Light Sleeper,Quiet,4,Private Room,High,Okay with Roommate's Pets,Drinker,Vegetarian
+Doris Dillon,Morning,Developer,Introvert,Messy,9 PM,5 AM,Heavy Sleeper,Noisy,4,Shared Room,High,Has Cat,Non-Smoker/Non-Drinker,Vegan
+Jennifer Moore,Evening,Nurse,Introvert,Organised,11 PM,7 AM,Light Sleeper,Noisy,6,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Jain
+Olivia Hansen,Evening,Supporting Staff,Extrovert,Messy,11 PM,7 AM,Heavy Sleeper,Quiet,4,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,No Restrictions
+Amanda Taylor,Night,Supporting Staff,Extrovert,Both,12 AM,6 AM,Heavy Sleeper,Noisy,3,Shared Room,Medium,Has Dog,Okay with Roommate's Habits,Vegan
+Brittany Keller,Night,Developer,Extrovert,Messy,12 AM,9 AM,Light Sleeper,Quiet,9,Private Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Christy Hernandez,Evening,Engineer,Extrovert,Messy,12 AM,9 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,Has Cat,Okay with Roommate's Habits,Vegetarian
+Lori Wiley,Night,Nurse,Extrovert,Organised,11 PM,7 AM,Heavy Sleeper,Noisy,8,Private Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Jain
+Melissa Brown,Night,Supporting Staff,Extrovert,Both,12 AM,7 AM,Light Sleeper,Quiet,7,Private Room,Low,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Rachel Murillo,Night,Customer Support,Extrovert,Both,9 PM,7 AM,Light Sleeper,Noisy,9,Shared Room,High,No Pets,Both,No Restrictions
+Julia Fuller,Night,Customer Support,Extrovert,Both,9 PM,5 AM,Light Sleeper,Noisy,6,Shared Room,High,Has Cat,Drinker,No Restrictions
+Suzanne Harper,Morning,Engineer,Introvert,Messy,11 PM,7 AM,Heavy Sleeper,Noisy,9,Private Room,Low,Has Dog,Okay with Roommate's Habits,Vegan
+Amber Hicks,Night,Customer Support,Introvert,Messy,10 PM,6 AM,Light Sleeper,Quiet,7,Shared Room,High,Okay with Roommate's Pets,Drinker,Jain
+Ashley Briggs,Evening,Nurse,Extrovert,Organised,12 AM,5 AM,Light Sleeper,Quiet,5,Private Room,Medium,Has Cat,Smoker,No Restrictions
+Colleen Sosa,Night,Nurse,Extrovert,Organised,1 AM,5 AM,Light Sleeper,Noisy,6,Private Room,Low,Has Dog,Both,Jain
+Jaclyn Mathis,Evening,Customer Support,Extrovert,Messy,9 PM,9 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Lauren Pearson,Evening,Customer Support,Introvert,Both,10 PM,6 AM,Heavy Sleeper,Quiet,8,Shared Room,Medium,Okay with Roommate's Pets,Smoker,No Restrictions
+Angela Bartlett,Night,Customer Support,Extrovert,Organised,10 PM,9 AM,Light Sleeper,Quiet,2,Shared Room,Medium,Okay with Roommate's Pets,Both,Jain
+Carrie Avila,Night,Nurse,Extrovert,Both,1 AM,6 AM,Light Sleeper,Noisy,6,Private Room,High,No Pets,Drinker,Vegetarian
+Kelly Houston,Evening,Developer,Introvert,Organised,11 PM,8 AM,Light Sleeper,Quiet,2,Private Room,High,Has Dog,Both,No Restrictions
+Samantha Murray,Night,Engineer,Extrovert,Organised,1 AM,9 AM,Heavy Sleeper,Noisy,5,Shared Room,Low,Has Cat,Drinker,Non-Vegetarian
+Dawn Mendoza,Night,Supporting Staff,Extrovert,Messy,9 PM,7 AM,Light Sleeper,Quiet,1,Shared Room,Low,Has Dog,Both,Vegan
+Elizabeth Jackson,Morning,Developer,Extrovert,Messy,10 PM,5 AM,Light Sleeper,Quiet,1,Private Room,Low,Has Dog,Smoker,Non-Vegetarian
+Maria Franco,Night,Engineer,Extrovert,Both,9 PM,9 AM,Light Sleeper,Noisy,2,Shared Room,High,Has Dog,Non-Smoker/Non-Drinker,Jain
+Kayla Ali,Night,Supporting Staff,Introvert,Both,11 PM,6 AM,Light Sleeper,Noisy,8,Private Room,Low,Okay with Roommate's Pets,Smoker,No Restrictions
+Sarah Richard,Night,Customer Support,Extrovert,Messy,11 PM,8 AM,Heavy Sleeper,Quiet,3,Shared Room,High,Has Dog,Drinker,No Restrictions
+Kim Sanchez,Night,Developer,Extrovert,Both,12 AM,5 AM,Heavy Sleeper,Noisy,9,Shared Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Carolyn Alvarado,Morning,Nurse,Extrovert,Messy,11 PM,6 AM,Light Sleeper,Noisy,9,Shared Room,Low,No Pets,Drinker,Vegetarian
+Wanda Koch,Morning,Developer,Extrovert,Organised,11 PM,7 AM,Heavy Sleeper,Noisy,10,Shared Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Patricia Donovan,Night,Supporting Staff,Introvert,Messy,10 PM,9 AM,Light Sleeper,Noisy,5,Shared Room,Medium,Okay with Roommate's Pets,Smoker,Jain
+Amanda Myers,Night,Nurse,Introvert,Both,11 PM,6 AM,Heavy Sleeper,Noisy,2,Shared Room,Low,Okay with Roommate's Pets,Both,No Restrictions
+Katherine Nguyen,Morning,Developer,Introvert,Messy,9 PM,8 AM,Light Sleeper,Noisy,8,Shared Room,Low,No Pets,Okay with Roommate's Habits,Vegetarian
+Shelley Davis,Evening,Customer Support,Extrovert,Organised,11 PM,9 AM,Light Sleeper,Quiet,3,Shared Room,Low,No Pets,Okay with Roommate's Habits,Vegetarian
+Sandra Dunn,Morning,Nurse,Extrovert,Messy,12 AM,9 AM,Heavy Sleeper,Noisy,9,Private Room,Medium,No Pets,Smoker,Non-Vegetarian
+Erin Baker,Evening,Supporting Staff,Introvert,Both,12 AM,9 AM,Heavy Sleeper,Noisy,3,Private Room,Low,Okay with Roommate's Pets,Smoker,Jain
+Jamie Hall,Night,Customer Support,Extrovert,Messy,10 PM,7 AM,Heavy Sleeper,Quiet,1,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Christy Kirk,Morning,Supporting Staff,Extrovert,Messy,11 PM,9 AM,Heavy Sleeper,Quiet,4,Private Room,Low,Okay with Roommate's Pets,Both,Jain
+Annette Byrd,Night,Supporting Staff,Extrovert,Both,10 PM,9 AM,Light Sleeper,Quiet,9,Private Room,High,Has Dog,Drinker,No Restrictions
+Alyssa Schneider,Night,Engineer,Extrovert,Organised,10 PM,5 AM,Light Sleeper,Noisy,9,Private Room,High,Has Cat,Smoker,Vegan
+Susan Cook,Night,Nurse,Extrovert,Organised,11 PM,8 AM,Heavy Sleeper,Noisy,3,Private Room,High,Has Dog,Both,Non-Vegetarian
+Miranda Madden,Morning,Customer Support,Introvert,Both,11 PM,6 AM,Light Sleeper,Noisy,8,Shared Room,Low,No Pets,Drinker,Vegetarian
+Dawn Garcia,Morning,Developer,Extrovert,Organised,12 AM,9 AM,Light Sleeper,Quiet,4,Private Room,Low,Has Cat,Non-Smoker/Non-Drinker,Non-Vegetarian
+Samantha Sanders,Morning,Nurse,Extrovert,Messy,1 AM,7 AM,Light Sleeper,Noisy,10,Shared Room,High,No Pets,Drinker,Non-Vegetarian
+Jennifer Castro,Night,Customer Support,Extrovert,Organised,12 AM,6 AM,Heavy Sleeper,Noisy,10,Shared Room,Medium,No Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Mary Harmon,Morning,Supporting Staff,Introvert,Both,12 AM,8 AM,Light Sleeper,Quiet,8,Shared Room,Medium,Has Cat,Smoker,No Restrictions
+Shelia Holmes,Night,Customer Support,Extrovert,Both,12 AM,7 AM,Light Sleeper,Noisy,6,Private Room,Low,No Pets,Both,Jain
+Monica Hart,Morning,Nurse,Extrovert,Organised,10 PM,9 AM,Heavy Sleeper,Noisy,7,Shared Room,High,Has Dog,Both,Vegetarian
+Christina Cortez,Morning,Nurse,Extrovert,Organised,11 PM,5 AM,Heavy Sleeper,Quiet,3,Shared Room,Low,Has Cat,Drinker,No Restrictions
+Tara Moran,Morning,Customer Support,Extrovert,Both,9 PM,8 AM,Light Sleeper,Noisy,2,Private Room,Low,Has Dog,Drinker,Jain
+Sara Lam,Morning,Nurse,Introvert,Messy,1 AM,6 AM,Heavy Sleeper,Noisy,5,Shared Room,High,Has Cat,Okay with Roommate's Habits,Vegetarian
+Katie Walters,Morning,Nurse,Extrovert,Messy,11 PM,8 AM,Heavy Sleeper,Quiet,4,Shared Room,Medium,Has Cat,Drinker,Vegan
+Mrs. Kimberly Jones MD,Night,Supporting Staff,Introvert,Organised,11 PM,9 AM,Light Sleeper,Quiet,3,Shared Room,High,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Alexis Miller,Morning,Developer,Extrovert,Both,1 AM,5 AM,Heavy Sleeper,Noisy,3,Private Room,High,Has Cat,Both,Non-Vegetarian
+Sharon Taylor DDS,Night,Engineer,Introvert,Both,10 PM,8 AM,Heavy Sleeper,Quiet,2,Private Room,Medium,No Pets,Okay with Roommate's Habits,Jain
+Erin Webster,Evening,Engineer,Introvert,Messy,1 AM,6 AM,Light Sleeper,Noisy,5,Private Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Haley Russell,Evening,Engineer,Introvert,Both,1 AM,9 AM,Light Sleeper,Quiet,2,Private Room,High,Has Cat,Okay with Roommate's Habits,Jain
+Cynthia Garcia,Night,Customer Support,Extrovert,Both,1 AM,9 AM,Light Sleeper,Quiet,5,Shared Room,Low,Has Cat,Non-Smoker/Non-Drinker,Non-Vegetarian
+Jamie Combs,Morning,Supporting Staff,Introvert,Organised,12 AM,6 AM,Heavy Sleeper,Quiet,7,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Sarah Ruiz,Evening,Developer,Introvert,Organised,1 AM,8 AM,Heavy Sleeper,Noisy,7,Private Room,Medium,Has Dog,Drinker,No Restrictions
+Rachel Gardner,Night,Nurse,Extrovert,Organised,11 PM,5 AM,Light Sleeper,Noisy,9,Shared Room,Medium,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Dr. Danielle Carr DDS,Night,Customer Support,Introvert,Both,10 PM,8 AM,Heavy Sleeper,Quiet,7,Shared Room,Low,Has Cat,Both,Jain
+Ann Henderson,Night,Customer Support,Extrovert,Both,1 AM,7 AM,Light Sleeper,Noisy,2,Shared Room,Medium,Has Cat,Both,Non-Vegetarian
+Julia Edwards,Night,Supporting Staff,Introvert,Messy,10 PM,9 AM,Light Sleeper,Noisy,6,Private Room,High,Okay with Roommate's Pets,Both,Jain
+Dorothy Cameron,Night,Developer,Extrovert,Organised,11 PM,6 AM,Heavy Sleeper,Quiet,6,Private Room,Low,No Pets,Both,Non-Vegetarian
+Renee Martin,Evening,Supporting Staff,Extrovert,Organised,12 AM,8 AM,Heavy Sleeper,Noisy,5,Shared Room,Low,Has Cat,Both,Vegan
+Amy Vincent,Morning,Engineer,Extrovert,Organised,11 PM,5 AM,Heavy Sleeper,Quiet,3,Shared Room,High,No Pets,Okay with Roommate's Habits,Jain
+Stefanie Jackson,Morning,Customer Support,Extrovert,Organised,12 AM,6 AM,Light Sleeper,Noisy,9,Private Room,High,Has Cat,Smoker,Non-Vegetarian
+Alicia Sanchez,Evening,Nurse,Introvert,Messy,1 AM,6 AM,Light Sleeper,Quiet,5,Private Room,Low,Has Dog,Drinker,No Restrictions
+Teresa Paul PhD,Night,Supporting Staff,Introvert,Messy,9 PM,9 AM,Heavy Sleeper,Quiet,10,Shared Room,Medium,Has Cat,Smoker,Vegetarian
+Colleen White,Morning,Developer,Extrovert,Messy,9 PM,6 AM,Light Sleeper,Quiet,2,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Doris Miller,Morning,Engineer,Extrovert,Messy,1 AM,8 AM,Heavy Sleeper,Noisy,10,Shared Room,Low,Has Cat,Drinker,Non-Vegetarian
+Sharon Martin,Evening,Supporting Staff,Introvert,Both,9 PM,6 AM,Light Sleeper,Quiet,5,Private Room,Medium,No Pets,Smoker,Vegan
+Jasmine Morrow,Night,Engineer,Extrovert,Messy,12 AM,6 AM,Light Sleeper,Quiet,7,Shared Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Nancy Torres,Morning,Customer Support,Introvert,Both,12 AM,9 AM,Light Sleeper,Noisy,6,Shared Room,High,No Pets,Both,Vegan
+Sandy Jones,Morning,Developer,Extrovert,Both,12 AM,9 AM,Light Sleeper,Quiet,8,Shared Room,Low,No Pets,Smoker,Jain
+Diana Ray,Night,Developer,Introvert,Both,10 PM,5 AM,Heavy Sleeper,Noisy,3,Private Room,Medium,No Pets,Smoker,Vegetarian
+Krista Sanchez,Evening,Engineer,Extrovert,Messy,1 AM,9 AM,Heavy Sleeper,Noisy,7,Private Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Hannah Odom,Night,Nurse,Extrovert,Messy,9 PM,5 AM,Heavy Sleeper,Quiet,8,Private Room,Low,No Pets,Okay with Roommate's Habits,Vegan
+Elizabeth Tucker,Morning,Engineer,Introvert,Organised,1 AM,5 AM,Heavy Sleeper,Noisy,3,Private Room,High,Has Dog,Non-Smoker/Non-Drinker,Jain
+Samantha Gates,Night,Customer Support,Extrovert,Both,10 PM,6 AM,Light Sleeper,Quiet,4,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Beth Murphy,Night,Engineer,Introvert,Messy,9 PM,6 AM,Light Sleeper,Quiet,7,Shared Room,Low,Okay with Roommate's Pets,Both,Jain
+Alexis Hoover,Morning,Customer Support,Introvert,Both,11 PM,8 AM,Light Sleeper,Noisy,5,Private Room,High,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Christine Melendez,Morning,Developer,Introvert,Messy,10 PM,9 AM,Light Sleeper,Noisy,5,Shared Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Lisa West MD,Evening,Customer Support,Introvert,Organised,11 PM,9 AM,Light Sleeper,Quiet,1,Shared Room,Medium,Has Dog,Drinker,No Restrictions
+Nancy Holland,Evening,Developer,Introvert,Messy,11 PM,7 AM,Heavy Sleeper,Quiet,3,Shared Room,Low,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Jennifer Huff,Morning,Supporting Staff,Extrovert,Both,11 PM,6 AM,Light Sleeper,Noisy,7,Shared Room,Medium,No Pets,Both,Vegan
+Donna Payne,Morning,Nurse,Introvert,Both,10 PM,8 AM,Light Sleeper,Noisy,9,Private Room,Medium,Has Cat,Drinker,Jain
+Melissa Howard,Night,Engineer,Extrovert,Messy,10 PM,8 AM,Heavy Sleeper,Noisy,9,Private Room,Low,Okay with Roommate's Pets,Drinker,Jain
+Tanya Shelton,Night,Developer,Extrovert,Organised,11 PM,6 AM,Heavy Sleeper,Quiet,1,Private Room,Low,No Pets,Smoker,Jain
+Kathleen Davis,Night,Engineer,Extrovert,Messy,11 PM,6 AM,Light Sleeper,Quiet,6,Private Room,Low,Okay with Roommate's Pets,Drinker,Vegetarian
+Angela Erickson,Evening,Developer,Extrovert,Organised,12 AM,5 AM,Heavy Sleeper,Quiet,9,Private Room,Medium,Okay with Roommate's Pets,Drinker,Vegan
+Paige Salinas,Morning,Engineer,Introvert,Both,11 PM,6 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Non-Vegetarian
+Kim Johnson,Morning,Developer,Introvert,Both,12 AM,7 AM,Light Sleeper,Noisy,5,Shared Room,High,No Pets,Smoker,Vegan
+Andrea Knight,Evening,Supporting Staff,Introvert,Organised,10 PM,8 AM,Heavy Sleeper,Quiet,1,Shared Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Vegan
+Veronica Alvarez,Night,Nurse,Extrovert,Organised,11 PM,7 AM,Light Sleeper,Noisy,7,Shared Room,Low,Has Dog,Drinker,Vegan
+Cheryl Hill,Evening,Engineer,Extrovert,Both,10 PM,7 AM,Heavy Sleeper,Quiet,7,Shared Room,Medium,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Kaitlyn Moore,Morning,Nurse,Introvert,Both,1 AM,5 AM,Light Sleeper,Quiet,8,Shared Room,Medium,Has Cat,Both,No Restrictions
+Julie Rangel,Morning,Engineer,Introvert,Organised,9 PM,5 AM,Heavy Sleeper,Noisy,5,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
+Allison Stewart,Night,Customer Support,Introvert,Messy,10 PM,5 AM,Light Sleeper,Noisy,1,Shared Room,Medium,Okay with Roommate's Pets,Both,Non-Vegetarian
+Amanda Day,Night,Customer Support,Introvert,Both,9 PM,7 AM,Heavy Sleeper,Quiet,6,Shared Room,Medium,No Pets,Drinker,No Restrictions
+Phyllis Alvarez,Morning,Customer Support,Extrovert,Messy,1 AM,5 AM,Light Sleeper,Noisy,8,Shared Room,Low,No Pets,Drinker,No Restrictions
+Ashley Hanson,Morning,Supporting Staff,Introvert,Both,12 AM,9 AM,Heavy Sleeper,Noisy,7,Shared Room,High,Has Dog,Smoker,Jain
+Emily Floyd,Night,Supporting Staff,Extrovert,Organised,9 PM,6 AM,Light Sleeper,Noisy,3,Shared Room,High,Okay with Roommate's Pets,Smoker,Jain
+Carol Montoya,Evening,Supporting Staff,Introvert,Messy,9 PM,7 AM,Heavy Sleeper,Noisy,4,Shared Room,High,No Pets,Drinker,No Restrictions
+Teresa Massey,Evening,Developer,Introvert,Messy,12 AM,6 AM,Light Sleeper,Noisy,8,Private Room,High,No Pets,Both,Vegetarian
+Mrs. Dana Scott,Evening,Developer,Introvert,Both,11 PM,8 AM,Heavy Sleeper,Quiet,9,Private Room,High,Has Cat,Both,Vegetarian
+Leslie Rogers,Night,Developer,Extrovert,Both,10 PM,7 AM,Light Sleeper,Noisy,5,Shared Room,Medium,No Pets,Both,Vegetarian
+Amanda Pratt,Morning,Customer Support,Extrovert,Both,1 AM,6 AM,Light Sleeper,Quiet,8,Private Room,High,No Pets,Drinker,Vegan
+Amy Vega,Morning,Engineer,Introvert,Both,9 PM,5 AM,Light Sleeper,Noisy,6,Private Room,High,Has Cat,Smoker,Vegan
+Laurie Robertson,Evening,Developer,Introvert,Organised,10 PM,9 AM,Heavy Sleeper,Quiet,2,Private Room,Medium,Has Cat,Drinker,Vegetarian
+Debbie Richards,Night,Customer Support,Extrovert,Messy,11 PM,5 AM,Light Sleeper,Quiet,4,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Jain
+Summer Hughes,Night,Customer Support,Introvert,Messy,11 PM,5 AM,Light Sleeper,Quiet,7,Private Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Yvette Ramirez,Evening,Engineer,Introvert,Both,11 PM,7 AM,Light Sleeper,Noisy,8,Private Room,Low,Has Dog,Non-Smoker/Non-Drinker,Jain
+Nancy Russell,Evening,Nurse,Introvert,Messy,10 PM,8 AM,Light Sleeper,Quiet,5,Private Room,High,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Mary Miller,Night,Engineer,Extrovert,Both,10 PM,7 AM,Light Sleeper,Quiet,4,Private Room,High,Okay with Roommate's Pets,Both,Non-Vegetarian
+Lauren Benson,Evening,Engineer,Introvert,Both,10 PM,6 AM,Heavy Sleeper,Noisy,7,Private Room,Low,Has Cat,Non-Smoker/Non-Drinker,Jain
+Taylor Martinez,Morning,Engineer,Introvert,Both,11 PM,5 AM,Heavy Sleeper,Quiet,6,Shared Room,Medium,Okay with Roommate's Pets,Drinker,Non-Vegetarian
+Isabella Moore,Morning,Supporting Staff,Extrovert,Both,10 PM,6 AM,Light Sleeper,Noisy,10,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Vegetarian
+Christine Cannon,Morning,Nurse,Extrovert,Both,11 PM,9 AM,Light Sleeper,Quiet,9,Shared Room,High,Has Dog,Smoker,Jain
+Monique Rivera,Evening,Supporting Staff,Introvert,Messy,9 PM,5 AM,Heavy Sleeper,Quiet,2,Shared Room,Low,No Pets,Both,Vegetarian
+Rebecca Price,Morning,Nurse,Extrovert,Messy,1 AM,6 AM,Light Sleeper,Quiet,5,Shared Room,Medium,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Yvonne Page,Morning,Supporting Staff,Extrovert,Organised,11 PM,7 AM,Heavy Sleeper,Quiet,7,Private Room,High,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+April Green,Evening,Customer Support,Introvert,Organised,10 PM,8 AM,Heavy Sleeper,Noisy,3,Shared Room,Medium,No Pets,Smoker,Vegan
+Kim Barnett,Night,Engineer,Introvert,Both,11 PM,9 AM,Heavy Sleeper,Noisy,2,Private Room,Low,Okay with Roommate's Pets,Both,Vegetarian
+Peggy Mendoza DDS,Evening,Developer,Introvert,Both,10 PM,9 AM,Heavy Sleeper,Noisy,8,Private Room,Low,No Pets,Both,Jain
+Linda Mills,Morning,Nurse,Extrovert,Organised,10 PM,5 AM,Heavy Sleeper,Noisy,7,Private Room,Medium,Has Dog,Okay with Roommate's Habits,No Restrictions
+Ashley Johnson,Morning,Supporting Staff,Introvert,Messy,9 PM,5 AM,Light Sleeper,Quiet,3,Shared Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Paula Hubbard,Night,Engineer,Introvert,Messy,1 AM,9 AM,Heavy Sleeper,Quiet,10,Private Room,High,Has Cat,Both,Vegan
+Brooke Daniels,Evening,Engineer,Introvert,Organised,9 PM,8 AM,Light Sleeper,Quiet,1,Private Room,Medium,Has Cat,Both,Vegan
+Alexis Mathis,Morning,Supporting Staff,Extrovert,Organised,10 PM,5 AM,Heavy Sleeper,Quiet,6,Private Room,High,Has Dog,Okay with Roommate's Habits,No Restrictions
+Linda Sheppard,Evening,Supporting Staff,Extrovert,Messy,9 PM,6 AM,Light Sleeper,Noisy,8,Private Room,Medium,No Pets,Okay with Roommate's Habits,Vegan
+Nicole Hancock,Morning,Customer Support,Extrovert,Messy,11 PM,6 AM,Light Sleeper,Quiet,8,Shared Room,High,Has Dog,Smoker,Vegan
+Anna Williams,Night,Engineer,Extrovert,Messy,9 PM,8 AM,Light Sleeper,Quiet,5,Private Room,High,Has Dog,Drinker,Jain
+Misty Romero,Evening,Supporting Staff,Extrovert,Both,1 AM,9 AM,Heavy Sleeper,Quiet,6,Shared Room,Medium,No Pets,Drinker,Non-Vegetarian
+Emily Mason,Evening,Supporting Staff,Introvert,Organised,11 PM,7 AM,Light Sleeper,Noisy,7,Private Room,Medium,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Julia Marks,Morning,Nurse,Introvert,Messy,11 PM,9 AM,Light Sleeper,Noisy,6,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Brenda Martinez,Night,Supporting Staff,Introvert,Organised,1 AM,8 AM,Heavy Sleeper,Noisy,10,Private Room,Medium,No Pets,Drinker,Vegetarian
+Amanda Campbell,Night,Nurse,Extrovert,Organised,11 PM,9 AM,Light Sleeper,Noisy,9,Shared Room,High,Has Dog,Smoker,Jain
+Pamela Roy,Night,Developer,Introvert,Organised,10 PM,8 AM,Light Sleeper,Noisy,2,Private Room,Low,No Pets,Drinker,No Restrictions
+Alexa Miller,Evening,Developer,Extrovert,Organised,1 AM,7 AM,Heavy Sleeper,Noisy,9,Shared Room,Medium,Okay with Roommate's Pets,Drinker,Jain
+Heidi Ball,Night,Customer Support,Extrovert,Organised,10 PM,8 AM,Light Sleeper,Quiet,5,Shared Room,Low,No Pets,Smoker,Non-Vegetarian
+Mrs. Dawn Bradley MD,Evening,Supporting Staff,Extrovert,Both,10 PM,5 AM,Light Sleeper,Noisy,3,Shared Room,Medium,Has Cat,Both,Vegetarian
+Regina Molina,Morning,Customer Support,Introvert,Both,1 AM,7 AM,Heavy Sleeper,Noisy,8,Shared Room,High,No Pets,Smoker,No Restrictions
+Kathy Mccall,Morning,Supporting Staff,Extrovert,Messy,10 PM,8 AM,Heavy Sleeper,Quiet,1,Shared Room,High,Has Cat,Both,No Restrictions
+Dorothy Cisneros,Night,Supporting Staff,Extrovert,Both,12 AM,7 AM,Light Sleeper,Noisy,10,Private Room,High,Okay with Roommate's Pets,Drinker,Vegan
+Kathryn Hubbard DDS,Morning,Supporting Staff,Introvert,Messy,9 PM,8 AM,Light Sleeper,Quiet,5,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Non-Vegetarian
+Erika Cruz,Night,Supporting Staff,Introvert,Organised,12 AM,5 AM,Light Sleeper,Quiet,6,Private Room,Low,Has Cat,Okay with Roommate's Habits,Jain
+Rebecca Tucker,Morning,Supporting Staff,Extrovert,Both,1 AM,7 AM,Heavy Sleeper,Quiet,7,Private Room,High,Has Cat,Drinker,Vegetarian
+Amy Turner,Evening,Nurse,Introvert,Messy,11 PM,9 AM,Light Sleeper,Quiet,2,Shared Room,High,Okay with Roommate's Pets,Smoker,Jain
+Paige Padilla,Night,Developer,Extrovert,Both,11 PM,7 AM,Heavy Sleeper,Noisy,9,Shared Room,Medium,No Pets,Both,Non-Vegetarian
+Rebecca Barber,Night,Engineer,Introvert,Messy,1 AM,8 AM,Heavy Sleeper,Noisy,6,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegan
+Kelly Berg,Morning,Customer Support,Extrovert,Messy,11 PM,8 AM,Heavy Sleeper,Noisy,4,Shared Room,Medium,Okay with Roommate's Pets,Both,No Restrictions
+Destiny Mcintyre,Night,Supporting Staff,Extrovert,Messy,9 PM,8 AM,Heavy Sleeper,Noisy,8,Shared Room,Low,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Robin Reed,Morning,Engineer,Extrovert,Organised,10 PM,7 AM,Light Sleeper,Quiet,8,Private Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,No Restrictions
+Alyssa Gilbert,Morning,Nurse,Extrovert,Messy,1 AM,5 AM,Light Sleeper,Quiet,2,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Connie Hunter,Night,Customer Support,Extrovert,Organised,9 PM,9 AM,Heavy Sleeper,Noisy,8,Private Room,High,No Pets,Smoker,Non-Vegetarian
+Michelle Johnson,Night,Nurse,Introvert,Both,11 PM,6 AM,Light Sleeper,Quiet,8,Shared Room,Low,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Pamela Yates,Morning,Customer Support,Introvert,Messy,12 AM,7 AM,Light Sleeper,Noisy,5,Private Room,Low,No Pets,Both,Vegetarian
+Joy Pruitt,Morning,Developer,Extrovert,Messy,11 PM,5 AM,Light Sleeper,Quiet,7,Shared Room,High,Okay with Roommate's Pets,Drinker,Non-Vegetarian
+Ruth Campbell,Evening,Engineer,Introvert,Messy,10 PM,5 AM,Light Sleeper,Noisy,6,Shared Room,Low,Okay with Roommate's Pets,Drinker,Jain
+Angela Nguyen,Morning,Supporting Staff,Extrovert,Organised,11 PM,9 AM,Heavy Sleeper,Noisy,4,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Jill Castaneda,Evening,Customer Support,Introvert,Messy,11 PM,6 AM,Light Sleeper,Noisy,3,Private Room,Low,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Anna King,Night,Nurse,Introvert,Messy,12 AM,9 AM,Heavy Sleeper,Quiet,7,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,No Restrictions
+Jessica Winters,Evening,Customer Support,Extrovert,Organised,9 PM,6 AM,Heavy Sleeper,Quiet,6,Private Room,High,Has Cat,Okay with Roommate's Habits,Vegan
+Natasha Serrano,Morning,Developer,Introvert,Organised,1 AM,8 AM,Heavy Sleeper,Noisy,10,Private Room,High,Has Cat,Smoker,Vegan
+Dawn Smith,Night,Developer,Introvert,Organised,1 AM,9 AM,Light Sleeper,Noisy,4,Private Room,High,Okay with Roommate's Pets,Smoker,Vegetarian
+Christine Long,Night,Developer,Introvert,Organised,11 PM,7 AM,Light Sleeper,Noisy,8,Shared Room,High,Has Dog,Non-Smoker/Non-Drinker,Jain
+Kristin Cruz,Night,Customer Support,Introvert,Both,1 AM,7 AM,Heavy Sleeper,Quiet,3,Shared Room,Low,No Pets,Drinker,Non-Vegetarian
+Tamara Jones,Night,Customer Support,Extrovert,Messy,11 PM,7 AM,Light Sleeper,Quiet,4,Shared Room,High,Has Dog,Okay with Roommate's Habits,No Restrictions
+Leah Williams,Night,Nurse,Introvert,Both,10 PM,8 AM,Light Sleeper,Noisy,5,Shared Room,Medium,No Pets,Okay with Roommate's Habits,No Restrictions
+Katelyn Brown,Morning,Nurse,Extrovert,Both,12 AM,9 AM,Light Sleeper,Noisy,7,Private Room,High,Has Dog,Smoker,Vegan
+Kayla Moyer,Evening,Developer,Extrovert,Messy,12 AM,6 AM,Light Sleeper,Noisy,4,Private Room,Medium,Has Dog,Both,No Restrictions
+Christina Lawrence,Night,Engineer,Extrovert,Messy,9 PM,5 AM,Light Sleeper,Noisy,5,Private Room,High,Has Dog,Okay with Roommate's Habits,Vegan
+Christina Pruitt,Morning,Engineer,Extrovert,Both,1 AM,5 AM,Light Sleeper,Quiet,7,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Shannon Farley,Night,Developer,Introvert,Both,10 PM,8 AM,Light Sleeper,Noisy,1,Shared Room,Medium,No Pets,Smoker,Vegetarian
+Deanna Young,Morning,Nurse,Extrovert,Messy,11 PM,9 AM,Light Sleeper,Quiet,1,Private Room,High,Has Cat,Okay with Roommate's Habits,Non-Vegetarian
+Michele Walton,Morning,Developer,Extrovert,Both,9 PM,7 AM,Light Sleeper,Quiet,2,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Non-Vegetarian
+Lisa Molina,Evening,Customer Support,Introvert,Both,11 PM,9 AM,Heavy Sleeper,Quiet,8,Shared Room,High,No Pets,Drinker,Non-Vegetarian
+Christina Turner,Morning,Nurse,Introvert,Organised,9 PM,8 AM,Light Sleeper,Noisy,3,Shared Room,Low,No Pets,Non-Smoker/Non-Drinker,Vegan
+Julia Duffy,Night,Customer Support,Extrovert,Both,11 PM,6 AM,Heavy Sleeper,Noisy,2,Shared Room,Low,Has Dog,Drinker,Jain
+Tracy Morrow,Evening,Developer,Introvert,Organised,12 AM,9 AM,Light Sleeper,Quiet,5,Shared Room,High,Has Dog,Okay with Roommate's Habits,No Restrictions
+Nancy Kane,Night,Customer Support,Extrovert,Messy,11 PM,7 AM,Heavy Sleeper,Quiet,9,Private Room,Low,Okay with Roommate's Pets,Both,No Restrictions
+Miss Lauren Johnson DDS,Evening,Customer Support,Introvert,Messy,10 PM,5 AM,Light Sleeper,Noisy,3,Shared Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Laura Thompson,Night,Supporting Staff,Extrovert,Messy,11 PM,8 AM,Light Sleeper,Noisy,5,Shared Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,Jain
+Rachel Copeland DDS,Night,Customer Support,Extrovert,Both,10 PM,8 AM,Light Sleeper,Quiet,8,Private Room,High,Okay with Roommate's Pets,Drinker,No Restrictions
+Alicia Fuller,Evening,Engineer,Extrovert,Organised,1 AM,6 AM,Light Sleeper,Quiet,7,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
+Amanda Hines,Morning,Developer,Introvert,Organised,12 AM,5 AM,Light Sleeper,Noisy,9,Private Room,Low,No Pets,Drinker,Non-Vegetarian
+Cindy Barajas,Evening,Developer,Extrovert,Both,1 AM,5 AM,Light Sleeper,Quiet,5,Private Room,Low,Has Dog,Drinker,Vegetarian
+Samantha Webster,Evening,Engineer,Introvert,Both,12 AM,8 AM,Heavy Sleeper,Noisy,9,Private Room,Low,Has Cat,Both,Non-Vegetarian
+Stephanie Brown,Night,Nurse,Extrovert,Organised,11 PM,9 AM,Light Sleeper,Quiet,5,Shared Room,High,Has Cat,Drinker,Jain
+Vanessa Ross,Evening,Nurse,Introvert,Both,9 PM,7 AM,Light Sleeper,Noisy,4,Shared Room,Medium,Has Cat,Both,No Restrictions
+Lauren Parker,Night,Developer,Extrovert,Messy,10 PM,6 AM,Heavy Sleeper,Quiet,2,Private Room,High,No Pets,Okay with Roommate's Habits,No Restrictions
+Jacqueline Mcdonald,Evening,Nurse,Extrovert,Organised,12 AM,9 AM,Heavy Sleeper,Quiet,8,Private Room,High,Okay with Roommate's Pets,Smoker,Vegetarian
+Angie Moore,Evening,Engineer,Extrovert,Organised,11 PM,8 AM,Heavy Sleeper,Noisy,7,Private Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Maria Stein,Night,Nurse,Introvert,Both,10 PM,8 AM,Heavy Sleeper,Noisy,5,Shared Room,Low,No Pets,Both,Non-Vegetarian
+Gail Brown,Morning,Customer Support,Extrovert,Both,12 AM,5 AM,Heavy Sleeper,Quiet,7,Shared Room,High,Has Dog,Drinker,No Restrictions
+Amanda Ward,Morning,Developer,Introvert,Organised,9 PM,6 AM,Heavy Sleeper,Quiet,8,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Jain
+Susan Baker,Night,Nurse,Introvert,Both,1 AM,9 AM,Light Sleeper,Noisy,7,Shared Room,Medium,Okay with Roommate's Pets,Both,Non-Vegetarian
+Heather Ponce,Evening,Developer,Introvert,Messy,1 AM,5 AM,Heavy Sleeper,Noisy,4,Private Room,Low,Okay with Roommate's Pets,Drinker,No Restrictions
+Mrs. Elizabeth Warner,Night,Engineer,Introvert,Organised,1 AM,5 AM,Light Sleeper,Quiet,2,Shared Room,Low,Has Dog,Non-Smoker/Non-Drinker,Vegan
+Carol Fuller,Morning,Nurse,Extrovert,Both,12 AM,9 AM,Light Sleeper,Quiet,4,Private Room,Medium,Okay with Roommate's Pets,Both,Vegetarian
+Valerie Martinez,Evening,Developer,Introvert,Messy,12 AM,6 AM,Light Sleeper,Noisy,3,Shared Room,Low,Has Dog,Both,Non-Vegetarian
+Hannah Kelly,Morning,Nurse,Extrovert,Both,1 AM,6 AM,Heavy Sleeper,Quiet,8,Shared Room,High,No Pets,Drinker,Non-Vegetarian
+Erin King,Morning,Engineer,Extrovert,Messy,11 PM,9 AM,Light Sleeper,Noisy,7,Shared Room,High,No Pets,Drinker,Jain
+Beth Wallace,Night,Customer Support,Extrovert,Organised,1 AM,7 AM,Light Sleeper,Quiet,7,Private Room,High,No Pets,Drinker,Vegetarian
+Jacqueline Miller,Morning,Developer,Extrovert,Messy,10 PM,7 AM,Light Sleeper,Quiet,9,Private Room,Low,No Pets,Non-Smoker/Non-Drinker,Vegan
+Diana Nichols,Evening,Developer,Extrovert,Both,10 PM,6 AM,Light Sleeper,Quiet,5,Shared Room,Medium,Has Cat,Drinker,No Restrictions
+Mary Wilson,Night,Nurse,Extrovert,Organised,12 AM,7 AM,Light Sleeper,Quiet,10,Shared Room,Low,Has Cat,Okay with Roommate's Habits,Vegetarian
+Elizabeth Henderson,Night,Customer Support,Introvert,Organised,11 PM,5 AM,Light Sleeper,Quiet,5,Shared Room,Medium,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Sarah Bauer,Morning,Engineer,Introvert,Both,12 AM,9 AM,Heavy Sleeper,Quiet,1,Shared Room,High,Okay with Roommate's Pets,Smoker,Vegetarian
+Tanya Black,Night,Nurse,Introvert,Messy,10 PM,5 AM,Heavy Sleeper,Noisy,2,Shared Room,Medium,No Pets,Smoker,Vegetarian
+Karen Jones,Night,Developer,Extrovert,Organised,10 PM,9 AM,Heavy Sleeper,Quiet,5,Shared Room,Low,Has Cat,Non-Smoker/Non-Drinker,No Restrictions
+Dana Walker,Evening,Nurse,Extrovert,Messy,1 AM,9 AM,Light Sleeper,Noisy,7,Private Room,High,Has Cat,Both,Non-Vegetarian
+Hailey Roberts,Morning,Supporting Staff,Extrovert,Organised,12 AM,8 AM,Heavy Sleeper,Noisy,4,Private Room,Low,Okay with Roommate's Pets,Okay with Roommate's Habits,Jain
+Diane Smith,Morning,Engineer,Introvert,Organised,9 PM,8 AM,Heavy Sleeper,Quiet,8,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Lisa Watson,Night,Supporting Staff,Introvert,Both,11 PM,7 AM,Heavy Sleeper,Noisy,3,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Sarah Hernandez,Night,Developer,Extrovert,Organised,1 AM,8 AM,Heavy Sleeper,Quiet,10,Shared Room,Medium,No Pets,Non-Smoker/Non-Drinker,No Restrictions
+Alicia Parker,Morning,Nurse,Introvert,Organised,11 PM,7 AM,Light Sleeper,Noisy,5,Private Room,Medium,No Pets,Drinker,Jain
+Destiny Jackson,Night,Customer Support,Extrovert,Messy,10 PM,9 AM,Light Sleeper,Quiet,8,Shared Room,Medium,No Pets,Okay with Roommate's Habits,Non-Vegetarian
+Desiree Hayes,Evening,Supporting Staff,Introvert,Organised,1 AM,8 AM,Light Sleeper,Quiet,4,Private Room,High,Has Dog,Okay with Roommate's Habits,Jain
+Debra Graham,Morning,Customer Support,Extrovert,Messy,12 AM,6 AM,Light Sleeper,Quiet,4,Private Room,Medium,Has Dog,Both,Jain
+Carrie Roberts,Evening,Customer Support,Extrovert,Messy,10 PM,8 AM,Light Sleeper,Noisy,6,Shared Room,Medium,Okay with Roommate's Pets,Smoker,Vegan
+Nancy Jackson,Morning,Developer,Extrovert,Organised,1 AM,9 AM,Heavy Sleeper,Noisy,8,Private Room,Medium,No Pets,Both,No Restrictions
+Lori Evans,Evening,Engineer,Introvert,Both,12 AM,8 AM,Light Sleeper,Noisy,2,Private Room,High,Has Dog,Drinker,No Restrictions
+Patricia Galvan,Morning,Supporting Staff,Extrovert,Organised,1 AM,5 AM,Light Sleeper,Quiet,4,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Andrea Rogers,Night,Supporting Staff,Introvert,Both,12 AM,9 AM,Heavy Sleeper,Noisy,6,Shared Room,Low,No Pets,Okay with Roommate's Habits,No Restrictions
+Pamela Cherry,Morning,Engineer,Extrovert,Messy,11 PM,9 AM,Heavy Sleeper,Quiet,10,Shared Room,Medium,Has Dog,Drinker,No Restrictions
+Lisa Williams,Morning,Supporting Staff,Extrovert,Both,12 AM,9 AM,Light Sleeper,Noisy,2,Private Room,High,No Pets,Non-Smoker/Non-Drinker,Vegan
+Laura Collins,Morning,Supporting Staff,Extrovert,Messy,12 AM,6 AM,Heavy Sleeper,Noisy,3,Private Room,High,Has Cat,Drinker,Vegetarian
+Cheryl Jones,Night,Engineer,Introvert,Organised,10 PM,8 AM,Heavy Sleeper,Noisy,2,Private Room,Medium,No Pets,Both,Vegetarian
+Jamie Warren,Night,Supporting Staff,Introvert,Organised,10 PM,9 AM,Heavy Sleeper,Noisy,6,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Leslie Brown,Night,Customer Support,Introvert,Both,11 PM,9 AM,Heavy Sleeper,Quiet,1,Private Room,High,Has Dog,Drinker,Vegetarian
+Angelica May,Evening,Customer Support,Introvert,Messy,9 PM,5 AM,Light Sleeper,Noisy,4,Private Room,Medium,Has Dog,Okay with Roommate's Habits,No Restrictions
+Valerie Lopez,Morning,Engineer,Extrovert,Both,9 PM,9 AM,Light Sleeper,Noisy,7,Private Room,High,Has Cat,Both,Jain
+Nancy Frye,Morning,Customer Support,Extrovert,Messy,10 PM,5 AM,Light Sleeper,Quiet,2,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Lisa Case,Night,Developer,Introvert,Messy,11 PM,5 AM,Heavy Sleeper,Noisy,8,Private Room,Low,Has Dog,Both,Jain
+Alyssa Freeman,Morning,Nurse,Introvert,Both,11 PM,9 AM,Light Sleeper,Quiet,4,Shared Room,Low,Has Dog,Smoker,Jain
+Kimberly Farmer,Morning,Nurse,Introvert,Messy,9 PM,5 AM,Light Sleeper,Quiet,1,Private Room,Low,Has Cat,Drinker,Non-Vegetarian
+Crystal Perry,Evening,Nurse,Introvert,Both,11 PM,7 AM,Light Sleeper,Quiet,10,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegan
+Sara Ramos,Night,Customer Support,Extrovert,Both,11 PM,7 AM,Light Sleeper,Quiet,5,Shared Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Stephanie Hammond,Evening,Developer,Extrovert,Both,12 AM,7 AM,Light Sleeper,Quiet,6,Shared Room,Medium,Has Dog,Drinker,Non-Vegetarian
+Robin Mitchell,Night,Developer,Extrovert,Organised,1 AM,9 AM,Heavy Sleeper,Quiet,7,Shared Room,Medium,No Pets,Both,No Restrictions
+Stacey Holland,Night,Engineer,Extrovert,Messy,1 AM,8 AM,Heavy Sleeper,Noisy,9,Private Room,High,No Pets,Smoker,No Restrictions
+Katie Smith,Night,Customer Support,Introvert,Organised,9 PM,9 AM,Heavy Sleeper,Noisy,1,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Jamie Rodriguez,Morning,Developer,Extrovert,Both,1 AM,5 AM,Light Sleeper,Noisy,4,Private Room,Low,Okay with Roommate's Pets,Smoker,Vegetarian
+Jordan Ponce,Morning,Supporting Staff,Extrovert,Both,12 AM,6 AM,Heavy Sleeper,Quiet,2,Shared Room,High,Okay with Roommate's Pets,Okay with Roommate's Habits,Jain
+Teresa Chapman,Morning,Developer,Introvert,Messy,10 PM,8 AM,Light Sleeper,Noisy,6,Shared Room,Low,Has Cat,Smoker,No Restrictions
+Kelly Castillo,Evening,Supporting Staff,Extrovert,Both,9 PM,6 AM,Heavy Sleeper,Quiet,1,Shared Room,High,No Pets,Drinker,Jain
+Marilyn Coleman,Night,Supporting Staff,Extrovert,Organised,11 PM,6 AM,Heavy Sleeper,Quiet,3,Shared Room,High,Okay with Roommate's Pets,Smoker,Jain
+Nicole Hernandez,Evening,Developer,Extrovert,Messy,10 PM,6 AM,Heavy Sleeper,Noisy,9,Private Room,High,Has Dog,Okay with Roommate's Habits,No Restrictions
+Claudia Marsh,Morning,Developer,Introvert,Both,9 PM,7 AM,Heavy Sleeper,Quiet,3,Private Room,High,Has Dog,Both,Vegetarian
+Suzanne Sweeney,Night,Engineer,Extrovert,Messy,9 PM,9 AM,Heavy Sleeper,Quiet,5,Private Room,High,Okay with Roommate's Pets,Both,Jain
+Kristy Haynes,Evening,Customer Support,Extrovert,Messy,1 AM,7 AM,Heavy Sleeper,Noisy,4,Private Room,Low,No Pets,Smoker,Non-Vegetarian
+Deborah Grant,Evening,Developer,Introvert,Both,9 PM,8 AM,Heavy Sleeper,Noisy,5,Shared Room,Low,Has Cat,Okay with Roommate's Habits,Vegetarian
+Karen Madden,Night,Nurse,Extrovert,Messy,11 PM,7 AM,Light Sleeper,Quiet,4,Shared Room,Medium,Has Dog,Drinker,Jain
+Lori Martin,Night,Nurse,Introvert,Organised,10 PM,8 AM,Heavy Sleeper,Quiet,9,Private Room,Low,Has Cat,Both,Jain
+Tracey Davis,Night,Developer,Introvert,Messy,10 PM,5 AM,Light Sleeper,Quiet,4,Private Room,High,Has Cat,Drinker,Jain
+Jeanette Fernandez,Morning,Nurse,Extrovert,Both,1 AM,6 AM,Light Sleeper,Quiet,8,Shared Room,Low,Has Cat,Both,Vegan
+Crystal Ramirez,Night,Customer Support,Introvert,Both,12 AM,7 AM,Heavy Sleeper,Noisy,7,Shared Room,Low,No Pets,Drinker,Jain
+Tracy Martin,Morning,Engineer,Extrovert,Organised,9 PM,8 AM,Light Sleeper,Quiet,4,Shared Room,Medium,Has Cat,Non-Smoker/Non-Drinker,Jain
+Michaela Mccarthy,Evening,Customer Support,Introvert,Messy,10 PM,6 AM,Light Sleeper,Noisy,6,Shared Room,Low,Okay with Roommate's Pets,Smoker,Jain
+Melissa Spears,Morning,Supporting Staff,Introvert,Messy,10 PM,5 AM,Heavy Sleeper,Quiet,2,Shared Room,High,Has Dog,Both,Non-Vegetarian
+Kimberly Dalton,Morning,Engineer,Introvert,Messy,10 PM,9 AM,Heavy Sleeper,Quiet,5,Shared Room,High,No Pets,Both,Jain
+Holly Cook,Night,Supporting Staff,Extrovert,Both,9 PM,8 AM,Heavy Sleeper,Noisy,8,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,No Restrictions
+Melissa Hernandez,Morning,Nurse,Extrovert,Messy,11 PM,8 AM,Light Sleeper,Quiet,5,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,Jain
+Stephanie Stanley,Evening,Developer,Extrovert,Both,1 AM,6 AM,Heavy Sleeper,Quiet,5,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Vegetarian
+Alyssa Avila,Night,Nurse,Extrovert,Messy,10 PM,6 AM,Heavy Sleeper,Noisy,9,Private Room,Low,Okay with Roommate's Pets,Both,No Restrictions
+Sara Barrera,Evening,Nurse,Introvert,Both,10 PM,5 AM,Light Sleeper,Noisy,4,Private Room,Medium,Has Cat,Both,Vegan
+Sharon Carter,Night,Customer Support,Introvert,Organised,12 AM,5 AM,Light Sleeper,Noisy,1,Shared Room,Medium,Has Dog,Both,No Restrictions
+Rebecca Simon,Evening,Engineer,Extrovert,Organised,11 PM,8 AM,Heavy Sleeper,Quiet,10,Private Room,High,Has Dog,Drinker,Vegetarian
+Tammy Gardner,Morning,Nurse,Introvert,Both,12 AM,9 AM,Heavy Sleeper,Quiet,10,Private Room,High,Has Cat,Smoker,Non-Vegetarian
+Michele Gates,Night,Engineer,Extrovert,Messy,11 PM,6 AM,Heavy Sleeper,Quiet,1,Shared Room,Medium,No Pets,Smoker,Jain
+Katherine Cox,Evening,Customer Support,Introvert,Both,9 PM,8 AM,Heavy Sleeper,Quiet,2,Shared Room,Medium,Has Cat,Smoker,Vegetarian
+Samantha Salinas,Night,Engineer,Extrovert,Both,1 AM,5 AM,Light Sleeper,Noisy,9,Shared Room,Medium,Has Dog,Smoker,Vegan
+Stephanie Thompson,Evening,Developer,Extrovert,Both,11 PM,6 AM,Light Sleeper,Quiet,2,Shared Room,High,Has Cat,Okay with Roommate's Habits,Vegan
+Stacey Barber,Morning,Customer Support,Extrovert,Both,1 AM,7 AM,Heavy Sleeper,Quiet,1,Private Room,Medium,Has Dog,Smoker,Non-Vegetarian
+Kendra Shannon,Morning,Nurse,Introvert,Both,12 AM,6 AM,Light Sleeper,Noisy,7,Shared Room,High,Has Cat,Drinker,Jain
+Wanda Ferguson,Night,Developer,Introvert,Messy,1 AM,8 AM,Light Sleeper,Quiet,8,Private Room,Low,No Pets,Okay with Roommate's Habits,Vegan
+Melissa Bryant,Night,Developer,Extrovert,Both,9 PM,8 AM,Light Sleeper,Noisy,4,Shared Room,Low,No Pets,Both,Jain
+Sandra Kirk,Night,Nurse,Extrovert,Organised,1 AM,5 AM,Heavy Sleeper,Noisy,2,Shared Room,Low,Okay with Roommate's Pets,Both,Vegetarian
+Veronica Nelson,Morning,Supporting Staff,Introvert,Both,9 PM,9 AM,Light Sleeper,Noisy,1,Shared Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Rebecca Brooks,Night,Nurse,Extrovert,Both,12 AM,6 AM,Heavy Sleeper,Noisy,6,Private Room,High,Has Dog,Smoker,Non-Vegetarian
+Natalie Erickson,Morning,Customer Support,Introvert,Messy,1 AM,6 AM,Heavy Sleeper,Quiet,9,Shared Room,High,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Taylor Olson,Night,Supporting Staff,Extrovert,Messy,9 PM,7 AM,Light Sleeper,Quiet,7,Shared Room,High,Has Cat,Okay with Roommate's Habits,No Restrictions
+Rebecca Vang,Evening,Developer,Extrovert,Both,9 PM,9 AM,Heavy Sleeper,Noisy,8,Private Room,High,Has Cat,Both,Vegan
+Jill Williamson,Evening,Nurse,Extrovert,Organised,9 PM,6 AM,Heavy Sleeper,Noisy,10,Shared Room,Low,Okay with Roommate's Pets,Drinker,Vegan
+Barbara Lee,Morning,Developer,Introvert,Organised,9 PM,9 AM,Heavy Sleeper,Quiet,3,Private Room,Low,Has Cat,Both,Non-Vegetarian
+Shannon Kramer,Night,Engineer,Introvert,Messy,1 AM,8 AM,Heavy Sleeper,Noisy,6,Shared Room,High,Has Dog,Smoker,No Restrictions
+Katrina Hart,Morning,Nurse,Introvert,Both,9 PM,6 AM,Light Sleeper,Quiet,5,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Jain
+Laura Sanders,Evening,Nurse,Introvert,Messy,9 PM,8 AM,Heavy Sleeper,Quiet,2,Shared Room,Low,No Pets,Both,Vegan
+Christine Cain,Morning,Nurse,Extrovert,Both,10 PM,6 AM,Light Sleeper,Quiet,1,Shared Room,Medium,Has Cat,Both,Non-Vegetarian
+Bonnie Smith,Night,Supporting Staff,Introvert,Organised,12 AM,7 AM,Heavy Sleeper,Noisy,3,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegan
+Wanda West,Evening,Customer Support,Introvert,Messy,12 AM,8 AM,Light Sleeper,Noisy,9,Shared Room,High,No Pets,Okay with Roommate's Habits,Jain
+Leslie Coleman,Morning,Developer,Introvert,Organised,10 PM,6 AM,Light Sleeper,Noisy,6,Private Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Alicia Ochoa,Evening,Engineer,Extrovert,Organised,10 PM,5 AM,Light Sleeper,Quiet,5,Shared Room,Medium,Has Cat,Okay with Roommate's Habits,Jain
+Kristine Griffith,Night,Customer Support,Extrovert,Both,10 PM,7 AM,Light Sleeper,Noisy,7,Private Room,Medium,No Pets,Non-Smoker/Non-Drinker,Jain
+Amanda Johnson,Evening,Nurse,Introvert,Messy,1 AM,5 AM,Heavy Sleeper,Quiet,2,Private Room,High,Okay with Roommate's Pets,Smoker,No Restrictions
+Emily Gould,Evening,Supporting Staff,Extrovert,Organised,9 PM,7 AM,Heavy Sleeper,Quiet,7,Shared Room,Low,Has Cat,Okay with Roommate's Habits,No Restrictions
+Shirley Mckinney DVM,Night,Engineer,Extrovert,Both,12 AM,8 AM,Heavy Sleeper,Noisy,6,Private Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Rebecca Campbell,Evening,Nurse,Extrovert,Organised,1 AM,7 AM,Heavy Sleeper,Noisy,6,Private Room,High,No Pets,Okay with Roommate's Habits,Vegetarian
+Tonya Stout,Night,Engineer,Extrovert,Both,11 PM,7 AM,Light Sleeper,Quiet,1,Shared Room,High,Has Dog,Both,Vegetarian
+Cindy Hawkins,Evening,Developer,Extrovert,Messy,10 PM,7 AM,Light Sleeper,Noisy,10,Shared Room,High,Has Cat,Smoker,Jain
+Lauren Chan,Night,Developer,Introvert,Both,11 PM,9 AM,Light Sleeper,Quiet,8,Private Room,Medium,No Pets,Drinker,Vegetarian
+Jessica Walter,Night,Nurse,Introvert,Organised,9 PM,5 AM,Heavy Sleeper,Noisy,3,Shared Room,High,Okay with Roommate's Pets,Drinker,Jain
+Lindsay Franklin,Morning,Nurse,Introvert,Organised,1 AM,8 AM,Light Sleeper,Quiet,2,Shared Room,High,Has Dog,Non-Smoker/Non-Drinker,Vegetarian
+Sharon Sullivan,Evening,Customer Support,Introvert,Both,1 AM,6 AM,Light Sleeper,Noisy,5,Private Room,Low,No Pets,Drinker,Vegan
+Lori Summers,Morning,Supporting Staff,Extrovert,Both,12 AM,7 AM,Light Sleeper,Quiet,7,Private Room,Medium,Has Cat,Drinker,Vegan
+Sharon Contreras,Night,Customer Support,Extrovert,Organised,11 PM,5 AM,Heavy Sleeper,Noisy,1,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Deanna Garrett,Morning,Engineer,Extrovert,Messy,1 AM,7 AM,Heavy Sleeper,Quiet,3,Private Room,Medium,Okay with Roommate's Pets,Both,Jain
+Teresa Andrews,Night,Nurse,Extrovert,Both,10 PM,7 AM,Heavy Sleeper,Noisy,4,Shared Room,Medium,Has Dog,Drinker,No Restrictions
+Sharon Nguyen,Morning,Developer,Introvert,Both,9 PM,5 AM,Light Sleeper,Quiet,8,Shared Room,High,Has Cat,Drinker,Vegan
+Aimee Wright,Night,Engineer,Introvert,Both,12 AM,6 AM,Light Sleeper,Noisy,1,Private Room,Low,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Jain
+Lindsey Duncan,Night,Engineer,Extrovert,Organised,12 AM,7 AM,Heavy Sleeper,Quiet,7,Shared Room,Medium,Has Dog,Drinker,Non-Vegetarian
+Brandi Hunt,Morning,Customer Support,Extrovert,Organised,10 PM,9 AM,Heavy Sleeper,Noisy,7,Shared Room,Medium,Okay with Roommate's Pets,Both,Jain
+Alison Knight,Evening,Supporting Staff,Extrovert,Messy,1 AM,9 AM,Heavy Sleeper,Quiet,7,Private Room,Low,No Pets,Drinker,Vegan
+Crystal Lin,Morning,Customer Support,Extrovert,Organised,12 AM,6 AM,Light Sleeper,Quiet,9,Shared Room,Low,No Pets,Smoker,Non-Vegetarian
+Traci Harper,Night,Nurse,Extrovert,Organised,10 PM,8 AM,Heavy Sleeper,Noisy,9,Shared Room,Low,No Pets,Drinker,Vegetarian
+Samantha Velasquez,Night,Nurse,Introvert,Both,10 PM,6 AM,Heavy Sleeper,Quiet,3,Shared Room,Medium,Has Dog,Non-Smoker/Non-Drinker,Vegan
+Melody Hays,Evening,Supporting Staff,Introvert,Organised,12 AM,5 AM,Light Sleeper,Noisy,9,Shared Room,Low,Has Dog,Drinker,No Restrictions
+Elizabeth Pollard,Evening,Developer,Extrovert,Organised,9 PM,7 AM,Light Sleeper,Noisy,8,Private Room,Low,Has Cat,Non-Smoker/Non-Drinker,Non-Vegetarian
+Pamela Clayton,Morning,Engineer,Introvert,Both,10 PM,8 AM,Light Sleeper,Noisy,8,Private Room,Low,No Pets,Smoker,Vegetarian
+Sandra Thompson,Night,Developer,Extrovert,Organised,12 AM,7 AM,Heavy Sleeper,Noisy,10,Private Room,High,No Pets,Both,Vegetarian
+Karen Miller,Night,Engineer,Introvert,Organised,10 PM,9 AM,Light Sleeper,Noisy,8,Shared Room,Medium,No Pets,Drinker,Vegan
+Jaime Brown,Morning,Engineer,Extrovert,Organised,9 PM,5 AM,Light Sleeper,Quiet,1,Private Room,High,Has Cat,Smoker,Vegetarian
+Whitney Moore,Evening,Nurse,Extrovert,Organised,12 AM,8 AM,Light Sleeper,Quiet,9,Shared Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegan
+Emily Choi,Evening,Engineer,Extrovert,Both,1 AM,5 AM,Light Sleeper,Noisy,8,Private Room,High,Has Cat,Okay with Roommate's Habits,Jain
+Dawn Anderson,Evening,Engineer,Introvert,Organised,12 AM,8 AM,Heavy Sleeper,Quiet,6,Private Room,High,Has Dog,Smoker,Non-Vegetarian
+Amy Wolfe,Evening,Nurse,Extrovert,Organised,10 PM,5 AM,Heavy Sleeper,Noisy,7,Shared Room,High,Has Cat,Drinker,Vegetarian
+Heidi Graves,Evening,Supporting Staff,Extrovert,Messy,9 PM,7 AM,Light Sleeper,Noisy,10,Private Room,Low,Has Cat,Drinker,No Restrictions
+Mary Bowen,Morning,Developer,Introvert,Organised,11 PM,7 AM,Light Sleeper,Noisy,1,Shared Room,High,Has Dog,Smoker,Jain
+Lori Weaver,Morning,Supporting Staff,Introvert,Organised,12 AM,6 AM,Heavy Sleeper,Noisy,5,Private Room,Low,Has Cat,Drinker,Jain
+Leslie Clark,Night,Developer,Introvert,Organised,12 AM,6 AM,Light Sleeper,Noisy,10,Private Room,Medium,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,No Restrictions
+Melissa Kirby,Evening,Supporting Staff,Introvert,Organised,11 PM,9 AM,Heavy Sleeper,Noisy,8,Shared Room,Low,Has Cat,Non-Smoker/Non-Drinker,Vegan
+Shelley Lewis,Night,Developer,Introvert,Organised,1 AM,7 AM,Heavy Sleeper,Quiet,9,Private Room,Low,Okay with Roommate's Pets,Both,Vegetarian
+Miss Nancy Pierce,Morning,Engineer,Extrovert,Messy,12 AM,7 AM,Light Sleeper,Quiet,1,Shared Room,Medium,Has Dog,Drinker,No Restrictions
+Jennifer Norris,Evening,Developer,Introvert,Messy,11 PM,7 AM,Light Sleeper,Quiet,10,Shared Room,Medium,Has Dog,Okay with Roommate's Habits,Vegetarian
+Sarah Lane,Morning,Nurse,Extrovert,Both,11 PM,9 AM,Light Sleeper,Noisy,2,Private Room,High,Has Dog,Smoker,Non-Vegetarian
+Alison Owens,Night,Developer,Introvert,Organised,9 PM,6 AM,Light Sleeper,Noisy,4,Shared Room,Low,No Pets,Okay with Roommate's Habits,Jain
+Kendra Harrison,Night,Engineer,Introvert,Both,1 AM,9 AM,Light Sleeper,Quiet,10,Private Room,Low,Has Dog,Okay with Roommate's Habits,No Restrictions
+Maureen Lam,Morning,Engineer,Extrovert,Both,11 PM,7 AM,Light Sleeper,Quiet,1,Private Room,Low,No Pets,Both,Vegan
+Shelley Thompson,Evening,Developer,Extrovert,Messy,11 PM,5 AM,Light Sleeper,Noisy,7,Private Room,Medium,Has Cat,Smoker,Vegan
+Alicia Donaldson,Morning,Customer Support,Introvert,Messy,9 PM,8 AM,Light Sleeper,Noisy,6,Private Room,High,No Pets,Drinker,Vegan
+Ashley Allen,Morning,Customer Support,Extrovert,Both,12 AM,6 AM,Heavy Sleeper,Noisy,4,Shared Room,Low,Has Dog,Okay with Roommate's Habits,Non-Vegetarian
+Martha Watson,Morning,Customer Support,Extrovert,Messy,12 AM,7 AM,Light Sleeper,Quiet,3,Private Room,High,Has Cat,Smoker,No Restrictions
+Alicia Sullivan,Evening,Nurse,Introvert,Messy,12 AM,9 AM,Light Sleeper,Quiet,5,Private Room,Low,Has Cat,Smoker,Vegan
+Kelly Taylor,Morning,Supporting Staff,Extrovert,Messy,12 AM,7 AM,Heavy Sleeper,Quiet,9,Shared Room,High,No Pets,Non-Smoker/Non-Drinker,No Restrictions
+Peggy Turner,Evening,Nurse,Introvert,Both,11 PM,5 AM,Heavy Sleeper,Noisy,4,Private Room,Medium,Has Dog,Drinker,Vegetarian
+Briana Curry,Night,Developer,Introvert,Both,11 PM,7 AM,Heavy Sleeper,Quiet,2,Shared Room,High,Has Cat,Drinker,Non-Vegetarian
+Amanda Mullins,Evening,Supporting Staff,Extrovert,Both,10 PM,8 AM,Heavy Sleeper,Noisy,8,Shared Room,High,Okay with Roommate's Pets,Non-Smoker/Non-Drinker,Non-Vegetarian
+Danielle Schaefer,Evening,Engineer,Extrovert,Messy,9 PM,5 AM,Light Sleeper,Quiet,10,Private Room,Medium,Okay with Roommate's Pets,Okay with Roommate's Habits,Vegetarian
