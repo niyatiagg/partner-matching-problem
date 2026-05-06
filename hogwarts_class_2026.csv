@@ -1,0 +1,101 @@
+user_id,name,purpose,meeting_preference,study_interests,work_preference,openness,conscientiousness,extraversion,agreeableness,neuroticism,region
+HOGW_001,Harry Potter,good grades- high time investment,offline,Potions,Explorer/ Practical Implementation,6,2,8,10,8,Hogwarts - Class 2026
+HOGW_002,Ronald Weasley,startup idea,online,Apparition,Explorer/ Practical Implementation,10,6,10,9,7,Hogwarts - Class 2026
+HOGW_003,Hermione Granger,research,online,Transfiguration,Researcher/ Theoretical work,2,7,3,2,3,Hogwarts - Class 2026
+HOGW_004,Ginny Weasley,startup idea,offline,Potions,Explorer/ Practical Implementation,10,9,5,10,3,Hogwarts - Class 2026
+HOGW_005,Neville Longbottom,research,online,Transfiguration,Researcher/ Theoretical work,3,1,3,5,5,Hogwarts - Class 2026
+HOGW_006,Dean Thomas,good grades- high time investment,both ok,Arithmancy,Researcher/ Theoretical work,10,1,2,10,8,Hogwarts - Class 2026
+HOGW_007,Parvati Patil,passable grades- low time investment,offline,Apparition,Explorer/ Practical Implementation,3,3,2,6,1,Hogwarts - Class 2026
+HOGW_008,Padma Patil,startup idea,offline,Study of Ancient Runes,Researcher/ Theoretical work,10,2,9,2,5,Hogwarts - Class 2026
+HOGW_009,Draco Malfoy,research,both ok,Study of Ancient Runes,Explorer/ Practical Implementation,1,8,7,10,2,Hogwarts - Class 2026
+HOGW_010,Vincent Crabbe,passable grades- low time investment,online,Care of Magical Creatures,Researcher/ Theoretical work,3,10,5,2,9,Hogwarts - Class 2026
+HOGW_011,Gregory Goyle,research,offline,Arithmancy,Researcher/ Theoretical work,3,1,2,2,3,Hogwarts - Class 2026
+HOGW_012,Pansy Parkinson,good grades- high time investment,offline,Charms,Explorer/ Practical Implementation,5,8,6,7,2,Hogwarts - Class 2026
+HOGW_013,Blaise Zabini,good grades- high time investment,online,Defense against the Dark Arts,Explorer/ Practical Implementation,4,10,7,5,10,Hogwarts - Class 2026
+HOGW_014,Theodore Nott,startup idea,offline,Study of Ancient Runes,Explorer/ Practical Implementation,6,1,3,9,3,Hogwarts - Class 2026
+HOGW_015,Luna Lovegood,decent grades- medium time investment,both ok,Transfiguration,Researcher/ Theoretical work,5,4,6,4,4,Hogwarts - Class 2026
+HOGW_016,Cho Chang,research,offline,Defense against the Dark Arts,Researcher/ Theoretical work,8,9,1,2,1,Hogwarts - Class 2026
+HOGW_017,Cedric Diggory,good grades- high time investment,both ok,Arithmancy,Researcher/ Theoretical work,10,6,5,4,3,Hogwarts - Class 2026
+HOGW_018,Viktor Krum,research,offline,Potions,Researcher/ Theoretical work,1,2,4,2,10,Hogwarts - Class 2026
+HOGW_019,Fleur Delacour,startup idea,offline,Defense against the Dark Arts,Explorer/ Practical Implementation,7,2,1,3,7,Hogwarts - Class 2026
+HOGW_020,Oliver Wood,good grades- high time investment,offline,Study of Ancient Runes,Explorer/ Practical Implementation,9,3,9,10,3,Hogwarts - Class 2026
+HOGW_021,Angelina Johnson,decent grades- medium time investment,online,Defense against the Dark Arts,Researcher/ Theoretical work,2,5,8,5,2,Hogwarts - Class 2026
+HOGW_022,Alicia Spinnet,research,both ok,Study of Ancient Runes,Researcher/ Theoretical work,6,4,1,4,8,Hogwarts - Class 2026
+HOGW_023,Katie Bell,decent grades- medium time investment,offline,Arithmancy,Explorer/ Practical Implementation,5,8,8,5,9,Hogwarts - Class 2026
+HOGW_024,Fred Weasley,research,both ok,Arithmancy,Explorer/ Practical Implementation,7,9,10,2,4,Hogwarts - Class 2026
+HOGW_025,George Weasley,startup idea,both ok,Care of Magical Creatures,Researcher/ Theoretical work,10,1,2,2,4,Hogwarts - Class 2026
+HOGW_026,Percy Weasley,decent grades- medium time investment,online,Arithmancy,Researcher/ Theoretical work,5,3,8,8,7,Hogwarts - Class 2026
+HOGW_027,Charlie Weasley,passable grades- low time investment,online,Study of Ancient Runes,Explorer/ Practical Implementation,8,5,8,3,2,Hogwarts - Class 2026
+HOGW_028,Bill Weasley,passable grades- low time investment,offline,Study of Ancient Runes,Explorer/ Practical Implementation,2,7,8,6,5,Hogwarts - Class 2026
+HOGW_029,Arthur Weasley,decent grades- medium time investment,online,Muggle Studies,Researcher/ Theoretical work,6,5,7,4,10,Hogwarts - Class 2026
+HOGW_030,Molly Weasley,passable grades- low time investment,both ok,Care of Magical Creatures,Researcher/ Theoretical work,3,5,3,3,4,Hogwarts - Class 2026
+HOGW_031,Remus Lupin,decent grades- medium time investment,online,Care of Magical Creatures,Researcher/ Theoretical work,5,8,7,9,3,Hogwarts - Class 2026
+HOGW_032,Sirius Black,passable grades- low time investment,online,Apparition,Explorer/ Practical Implementation,3,2,7,5,9,Hogwarts - Class 2026
+HOGW_033,Severus Snape,passable grades- low time investment,online,Potions,Explorer/ Practical Implementation,1,7,10,8,8,Hogwarts - Class 2026
+HOGW_034,Minerva McGonagall,startup idea,offline,Apparition,Researcher/ Theoretical work,1,8,8,2,5,Hogwarts - Class 2026
+HOGW_035,Albus Dumbledore,good grades- high time investment,both ok,Defense against the Dark Arts,Explorer/ Practical Implementation,2,9,7,8,3,Hogwarts - Class 2026
+HOGW_036,Rubeus Hagrid,decent grades- medium time investment,offline,Transfiguration,Researcher/ Theoretical work,5,6,1,2,9,Hogwarts - Class 2026
+HOGW_037,Horace Slughorn,passable grades- low time investment,online,Transfiguration,Explorer/ Practical Implementation,4,6,2,7,8,Hogwarts - Class 2026
+HOGW_038,Pomona Sprout,good grades- high time investment,online,Care of Magical Creatures,Researcher/ Theoretical work,4,2,4,10,4,Hogwarts - Class 2026
+HOGW_039,Filius Flitwick,decent grades- medium time investment,online,Divination,Researcher/ Theoretical work,2,2,5,1,2,Hogwarts - Class 2026
+HOGW_040,Sybill Trelawney,startup idea,both ok,Care of Magical Creatures,Researcher/ Theoretical work,5,5,7,10,3,Hogwarts - Class 2026
+HOGW_041,Poppy Pomfrey,decent grades- medium time investment,both ok,Study of Ancient Runes,Explorer/ Practical Implementation,10,7,7,6,8,Hogwarts - Class 2026
+HOGW_042,Gilderoy Lockhart,passable grades- low time investment,both ok,Defense against the Dark Arts,Explorer/ Practical Implementation,7,8,1,9,3,Hogwarts - Class 2026
+HOGW_043,Quirinus Quirrell,research,online,Arithmancy,Researcher/ Theoretical work,2,2,8,2,8,Hogwarts - Class 2026
+HOGW_044,Argus Filch,good grades- high time investment,online,Transfiguration,Explorer/ Practical Implementation,9,9,7,4,8,Hogwarts - Class 2026
+HOGW_045,Rolanda Hooch,good grades- high time investment,online,Study of Ancient Runes,Explorer/ Practical Implementation,2,7,2,3,1,Hogwarts - Class 2026
+HOGW_046,Septima Vector,startup idea,both ok,Charms,Researcher/ Theoretical work,7,1,2,4,2,Hogwarts - Class 2026
+HOGW_047,Aurora Sinistra,startup idea,both ok,Divination,Researcher/ Theoretical work,6,10,6,6,5,Hogwarts - Class 2026
+HOGW_048,Alastor Moody,research,both ok,Transfiguration,Explorer/ Practical Implementation,2,1,10,1,1,Hogwarts - Class 2026
+HOGW_049,Kingsley Shacklebolt,good grades- high time investment,offline,Herbology,Explorer/ Practical Implementation,9,5,1,6,8,Hogwarts - Class 2026
+HOGW_050,Nymphadora Tonks,passable grades- low time investment,online,Charms,Explorer/ Practical Implementation,5,5,6,2,6,Hogwarts - Class 2026
+HOGW_051,Bellatrix Lestrange,good grades- high time investment,both ok,Defense against the Dark Arts,Researcher/ Theoretical work,7,6,6,10,8,Hogwarts - Class 2026
+HOGW_052,Lucius Malfoy,passable grades- low time investment,online,Muggle Studies,Explorer/ Practical Implementation,9,3,2,8,7,Hogwarts - Class 2026
+HOGW_053,Narcissa Malfoy,research,offline,Potions,Researcher/ Theoretical work,10,5,5,8,7,Hogwarts - Class 2026
+HOGW_054,Peter Pettigrew,good grades- high time investment,offline,Study of Ancient Runes,Explorer/ Practical Implementation,2,10,9,9,8,Hogwarts - Class 2026
+HOGW_055,James Potter,startup idea,offline,Herbology,Explorer/ Practical Implementation,7,1,1,1,3,Hogwarts - Class 2026
+HOGW_056,Lily Potter,passable grades- low time investment,online,Study of Ancient Runes,Explorer/ Practical Implementation,3,9,10,9,8,Hogwarts - Class 2026
+HOGW_057,Petunia Dursley,research,both ok,Transfiguration,Explorer/ Practical Implementation,4,9,6,5,10,Hogwarts - Class 2026
+HOGW_058,Vernon Dursley,good grades- high time investment,both ok,Apparition,Researcher/ Theoretical work,1,5,3,2,8,Hogwarts - Class 2026
+HOGW_059,Dudley Dursley,passable grades- low time investment,offline,Potions,Researcher/ Theoretical work,1,2,5,5,3,Hogwarts - Class 2026
+HOGW_060,Aberforth Dumbledore,startup idea,offline,Apparition,Researcher/ Theoretical work,3,2,7,5,9,Hogwarts - Class 2026
+HOGW_061,Gellert Grindelwald,startup idea,online,Apparition,Explorer/ Practical Implementation,2,6,10,8,6,Hogwarts - Class 2026
+HOGW_062,Rita Skeeter,good grades- high time investment,both ok,Muggle Studies,Researcher/ Theoretical work,2,3,3,8,7,Hogwarts - Class 2026
+HOGW_063,Dolores Umbridge,passable grades- low time investment,offline,Herbology,Researcher/ Theoretical work,7,3,8,10,10,Hogwarts - Class 2026
+HOGW_064,Cornelius Fudge,startup idea,offline,Study of Ancient Runes,Researcher/ Theoretical work,3,4,3,6,2,Hogwarts - Class 2026
+HOGW_065,Rufus Scrimgeour,startup idea,offline,Care of Magical Creatures,Researcher/ Theoretical work,7,6,5,9,3,Hogwarts - Class 2026
+HOGW_066,Barty Crouch Jr,decent grades- medium time investment,online,Divination,Explorer/ Practical Implementation,6,4,4,6,4,Hogwarts - Class 2026
+HOGW_067,Barty Crouch Sr,research,online,Herbology,Explorer/ Practical Implementation,2,8,6,2,7,Hogwarts - Class 2026
+HOGW_068,Igor Karkaroff,good grades- high time investment,online,Herbology,Explorer/ Practical Implementation,4,5,1,7,10,Hogwarts - Class 2026
+HOGW_069,Olympe Maxime,good grades- high time investment,both ok,Arithmancy,Explorer/ Practical Implementation,1,1,8,7,2,Hogwarts - Class 2026
+HOGW_070,Marcus Flint,decent grades- medium time investment,both ok,Potions,Researcher/ Theoretical work,10,7,6,2,9,Hogwarts - Class 2026
+HOGW_071,Terence Higgs,decent grades- medium time investment,online,Herbology,Researcher/ Theoretical work,8,2,4,6,8,Hogwarts - Class 2026
+HOGW_072,Adrian Pucey,startup idea,offline,Apparition,Explorer/ Practical Implementation,6,2,7,5,4,Hogwarts - Class 2026
+HOGW_073,Hannah Abbott,passable grades- low time investment,both ok,Divination,Explorer/ Practical Implementation,10,2,10,1,4,Hogwarts - Class 2026
+HOGW_074,Susan Bones,good grades- high time investment,offline,Herbology,Researcher/ Theoretical work,7,8,3,10,9,Hogwarts - Class 2026
+HOGW_075,Ernie Macmillan,good grades- high time investment,offline,Potions,Researcher/ Theoretical work,8,4,1,9,6,Hogwarts - Class 2026
+HOGW_076,Justin Finch-Fletchley,research,offline,Potions,Explorer/ Practical Implementation,7,3,8,9,1,Hogwarts - Class 2026
+HOGW_077,Zacharias Smith,good grades- high time investment,offline,Care of Magical Creatures,Researcher/ Theoretical work,7,1,5,9,8,Hogwarts - Class 2026
+HOGW_078,Marietta Edgecombe,passable grades- low time investment,online,Study of Ancient Runes,Researcher/ Theoretical work,5,7,9,10,10,Hogwarts - Class 2026
+HOGW_079,Roger Davies,passable grades- low time investment,both ok,Apparition,Explorer/ Practical Implementation,2,6,5,6,3,Hogwarts - Class 2026
+HOGW_080,Michael Corner,passable grades- low time investment,both ok,Muggle Studies,Explorer/ Practical Implementation,9,10,1,10,3,Hogwarts - Class 2026
+HOGW_081,Anthony Goldstein,good grades- high time investment,both ok,Divination,Researcher/ Theoretical work,1,10,5,2,3,Hogwarts - Class 2026
+HOGW_082,Terry Boot,startup idea,online,Divination,Researcher/ Theoretical work,7,8,9,3,3,Hogwarts - Class 2026
+HOGW_083,Dennis Creevey,startup idea,offline,Apparition,Researcher/ Theoretical work,2,3,4,9,5,Hogwarts - Class 2026
+HOGW_084,Colin Creevey,good grades- high time investment,online,Potions,Explorer/ Practical Implementation,5,8,5,9,1,Hogwarts - Class 2026
+HOGW_085,Seamus Finnigan,research,offline,Transfiguration,Explorer/ Practical Implementation,2,2,1,5,2,Hogwarts - Class 2026
+HOGW_086,Lavender Brown,startup idea,online,Herbology,Researcher/ Theoretical work,5,7,4,1,2,Hogwarts - Class 2026
+HOGW_087,Romilda Vane,decent grades- medium time investment,offline,Arithmancy,Explorer/ Practical Implementation,4,9,5,6,1,Hogwarts - Class 2026
+HOGW_088,Cormac McLaggen,passable grades- low time investment,online,Muggle Studies,Researcher/ Theoretical work,4,6,10,4,5,Hogwarts - Class 2026
+HOGW_089,Lee Jordan,research,offline,Arithmancy,Explorer/ Practical Implementation,1,5,8,5,7,Hogwarts - Class 2026
+HOGW_090,Stewart Ackerley,good grades- high time investment,both ok,Arithmancy,Researcher/ Theoretical work,1,8,7,6,4,Hogwarts - Class 2026
+HOGW_091,Orla Quirke,decent grades- medium time investment,offline,Divination,Researcher/ Theoretical work,10,3,10,10,6,Hogwarts - Class 2026
+HOGW_092,Lisa Turpin,research,online,Potions,Researcher/ Theoretical work,4,2,2,7,1,Hogwarts - Class 2026
+HOGW_093,Sally-Anne Perks,startup idea,online,Muggle Studies,Explorer/ Practical Implementation,3,4,5,2,7,Hogwarts - Class 2026
+HOGW_094,Morag MacDougal,good grades- high time investment,online,Herbology,Explorer/ Practical Implementation,6,4,3,5,4,Hogwarts - Class 2026
+HOGW_095,Wayne Hopkins,research,online,Transfiguration,Explorer/ Practical Implementation,8,2,1,6,4,Hogwarts - Class 2026
+HOGW_096,Megan Jones,startup idea,both ok,Defense against the Dark Arts,Explorer/ Practical Implementation,6,9,10,3,9,Hogwarts - Class 2026
+HOGW_097,Kevin Entwhistle,good grades- high time investment,both ok,Herbology,Researcher/ Theoretical work,9,7,8,5,10,Hogwarts - Class 2026
+HOGW_098,Lily Moon,good grades- high time investment,both ok,Herbology,Researcher/ Theoretical work,4,6,6,8,7,Hogwarts - Class 2026
+HOGW_099,Oliver Rivers,good grades- high time investment,both ok,Transfiguration,Explorer/ Practical Implementation,1,3,8,8,5,Hogwarts - Class 2026
+HOGW_100,Sally Smith,startup idea,both ok,Study of Ancient Runes,Explorer/ Practical Implementation,7,7,5,1,9,Hogwarts - Class 2026

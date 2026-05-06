@@ -41,7 +41,7 @@ CANONICAL_ALIASES: Dict[str, List[str]] = {
     "meeting_preference": ["meeting_preference", "meeting_mode", "collab_mode"],
     "study_interests": ["study_interests", "study_topics", "subjects_of_interest"],
     "preferred_language": ["preferred_language", "language", "programming_language"],
-    "duty_preference": ["duty_preference", "house_duty_preference", "home_role"],
+    "duty_preference": ["duty_preference", "duty_pref", "house_duty_preference", "home_role"],
 }
 
 
@@ -137,6 +137,17 @@ def canonicalize_dataset(df: pd.DataFrame, region: str) -> pd.DataFrame:
     out = df.copy()
     out.columns = [normalize_col(c) for c in out.columns]
 
+    if "duty_pref" in out.columns and "duty_preference" in out.columns:
+        good_pref = (
+            out["duty_pref"].notna()
+            & (out["duty_pref"].astype(str).str.strip() != "")
+            & (out["duty_pref"].astype(str).str.strip().str.lower() != "nan")
+        )
+        out["duty_preference"] = out["duty_pref"].where(good_pref, out["duty_preference"])
+        out = out.drop(columns=["duty_pref"])
+    elif "duty_pref" in out.columns:
+        out = out.rename(columns={"duty_pref": "duty_preference"})
+
     rename_map: Dict[str, str] = {}
     for canonical, aliases in CANONICAL_ALIASES.items():
         found = best_alias_match(list(out.columns), aliases)
@@ -190,7 +201,10 @@ def infer_feature_columns(df: pd.DataFrame, mode: str) -> Tuple[List[str], List[
         }
     else:
         preferred = {
+            "purpose",
+            "meeting_preference",
             "domain",
+            "work_preference",
             "study_interests",
             "preferred_language",
             "working_style",
@@ -208,7 +222,10 @@ def infer_feature_columns(df: pd.DataFrame, mode: str) -> Tuple[List[str], List[
         }
 
     use_cols = [c for c in df.columns if c in preferred] or [c for c in df.columns if c not in exclude]
-    multi_cols = [c for c in use_cols if df[c].dtype == object and df[c].astype(str).str.contains(",|;|/").mean() > 0.4]
+    # Only comma/semicolon indicate list-like fields; "/" alone matches labels like "Researcher/ Theoretical work".
+    multi_cols = [
+        c for c in use_cols if df[c].dtype == object and df[c].astype(str).str.contains(r",|;", regex=True).mean() > 0.4
+    ]
     numeric_cols = [c for c in use_cols if pd.api.types.is_numeric_dtype(df[c])]
     categorical_cols = [c for c in use_cols if c not in numeric_cols and c not in multi_cols]
     return numeric_cols, categorical_cols, multi_cols
@@ -463,6 +480,10 @@ def export_interactive_graph(
     highlight_pairs: List[Tuple[str, str, float]] | None = None,
     focus_user: str | None = None,
     max_nodes: int = 120,
+    show_only_highlight_edges: bool = False,
+    min_edge_weight: float = 0.0,
+    max_edges_per_node: int = 0,
+    show_labels: bool = True,
 ) -> None:
     try:
         from pyvis.network import Network
@@ -480,17 +501,150 @@ def export_interactive_graph(
         g = g.subgraph(keep).copy()
 
     pair_set = {tuple(sorted((a, b))) for a, b, _ in (highlight_pairs or [])}
+    # Keep export-side pruning lightweight (node cap / focus only).
+    # Edge granularity controls are injected into the output HTML and can be adjusted live without rerun.
 
     net = Network(height="780px", width="100%", bgcolor="#111111", font_color="white", cdn_resources="remote")
     net.force_atlas_2based()
     for node, attrs in g.nodes(data=True):
         color = "#EF5350" if focus_user and node == focus_user else "#4FC3F7"
-        net.add_node(node, label=str(attrs.get("label", node)), title=f"{node}\nRegion: {attrs.get('region', '')}", color=color)
+        full_label = str(attrs.get("label", node))
+        label = full_label if show_labels else ""
+        net.add_node(
+            node,
+            label=label,
+            full_label=full_label,
+            title=f"{node}\nRegion: {attrs.get('region', '')}",
+            color=color,
+        )
     for u, v, data in g.edges(data=True):
         w = float(data.get("weight", 0.0))
-        color = "#FFD54F" if tuple(sorted((u, v))) in pair_set else "#90A4AE"
-        net.add_edge(u, v, value=max(w * 8, 1.5), color=color, title=f"compatibility={w:.3f}")
+        is_match = tuple(sorted((u, v))) in pair_set
+        color = "#FFD54F" if is_match else "#90A4AE"
+        net.add_edge(
+            u,
+            v,
+            value=max(w * 8, 1.5),
+            color=color,
+            title=f"compatibility={w:.3f}",
+            raw_weight=w,
+            is_match=is_match,
+        )
     net.save_graph(str(output_path))
+    _inject_dynamic_graph_controls(
+        output_path=output_path,
+        defaults={
+            "show_only_highlight_edges": bool(show_only_highlight_edges),
+            "min_edge_weight": float(min_edge_weight),
+            "max_edges_per_node": int(max_edges_per_node),
+            "show_labels": bool(show_labels),
+        },
+    )
+
+
+def _inject_dynamic_graph_controls(output_path: Path, defaults: Dict[str, object]) -> None:
+    html = output_path.read_text(encoding="utf-8")
+    if "id=\"ux-graph-controls\"" in html:
+        return
+
+    controls_html = """
+<div id="ux-graph-controls" style="position:fixed; top:10px; right:10px; z-index:9999; background:#1f2937; color:#fff; padding:10px 12px; border-radius:8px; font-family:Arial,sans-serif; font-size:12px; width:250px; box-shadow:0 2px 8px rgba(0,0,0,0.35);">
+  <div style="font-weight:700; margin-bottom:8px;">Graph Controls (live)</div>
+  <label style="display:block; margin:6px 0;">
+    <input id="ctl-match-only" type="checkbox" /> Show only matched edges
+  </label>
+  <label style="display:block; margin:6px 0;">Min edge weight: <span id="ctl-min-w-val"></span>
+    <input id="ctl-min-w" type="range" min="0" max="1" step="0.01" style="width:100%;" />
+  </label>
+  <label style="display:block; margin:6px 0;">Max edges per node: <span id="ctl-k-val"></span>
+    <input id="ctl-k" type="range" min="1" max="20" step="1" style="width:100%;" />
+  </label>
+  <label style="display:block; margin:6px 0;">
+    <input id="ctl-labels" type="checkbox" /> Show labels
+  </label>
+  <div style="margin-top:8px; color:#d1d5db;">Applies instantly; no rerun needed.</div>
+</div>
+"""
+
+    script = f"""
+<script>
+(function() {{
+  const defaults = {json.dumps(defaults)};
+  const controlsRoot = document.createElement("div");
+  controlsRoot.innerHTML = `{controls_html}`;
+  document.body.appendChild(controlsRoot.firstElementChild);
+
+  if (typeof edges === "undefined" || typeof nodes === "undefined") {{
+    return;
+  }}
+
+  const allEdges = edges.get().map((e, idx) => {{
+    const key = e.id != null ? String(e.id) : `${{e.from}}__${{e.to}}__${{idx}}`;
+    return {{...e, _edge_key:key, raw_weight: Number(e.raw_weight ?? 0), is_match: !!e.is_match }};
+  }});
+  const allNodes = nodes.get().map((n) => {{
+    const full = n.full_label != null ? String(n.full_label) : String(n.label ?? n.id ?? "");
+    return {{...n, _full_label: full }};
+  }});
+
+  const matchOnlyEl = document.getElementById("ctl-match-only");
+  const minWEl = document.getElementById("ctl-min-w");
+  const minWVal = document.getElementById("ctl-min-w-val");
+  const kEl = document.getElementById("ctl-k");
+  const kVal = document.getElementById("ctl-k-val");
+  const labelsEl = document.getElementById("ctl-labels");
+
+  matchOnlyEl.checked = !!defaults.show_only_highlight_edges;
+  minWEl.value = Number(defaults.min_edge_weight || 0);
+  kEl.value = Math.max(1, Number(defaults.max_edges_per_node || 5));
+  labelsEl.checked = !!defaults.show_labels;
+
+  function applyControls() {{
+    const matchOnly = matchOnlyEl.checked;
+    const minW = Number(minWEl.value);
+    const k = Number(kEl.value);
+    const showLabels = labelsEl.checked;
+    minWVal.textContent = minW.toFixed(2);
+    kVal.textContent = String(k);
+
+    let candidate = allEdges.filter((e) => e.raw_weight >= minW && (!matchOnly || e.is_match));
+
+    const byNode = new Map();
+    candidate.forEach((e) => {{
+      if (!byNode.has(e.from)) byNode.set(e.from, []);
+      if (!byNode.has(e.to)) byNode.set(e.to, []);
+      byNode.get(e.from).push(e);
+      byNode.get(e.to).push(e);
+    }});
+
+    const keepKeys = new Set();
+    byNode.forEach((arr) => {{
+      arr.sort((a, b) => (b.raw_weight || 0) - (a.raw_weight || 0));
+      arr.slice(0, k).forEach((e) => keepKeys.add(e._edge_key));
+    }});
+    const filtered = candidate.filter((e) => keepKeys.has(e._edge_key));
+
+    edges.clear();
+    edges.add(filtered);
+
+    nodes.update(allNodes.map((n) => {{
+      const next = {{...n}};
+      next.label = showLabels ? n._full_label : "";
+      return next;
+    }}));
+  }}
+
+  [matchOnlyEl, minWEl, kEl, labelsEl].forEach((el) => el.addEventListener("input", applyControls));
+  applyControls();
+}})();
+</script>
+"""
+
+    if "</body>" in html:
+        html = html.replace("</body>", script + "\n</body>")
+    else:
+        html += script
+    output_path.write_text(html, encoding="utf-8")
 
 
 def prompt_choice(message: str, options: List[str]) -> str:
@@ -569,10 +723,39 @@ def apply_user_filters(df: pd.DataFrame) -> pd.DataFrame:
 def ensure_registry(path: Path) -> Dict[str, Dict[str, str]]:
     if path.exists():
         with open(path, "r", encoding="utf-8") as f:
-            return json.load(f)
+            reg = json.load(f)
+            # Backward-compatible migration for older registry files.
+            changed = False
+            for name, info in reg.items():
+                if "kind" not in info:
+                    info["kind"] = "teammate" if "class" in name.lower() else "roommate"
+                    changed = True
+            if "Computer Science - Class 2026" not in reg:
+                reg["Computer Science - Class 2026"] = {
+                    "type": "csv",
+                    "path": "computer_science_class_2026.csv",
+                    "kind": "teammate",
+                }
+                changed = True
+            if "Hogwarts - Class 2026" not in reg:
+                reg["Hogwarts - Class 2026"] = {"type": "csv", "path": "hogwarts_class_2026.csv", "kind": "teammate"}
+                changed = True
+            if "class1" in reg:
+                del reg["class1"]
+                changed = True
+            if changed:
+                with open(path, "w", encoding="utf-8") as fw:
+                    json.dump(reg, fw, indent=2)
+            return reg
     default = {
-        "synthetic_region": {"type": "synthetic"},
-        "girls_pg_hostel_region": {"type": "csv", "path": "Girls_pg_hostel_CSV_data-1.csv"},
+        "synthetic_region": {"type": "synthetic", "kind": "roommate"},
+        "girls_pg_hostel_region": {"type": "csv", "path": "Girls_pg_hostel_CSV_data-1.csv", "kind": "roommate"},
+        "Computer Science - Class 2026": {
+            "type": "csv",
+            "path": "computer_science_class_2026.csv",
+            "kind": "teammate",
+        },
+        "Hogwarts - Class 2026": {"type": "csv", "path": "hogwarts_class_2026.csv", "kind": "teammate"},
     }
     with open(path, "w", encoding="utf-8") as f:
         json.dump(default, f, indent=2)

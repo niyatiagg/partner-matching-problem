@@ -1,0 +1,764 @@
+{
+  "actor_mode": "admin batch",
+  "mode": "teammate",
+  "region": "Hogwarts - Class 2026",
+  "blossom_pairs": [
+    {
+      "user_a": "HOGW_097",
+      "user_b": "HOGW_098",
+      "score": 0.8530797525360612
+    },
+    {
+      "user_a": "HOGW_068",
+      "user_b": "HOGW_094",
+      "score": 0.8483290119976394
+    },
+    {
+      "user_a": "HOGW_003",
+      "user_b": "HOGW_005",
+      "score": 0.8429016908578799
+    },
+    {
+      "user_a": "HOGW_002",
+      "user_b": "HOGW_061",
+      "score": 0.8359091945463744
+    },
+    {
+      "user_a": "HOGW_060",
+      "user_b": "HOGW_034",
+      "score": 0.829286141994644
+    },
+    {
+      "user_a": "HOGW_023",
+      "user_b": "HOGW_087",
+      "score": 0.8228766962373654
+    },
+    {
+      "user_a": "HOGW_017",
+      "user_b": "HOGW_090",
+      "score": 0.8047116167415097
+    },
+    {
+      "user_a": "HOGW_020",
+      "user_b": "HOGW_054",
+      "score": 0.7909180069651582
+    },
+    {
+      "user_a": "HOGW_008",
+      "user_b": "HOGW_064",
+      "score": 0.7895394380486791
+    },
+    {
+      "user_a": "HOGW_042",
+      "user_b": "HOGW_080",
+      "score": 0.7779708861128175
+    },
+    {
+      "user_a": "HOGW_018",
+      "user_b": "HOGW_053",
+      "score": 0.7768827854607114
+    },
+    {
+      "user_a": "HOGW_056",
+      "user_b": "HOGW_078",
+      "score": 0.7699308465270517
+    },
+    {
+      "user_a": "HOGW_040",
+      "user_b": "HOGW_065",
+      "score": 0.7688188719369459
+    },
+    {
+      "user_a": "HOGW_069",
+      "user_b": "HOGW_099",
+      "score": 0.7506488431795758
+    },
+    {
+      "user_a": "HOGW_048",
+      "user_b": "HOGW_057",
+      "score": 0.7473600731029018
+    },
+    {
+      "user_a": "HOGW_025",
+      "user_b": "HOGW_046",
+      "score": 0.7379430090236141
+    },
+    {
+      "user_a": "HOGW_013",
+      "user_b": "HOGW_044",
+      "score": 0.7328043247088651
+    },
+    {
+      "user_a": "HOGW_074",
+      "user_b": "HOGW_075",
+      "score": 0.7300955632668342
+    },
+    {
+      "user_a": "HOGW_038",
+      "user_b": "HOGW_077",
+      "score": 0.7272118041962604
+    },
+    {
+      "user_a": "HOGW_019",
+      "user_b": "HOGW_055",
+      "score": 0.7269038397738241
+    },
+    {
+      "user_a": "HOGW_071",
+      "user_b": "HOGW_026",
+      "score": 0.7229048917513303
+    },
+    {
+      "user_a": "HOGW_100",
+      "user_b": "HOGW_041",
+      "score": 0.7184477390093764
+    },
+    {
+      "user_a": "HOGW_027",
+      "user_b": "HOGW_050",
+      "score": 0.718021920786146
+    },
+    {
+      "user_a": "HOGW_037",
+      "user_b": "HOGW_052",
+      "score": 0.7146521481634023
+    },
+    {
+      "user_a": "HOGW_021",
+      "user_b": "HOGW_031",
+      "score": 0.7139746801736256
+    },
+    {
+      "user_a": "HOGW_082",
+      "user_b": "HOGW_086",
+      "score": 0.7130883805536977
+    },
+    {
+      "user_a": "HOGW_029",
+      "user_b": "HOGW_088",
+      "score": 0.7129059641138827
+    },
+    {
+      "user_a": "HOGW_006",
+      "user_b": "HOGW_051",
+      "score": 0.7076126107280114
+    },
+    {
+      "user_a": "HOGW_032",
+      "user_b": "HOGW_033",
+      "score": 0.7049592560504844
+    },
+    {
+      "user_a": "HOGW_047",
+      "user_b": "HOGW_081",
+      "score": 0.7021578034491296
+    },
+    {
+      "user_a": "HOGW_001",
+      "user_b": "HOGW_076",
+      "score": 0.7011353579978336
+    },
+    {
+      "user_a": "HOGW_083",
+      "user_b": "HOGW_072",
+      "score": 0.6971382014286625
+    },
+    {
+      "user_a": "HOGW_062",
+      "user_b": "HOGW_058",
+      "score": 0.6969344606467247
+    },
+    {
+      "user_a": "HOGW_085",
+      "user_b": "HOGW_095",
+      "score": 0.6927912621316364
+    },
+    {
+      "user_a": "HOGW_010",
+      "user_b": "HOGW_030",
+      "score": 0.6876439958118021
+    },
+    {
+      "user_a": "HOGW_015",
+      "user_b": "HOGW_070",
+      "score": 0.6857241241174228
+    },
+    {
+      "user_a": "HOGW_045",
+      "user_b": "HOGW_084",
+      "score": 0.6850884419639752
+    },
+    {
+      "user_a": "HOGW_039",
+      "user_b": "HOGW_066",
+      "score": 0.6800809424792551
+    },
+    {
+      "user_a": "HOGW_024",
+      "user_b": "HOGW_089",
+      "score": 0.6758446602496779
+    },
+    {
+      "user_a": "HOGW_096",
+      "user_b": "HOGW_035",
+      "score": 0.6724507233999836
+    },
+    {
+      "user_a": "HOGW_014",
+      "user_b": "HOGW_004",
+      "score": 0.6714485209567367
+    },
+    {
+      "user_a": "HOGW_007",
+      "user_b": "HOGW_028",
+      "score": 0.6672055973581177
+    },
+    {
+      "user_a": "HOGW_049",
+      "user_b": "HOGW_012",
+      "score": 0.6613897006407059
+    },
+    {
+      "user_a": "HOGW_063",
+      "user_b": "HOGW_059",
+      "score": 0.6429396830545816
+    },
+    {
+      "user_a": "HOGW_011",
+      "user_b": "HOGW_016",
+      "score": 0.6397911487925266
+    },
+    {
+      "user_a": "HOGW_079",
+      "user_b": "HOGW_073",
+      "score": 0.6250156402661311
+    },
+    {
+      "user_a": "HOGW_043",
+      "user_b": "HOGW_092",
+      "score": 0.6247472118556119
+    },
+    {
+      "user_a": "HOGW_009",
+      "user_b": "HOGW_022",
+      "score": 0.61385726318064
+    },
+    {
+      "user_a": "HOGW_036",
+      "user_b": "HOGW_091",
+      "score": 0.6061193395505123
+    },
+    {
+      "user_a": "HOGW_067",
+      "user_b": "HOGW_093",
+      "score": 0.6055798774019034
+    }
+  ],
+  "gale_shapley_pairs": [
+    {
+      "user_a": "HOGW_078",
+      "user_b": "HOGW_056",
+      "score": 0.7699308465270517
+    },
+    {
+      "user_a": "HOGW_074",
+      "user_b": "HOGW_049",
+      "score": 0.7259376678871756
+    },
+    {
+      "user_a": "HOGW_064",
+      "user_b": "HOGW_014",
+      "score": 0.7161731156206042
+    },
+    {
+      "user_a": "HOGW_060",
+      "user_b": "HOGW_072",
+      "score": 0.7122807248894742
+    },
+    {
+      "user_a": "HOGW_005",
+      "user_b": "HOGW_095",
+      "score": 0.7078081498898768
+    },
+    {
+      "user_a": "HOGW_053",
+      "user_b": "HOGW_076",
+      "score": 0.6931411234521657
+    },
+    {
+      "user_a": "HOGW_075",
+      "user_b": "HOGW_001",
+      "score": 0.690382437938716
+    },
+    {
+      "user_a": "HOGW_051",
+      "user_b": "HOGW_035",
+      "score": 0.6898069878152192
+    },
+    {
+      "user_a": "HOGW_090",
+      "user_b": "HOGW_069",
+      "score": 0.6851186026727779
+    },
+    {
+      "user_a": "HOGW_039",
+      "user_b": "HOGW_066",
+      "score": 0.6800809424792551
+    },
+    {
+      "user_a": "HOGW_011",
+      "user_b": "HOGW_089",
+      "score": 0.6521590684301746
+    },
+    {
+      "user_a": "HOGW_088",
+      "user_b": "HOGW_052",
+      "score": 0.6384958714759656
+    },
+    {
+      "user_a": "HOGW_070",
+      "user_b": "HOGW_041",
+      "score": 0.6373580351236154
+    },
+    {
+      "user_a": "HOGW_065",
+      "user_b": "HOGW_004",
+      "score": 0.6318802848983571
+    },
+    {
+      "user_a": "HOGW_022",
+      "user_b": "HOGW_009",
+      "score": 0.61385726318064
+    },
+    {
+      "user_a": "HOGW_098",
+      "user_b": "HOGW_099",
+      "score": 0.6018130750572893
+    },
+    {
+      "user_a": "HOGW_030",
+      "user_b": "HOGW_079",
+      "score": 0.598363028458036
+    },
+    {
+      "user_a": "HOGW_029",
+      "user_b": "HOGW_093",
+      "score": 0.5973068394918815
+    },
+    {
+      "user_a": "HOGW_047",
+      "user_b": "HOGW_096",
+      "score": 0.5970150753579841
+    },
+    {
+      "user_a": "HOGW_026",
+      "user_b": "HOGW_023",
+      "score": 0.5947024101217709
+    },
+    {
+      "user_a": "HOGW_071",
+      "user_b": "HOGW_094",
+      "score": 0.5927978657726921
+    },
+    {
+      "user_a": "HOGW_003",
+      "user_b": "HOGW_067",
+      "score": 0.5866090403649413
+    },
+    {
+      "user_a": "HOGW_077",
+      "user_b": "HOGW_020",
+      "score": 0.5842496151797257
+    },
+    {
+      "user_a": "HOGW_059",
+      "user_b": "HOGW_007",
+      "score": 0.584058277841232
+    },
+    {
+      "user_a": "HOGW_010",
+      "user_b": "HOGW_050",
+      "score": 0.5809134076424995
+    },
+    {
+      "user_a": "HOGW_017",
+      "user_b": "HOGW_024",
+      "score": 0.5796627382918406
+    },
+    {
+      "user_a": "HOGW_034",
+      "user_b": "HOGW_061",
+      "score": 0.5782123822582703
+    },
+    {
+      "user_a": "HOGW_082",
+      "user_b": "HOGW_002",
+      "score": 0.5765434005147196
+    },
+    {
+      "user_a": "HOGW_038",
+      "user_b": "HOGW_084",
+      "score": 0.5694903396358019
+    },
+    {
+      "user_a": "HOGW_097",
+      "user_b": "HOGW_044",
+      "score": 0.5598985706677329
+    },
+    {
+      "user_a": "HOGW_008",
+      "user_b": "HOGW_100",
+      "score": 0.5578674298073935
+    },
+    {
+      "user_a": "HOGW_015",
+      "user_b": "HOGW_057",
+      "score": 0.5562894183122343
+    },
+    {
+      "user_a": "HOGW_063",
+      "user_b": "HOGW_028",
+      "score": 0.5545217097284193
+    },
+    {
+      "user_a": "HOGW_086",
+      "user_b": "HOGW_055",
+      "score": 0.5406844254516976
+    },
+    {
+      "user_a": "HOGW_021",
+      "user_b": "HOGW_013",
+      "score": 0.5352564518382819
+    },
+    {
+      "user_a": "HOGW_083",
+      "user_b": "HOGW_019",
+      "score": 0.5270411125403023
+    },
+    {
+      "user_a": "HOGW_062",
+      "user_b": "HOGW_080",
+      "score": 0.516838076819675
+    },
+    {
+      "user_a": "HOGW_091",
+      "user_b": "HOGW_087",
+      "score": 0.5158925001066077
+    },
+    {
+      "user_a": "HOGW_043",
+      "user_b": "HOGW_032",
+      "score": 0.512014686737985
+    },
+    {
+      "user_a": "HOGW_036",
+      "user_b": "HOGW_085",
+      "score": 0.5114531007149885
+    },
+    {
+      "user_a": "HOGW_092",
+      "user_b": "HOGW_033",
+      "score": 0.48972554221895565
+    },
+    {
+      "user_a": "HOGW_081",
+      "user_b": "HOGW_073",
+      "score": 0.4738390957080054
+    },
+    {
+      "user_a": "HOGW_040",
+      "user_b": "HOGW_042",
+      "score": 0.4643747389665554
+    },
+    {
+      "user_a": "HOGW_006",
+      "user_b": "HOGW_068",
+      "score": 0.45720001910469144
+    },
+    {
+      "user_a": "HOGW_031",
+      "user_b": "HOGW_027",
+      "score": 0.4544074850458666
+    },
+    {
+      "user_a": "HOGW_016",
+      "user_b": "HOGW_012",
+      "score": 0.4389272849850234
+    },
+    {
+      "user_a": "HOGW_058",
+      "user_b": "HOGW_054",
+      "score": 0.4178544009732296
+    },
+    {
+      "user_a": "HOGW_046",
+      "user_b": "HOGW_048",
+      "score": 0.37474768968087846
+    },
+    {
+      "user_a": "HOGW_018",
+      "user_b": "HOGW_037",
+      "score": 0.3294651705901467
+    },
+    {
+      "user_a": "HOGW_025",
+      "user_b": "HOGW_045",
+      "score": 0.25511383440173074
+    }
+  ],
+  "irving_pairs": [
+    {
+      "user_a": "HOGW_001",
+      "user_b": "HOGW_020",
+      "score": 0.7243631550554324
+    },
+    {
+      "user_a": "HOGW_002",
+      "user_b": "HOGW_061",
+      "score": 0.8359091945463744
+    },
+    {
+      "user_a": "HOGW_003",
+      "user_b": "HOGW_005",
+      "score": 0.8429016908578799
+    },
+    {
+      "user_a": "HOGW_004",
+      "user_b": "HOGW_076",
+      "score": 0.6973608338391002
+    },
+    {
+      "user_a": "HOGW_006",
+      "user_b": "HOGW_017",
+      "score": 0.8079933878780793
+    },
+    {
+      "user_a": "HOGW_007",
+      "user_b": "HOGW_079",
+      "score": 0.7216882370305047
+    },
+    {
+      "user_a": "HOGW_008",
+      "user_b": "HOGW_064",
+      "score": 0.7895394380486791
+    },
+    {
+      "user_a": "HOGW_009",
+      "user_b": "HOGW_057",
+      "score": 0.658274417135258
+    },
+    {
+      "user_a": "HOGW_010",
+      "user_b": "HOGW_030",
+      "score": 0.6876439958118021
+    },
+    {
+      "user_a": "HOGW_011",
+      "user_b": "HOGW_018",
+      "score": 0.6719988281807717
+    },
+    {
+      "user_a": "HOGW_012",
+      "user_b": "HOGW_054",
+      "score": 0.6946431207834302
+    },
+    {
+      "user_a": "HOGW_013",
+      "user_b": "HOGW_044",
+      "score": 0.7328043247088651
+    },
+    {
+      "user_a": "HOGW_014",
+      "user_b": "HOGW_072",
+      "score": 0.7100042554535857
+    },
+    {
+      "user_a": "HOGW_015",
+      "user_b": "HOGW_070",
+      "score": 0.6857241241174228
+    },
+    {
+      "user_a": "HOGW_016",
+      "user_b": "HOGW_053",
+      "score": 0.6485700653412518
+    },
+    {
+      "user_a": "HOGW_019",
+      "user_b": "HOGW_055",
+      "score": 0.7269038397738241
+    },
+    {
+      "user_a": "HOGW_021",
+      "user_b": "HOGW_031",
+      "score": 0.7139746801736256
+    },
+    {
+      "user_a": "HOGW_022",
+      "user_b": "HOGW_100",
+      "score": 0.5839239273694627
+    },
+    {
+      "user_a": "HOGW_023",
+      "user_b": "HOGW_087",
+      "score": 0.8228766962373654
+    },
+    {
+      "user_a": "HOGW_024",
+      "user_b": "HOGW_089",
+      "score": 0.6758446602496779
+    },
+    {
+      "user_a": "HOGW_025",
+      "user_b": "HOGW_040",
+      "score": 0.7768419337436474
+    },
+    {
+      "user_a": "HOGW_026",
+      "user_b": "HOGW_029",
+      "score": 0.7252415964100873
+    },
+    {
+      "user_a": "HOGW_027",
+      "user_b": "HOGW_056",
+      "score": 0.7949994824940191
+    },
+    {
+      "user_a": "HOGW_028",
+      "user_b": "HOGW_033",
+      "score": 0.6283631514692762
+    },
+    {
+      "user_a": "HOGW_032",
+      "user_b": "HOGW_050",
+      "score": 0.715041949771739
+    },
+    {
+      "user_a": "HOGW_034",
+      "user_b": "HOGW_060",
+      "score": 0.829286141994644
+    },
+    {
+      "user_a": "HOGW_035",
+      "user_b": "HOGW_099",
+      "score": 0.7064363262159258
+    },
+    {
+      "user_a": "HOGW_036",
+      "user_b": "HOGW_091",
+      "score": 0.6061193395505123
+    },
+    {
+      "user_a": "HOGW_037",
+      "user_b": "HOGW_052",
+      "score": 0.7146521481634023
+    },
+    {
+      "user_a": "HOGW_038",
+      "user_b": "HOGW_077",
+      "score": 0.7272118041962604
+    },
+    {
+      "user_a": "HOGW_039",
+      "user_b": "HOGW_066",
+      "score": 0.6800809424792551
+    },
+    {
+      "user_a": "HOGW_041",
+      "user_b": "HOGW_096",
+      "score": 0.6061444616045194
+    },
+    {
+      "user_a": "HOGW_042",
+      "user_b": "HOGW_080",
+      "score": 0.7779708861128175
+    },
+    {
+      "user_a": "HOGW_043",
+      "user_b": "HOGW_092",
+      "score": 0.6247472118556119
+    },
+    {
+      "user_a": "HOGW_045",
+      "user_b": "HOGW_094",
+      "score": 0.6950139974828091
+    },
+    {
+      "user_a": "HOGW_046",
+      "user_b": "HOGW_047",
+      "score": 0.6379544565041437
+    },
+    {
+      "user_a": "HOGW_048",
+      "user_b": "HOGW_085",
+      "score": 0.6309940816268209
+    },
+    {
+      "user_a": "HOGW_049",
+      "user_b": "HOGW_074",
+      "score": 0.7259376678871756
+    },
+    {
+      "user_a": "HOGW_051",
+      "user_b": "HOGW_098",
+      "score": 0.7616036767835926
+    },
+    {
+      "user_a": "HOGW_058",
+      "user_b": "HOGW_062",
+      "score": 0.6969344606467247
+    },
+    {
+      "user_a": "HOGW_059",
+      "user_b": "HOGW_075",
+      "score": 0.6472569517109784
+    },
+    {
+      "user_a": "HOGW_063",
+      "user_b": "HOGW_078",
+      "score": 0.6400501499892192
+    },
+    {
+      "user_a": "HOGW_065",
+      "user_b": "HOGW_083",
+      "score": 0.7079796502515565
+    },
+    {
+      "user_a": "HOGW_067",
+      "user_b": "HOGW_068",
+      "score": 0.6722557056510506
+    },
+    {
+      "user_a": "HOGW_069",
+      "user_b": "HOGW_090",
+      "score": 0.6851186026727779
+    },
+    {
+      "user_a": "HOGW_071",
+      "user_b": "HOGW_086",
+      "score": 0.6464556056036311
+    },
+    {
+      "user_a": "HOGW_073",
+      "user_b": "HOGW_081",
+      "score": 0.4738390957080054
+    },
+    {
+      "user_a": "HOGW_082",
+      "user_b": "HOGW_088",
+      "score": 0.6198610557298799
+    },
+    {
+      "user_a": "HOGW_084",
+      "user_b": "HOGW_095",
+      "score": 0.5340135314765402
+    },
+    {
+      "user_a": "HOGW_093",
+      "user_b": "HOGW_097",
+      "score": 0.34553903428347177
+    }
+  ],
+  "blossom_note": "No fallback needed; algorithm output already covered all users.",
+  "gale_shapley_note": "No fallback needed; algorithm output already covered all users.",
+  "irving_note": "No stable roommate matching from Irving (algorithm returned no solution). Greedy fallback formed 50 pair(s) not produced by the core algorithm alone. People involved: Harry Potter, Ronald Weasley, Hermione Granger, Ginny Weasley, Neville Longbottom, Dean Thomas, Parvati Patil, Padma Patil, Draco Malfoy, Vincent Crabbe, Gregory Goyle, Pansy Parkinson, Blaise Zabini, Theodore Nott, Luna Lovegood, Cho Chang, Cedric Diggory, Viktor Krum, Fleur Delacour, Oliver Wood, Angelina Johnson, Alicia Spinnet, Katie Bell, Fred Weasley, George Weasley, Percy Weasley, Charlie Weasley, Bill Weasley, Arthur Weasley, Molly Weasley, Remus Lupin, Sirius Black, Severus Snape, Minerva McGonagall, Albus Dumbledore, Rubeus Hagrid, Horace Slughorn, Pomona Sprout, Filius Flitwick, Sybill Trelawney, Poppy Pomfrey, Gilderoy Lockhart, Quirinus Quirrell, Argus Filch, Rolanda Hooch, Septima Vector, Aurora Sinistra, Alastor Moody, Kingsley Shacklebolt, Nymphadora Tonks, Bellatrix Lestrange, Lucius Malfoy, Narcissa Malfoy, Peter Pettigrew, James Potter, Lily Potter, Petunia Dursley, Vernon Dursley, Dudley Dursley, Aberforth Dumbledore, Gellert Grindelwald, Rita Skeeter, Dolores Umbridge, Cornelius Fudge, Rufus Scrimgeour, Barty Crouch Jr, Barty Crouch Sr, Igor Karkaroff, Olympe Maxime, Marcus Flint, Terence Higgs, Adrian Pucey, Hannah Abbott, Susan Bones, Ernie Macmillan, Justin Finch-Fletchley, Zacharias Smith, Marietta Edgecombe, Roger Davies, Michael Corner, Anthony Goldstein, Terry Boot, Dennis Creevey, Colin Creevey, Seamus Finnigan, Lavender Brown, Romilda Vane, Cormac McLaggen, Lee Jordan, Stewart Ackerley, Orla Quirke, Lisa Turpin, Sally-Anne Perks, Morag MacDougal, Wayne Hopkins, Megan Jones, Kevin Entwhistle, Lily Moon, Oliver Rivers, Sally Smith. Fallback pairs: Harry Potter \u2194 Oliver Wood (score 0.7244); Ronald Weasley \u2194 Gellert Grindelwald (score 0.8359); Hermione Granger \u2194 Neville Longbottom (score 0.8429); Ginny Weasley \u2194 Justin Finch-Fletchley (score 0.6974); Dean Thomas \u2194 Cedric Diggory (score 0.8080); Parvati Patil \u2194 Roger Davies (score 0.7217); Padma Patil \u2194 Cornelius Fudge (score 0.7895); Draco Malfoy \u2194 Petunia Dursley (score 0.6583); Vincent Crabbe \u2194 Molly Weasley (score 0.6876); Gregory Goyle \u2194 Viktor Krum (score 0.6720); Pansy Parkinson \u2194 Peter Pettigrew (score 0.6946); Blaise Zabini \u2194 Argus Filch (score 0.7328); Theodore Nott \u2194 Adrian Pucey (score 0.7100); Luna Lovegood \u2194 Marcus Flint (score 0.6857); Cho Chang \u2194 Narcissa Malfoy (score 0.6486); Fleur Delacour \u2194 James Potter (score 0.7269); Angelina Johnson \u2194 Remus Lupin (score 0.7140); Alicia Spinnet \u2194 Sally Smith (score 0.5839); Katie Bell \u2194 Romilda Vane (score 0.8229); Fred Weasley \u2194 Lee Jordan (score 0.6758); George Weasley \u2194 Sybill Trelawney (score 0.7768); Percy Weasley \u2194 Arthur Weasley (score 0.7252); Charlie Weasley \u2194 Lily Potter (score 0.7950); Bill Weasley \u2194 Severus Snape (score 0.6284); Sirius Black \u2194 Nymphadora Tonks (score 0.7150); Minerva McGonagall \u2194 Aberforth Dumbledore (score 0.8293); Albus Dumbledore \u2194 Oliver Rivers (score 0.7064); Rubeus Hagrid \u2194 Orla Quirke (score 0.6061); Horace Slughorn \u2194 Lucius Malfoy (score 0.7147); Pomona Sprout \u2194 Zacharias Smith (score 0.7272); Filius Flitwick \u2194 Barty Crouch Jr (score 0.6801); Poppy Pomfrey \u2194 Megan Jones (score 0.6061); Gilderoy Lockhart \u2194 Michael Corner (score 0.7780); Quirinus Quirrell \u2194 Lisa Turpin (score 0.6247); Rolanda Hooch \u2194 Morag MacDougal (score 0.6950); Septima Vector \u2194 Aurora Sinistra (score 0.6380); Alastor Moody \u2194 Seamus Finnigan (score 0.6310); Kingsley Shacklebolt \u2194 Susan Bones (score 0.7259); Bellatrix Lestrange \u2194 Lily Moon (score 0.7616); Vernon Dursley \u2194 Rita Skeeter (score 0.6969); Dudley Dursley \u2194 Ernie Macmillan (score 0.6473); Dolores Umbridge \u2194 Marietta Edgecombe (score 0.6401); Rufus Scrimgeour \u2194 Dennis Creevey (score 0.7080); Barty Crouch Sr \u2194 Igor Karkaroff (score 0.6723); Olympe Maxime \u2194 Stewart Ackerley (score 0.6851); Terence Higgs \u2194 Lavender Brown (score 0.6465); Hannah Abbott \u2194 Anthony Goldstein (score 0.4738); Terry Boot \u2194 Cormac McLaggen (score 0.6199); Colin Creevey \u2194 Wayne Hopkins (score 0.5340); Sally-Anne Perks \u2194 Kevin Entwhistle (score 0.3455)."
+}

@@ -1,0 +1,11 @@
+user_id,name,purpose,meeting_preference,preferred_language,study_interests,domain,region,interests,openness,conscientiousness,extraversion,agreeableness,neuroticism
+C001,Aarav,good grades- high time investment,both ok,python,AI-ML,frontend,class1,,5,5,5,5,5
+C002,Isha,research,online,java,Cybersecurity,backend,class1,,5,5,5,5,5
+C003,Neha,good grades- low time investment,offline,c++,DBMS,frontend,class1,,5,5,5,5,5
+C004,Rohan,decent grades- low time investment,both ok,python,Cloud,backend,class1,,5,5,5,5,5
+C005,Diya,hackathon focused,online,python,AI-ML,frontend,class1,,5,5,5,5,5
+C006,Vikram,research,offline,java,Cybersecurity,backend,class1,,5,5,5,5,5
+C007,Kabir,good grades- high time investment,both ok,c++,Data Structures Algorithms,frontend,class1,,5,5,5,5,5
+C008,Aditi,good grades- low time investment,online,python,Cloud,backend,class1,,5,5,5,5,5
+C009,Meera,startup idea,both ok,java,AI-ML,frontend,class1,,5,5,5,5,5
+C010,Arjun,decent grades- low time investment,offline,c++,DBMS,backend,class1,,5,5,5,5,5

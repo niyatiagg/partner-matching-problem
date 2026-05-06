@@ -1,0 +1,101 @@
+user_id,name,purpose,meeting_preference,preferred_language,study_interests,domain,openness,conscientiousness,extraversion,agreeableness,neuroticism,region
+COMP_001,Rohan Aarav,startup idea,offline,python,Software Engineering,frontend,2,9,2,10,7,Computer Science - Class 2026
+COMP_002,Isha Aarav,good grades- high time investment,online,python,Human-Computer Interaction,frontend,9,4,9,7,4,Computer Science - Class 2026
+COMP_003,Saanvi Myra,passable grades- low time investment,online,python,Cloud Computing,backend,6,5,3,4,6,Computer Science - Class 2026
+COMP_004,Rohan Neha,research,online,java,Computer Architecture & Hardware,backend,1,8,9,2,7,Computer Science - Class 2026
+COMP_005,Neha Vihaan,passable grades- low time investment,both ok,c++,Computer Architecture & Hardware,frontend,2,1,4,5,2,Computer Science - Class 2026
+COMP_006,Aditi Rohan,research,offline,java,Theory of Computation,backend,3,6,6,4,5,Computer Science - Class 2026
+COMP_007,Neha Shaurya,startup idea,online,c++,Cloud Computing,frontend,3,8,7,5,9,Computer Science - Class 2026
+COMP_008,Aditi Zara,good grades- high time investment,online,python,Database Systems,backend,7,5,2,4,10,Computer Science - Class 2026
+COMP_009,Zara Kabir,startup idea,offline,java,Theory of Computation,backend,3,5,3,4,9,Computer Science - Class 2026
+COMP_010,Vihaan Meera,startup idea,both ok,java,Robotics,backend,6,4,3,9,8,Computer Science - Class 2026
+COMP_011,Neha Isha,good grades- high time investment,online,c++,Blockchain,backend,10,2,7,7,10,Computer Science - Class 2026
+COMP_012,Saanvi Tara,passable grades- low time investment,both ok,python,Theory of Computation,frontend,9,5,6,2,5,Computer Science - Class 2026
+COMP_013,Kiran Vikram,research,online,c++,Cloud Computing,backend,9,3,9,2,5,Computer Science - Class 2026
+COMP_014,Tara Shaurya,decent grades- medium time investment,online,java,Database Systems,frontend,9,9,1,10,6,Computer Science - Class 2026
+COMP_015,Reyansh Aarav,good grades- high time investment,offline,java,Software Engineering,frontend,4,10,2,2,8,Computer Science - Class 2026
+COMP_016,Neha Vihaan,decent grades- medium time investment,online,c++,Computer Graphics & Vizualization,frontend,5,9,10,7,4,Computer Science - Class 2026
+COMP_017,Vihaan Kabir,startup idea,offline,java,Theory of Computation,backend,8,9,8,2,4,Computer Science - Class 2026
+COMP_018,Aditi Neha,passable grades- low time investment,online,c++,Human-Computer Interaction,frontend,10,4,1,2,1,Computer Science - Class 2026
+COMP_019,Aditi Neha,good grades- high time investment,offline,python,Human-Computer Interaction,frontend,5,8,4,9,3,Computer Science - Class 2026
+COMP_020,Myra Myra,research,online,java,Database Systems,backend,4,2,2,7,6,Computer Science - Class 2026
+COMP_021,Kiran Kiran,research,both ok,python,Theory of Computation,frontend,1,7,6,2,4,Computer Science - Class 2026
+COMP_022,Kabir Kabir,hackathon focused,offline,python,Networking & Distributed Systems,frontend,5,8,4,2,8,Computer Science - Class 2026
+COMP_023,Vihaan Rohan,good grades- high time investment,both ok,c++,AI-ML,frontend,4,3,7,8,8,Computer Science - Class 2026
+COMP_024,Kabir Anaya,good grades- high time investment,online,java,AI-ML,backend,5,8,5,7,9,Computer Science - Class 2026
+COMP_025,Reyansh Diya,decent grades- medium time investment,offline,python,AI-ML,frontend,6,1,1,10,8,Computer Science - Class 2026
+COMP_026,Tara Tara,decent grades- medium time investment,online,c++,Cybersecurity,frontend,2,10,2,4,7,Computer Science - Class 2026
+COMP_027,Rohan Myra,decent grades- medium time investment,both ok,c++,AI-ML,frontend,7,10,10,9,6,Computer Science - Class 2026
+COMP_028,Meera Kabir,startup idea,both ok,java,Software Engineering,backend,7,3,5,8,6,Computer Science - Class 2026
+COMP_029,Neha Aarav,research,both ok,c++,Cybersecurity,frontend,9,4,9,5,3,Computer Science - Class 2026
+COMP_030,Dev Neha,decent grades- medium time investment,offline,java,Blockchain,backend,9,5,10,9,1,Computer Science - Class 2026
+COMP_031,Vihaan Arjun,startup idea,online,python,Data Science & Data Mining,frontend,2,9,3,5,5,Computer Science - Class 2026
+COMP_032,Shaurya Kabir,startup idea,offline,python,Theory of Computation,backend,9,8,5,1,2,Computer Science - Class 2026
+COMP_033,Kiran Meera,good grades- high time investment,online,java,Database Systems,frontend,5,3,8,9,7,Computer Science - Class 2026
+COMP_034,Vihaan Aarav,good grades- high time investment,online,c++,Blockchain,frontend,6,10,9,3,7,Computer Science - Class 2026
+COMP_035,Diya Isha,passable grades- low time investment,offline,python,Computer Architecture & Hardware,frontend,4,2,6,9,7,Computer Science - Class 2026
+COMP_036,Shaurya Diya,decent grades- medium time investment,online,python,Networking & Distributed Systems,frontend,3,6,7,4,5,Computer Science - Class 2026
+COMP_037,Vikram Rohan,research,online,java,Software Engineering,frontend,8,6,5,4,4,Computer Science - Class 2026
+COMP_038,Aarav Kabir,research,offline,java,Cybersecurity,backend,6,9,7,9,6,Computer Science - Class 2026
+COMP_039,Aarav Rohan,passable grades- low time investment,online,c++,Data Science & Data Mining,frontend,2,10,7,6,6,Computer Science - Class 2026
+COMP_040,Kiran Shaurya,hackathon focused,online,java,Robotics,frontend,5,1,7,1,9,Computer Science - Class 2026
+COMP_041,Vihaan Kabir,passable grades- low time investment,offline,python,Theory of Computation,backend,10,6,2,5,9,Computer Science - Class 2026
+COMP_042,Arjun Kiran,passable grades- low time investment,offline,c++,Data Science & Data Mining,frontend,4,7,7,3,10,Computer Science - Class 2026
+COMP_043,Myra Arjun,research,both ok,python,Data Science & Data Mining,backend,4,7,10,10,6,Computer Science - Class 2026
+COMP_044,Saanvi Saanvi,research,both ok,python,Human-Computer Interaction,backend,3,2,5,9,10,Computer Science - Class 2026
+COMP_045,Zara Neha,decent grades- medium time investment,both ok,java,Software Engineering,frontend,3,1,1,4,8,Computer Science - Class 2026
+COMP_046,Shaurya Neha,research,offline,c++,Robotics,frontend,7,8,7,4,3,Computer Science - Class 2026
+COMP_047,Aarav Rohan,research,online,python,Database Systems,backend,1,9,4,2,8,Computer Science - Class 2026
+COMP_048,Diya Saanvi,startup idea,both ok,c++,Robotics,backend,8,10,9,7,9,Computer Science - Class 2026
+COMP_049,Saanvi Vikram,startup idea,offline,java,Data Science & Data Mining,frontend,5,9,8,4,5,Computer Science - Class 2026
+COMP_050,Saanvi Neha,startup idea,offline,python,Data Science & Data Mining,backend,6,9,2,3,3,Computer Science - Class 2026
+COMP_051,Aditi Anaya,startup idea,online,c++,Software Engineering,frontend,7,7,6,9,8,Computer Science - Class 2026
+COMP_052,Kiran Isha,decent grades- medium time investment,offline,java,Database Systems,frontend,10,7,8,1,6,Computer Science - Class 2026
+COMP_053,Arjun Anaya,research,both ok,c++,Cloud Computing,frontend,8,4,5,7,8,Computer Science - Class 2026
+COMP_054,Aarav Anaya,passable grades- low time investment,both ok,c++,Database Systems,backend,3,8,3,10,9,Computer Science - Class 2026
+COMP_055,Aarav Anaya,hackathon focused,both ok,c++,AI-ML,frontend,7,3,8,3,1,Computer Science - Class 2026
+COMP_056,Meera Anaya,passable grades- low time investment,online,java,Computer Architecture & Hardware,backend,7,5,7,5,2,Computer Science - Class 2026
+COMP_057,Reyansh Aarav,startup idea,both ok,python,Computer Architecture & Hardware,frontend,2,1,1,4,4,Computer Science - Class 2026
+COMP_058,Aarav Shaurya,decent grades- medium time investment,online,python,Computer Graphics & Vizualization,frontend,10,4,8,5,6,Computer Science - Class 2026
+COMP_059,Vikram Shaurya,hackathon focused,both ok,c++,Cybersecurity,frontend,5,2,10,1,5,Computer Science - Class 2026
+COMP_060,Myra Anaya,research,both ok,python,Cybersecurity,frontend,2,5,10,2,10,Computer Science - Class 2026
+COMP_061,Isha Dev,hackathon focused,offline,c++,Computer Architecture & Hardware,frontend,9,6,1,7,8,Computer Science - Class 2026
+COMP_062,Rohan Kiran,passable grades- low time investment,both ok,java,Cloud Computing,frontend,7,3,9,5,10,Computer Science - Class 2026
+COMP_063,Vihaan Reyansh,research,offline,c++,Robotics,backend,6,4,2,5,8,Computer Science - Class 2026
+COMP_064,Aditi Saanvi,hackathon focused,both ok,c++,Networking & Distributed Systems,backend,1,8,6,3,8,Computer Science - Class 2026
+COMP_065,Kabir Dev,passable grades- low time investment,offline,java,Robotics,backend,9,1,9,4,2,Computer Science - Class 2026
+COMP_066,Aditi Kiran,research,both ok,python,Cloud Computing,backend,8,8,1,2,5,Computer Science - Class 2026
+COMP_067,Aditi Anaya,startup idea,online,java,Theory of Computation,backend,8,9,9,6,7,Computer Science - Class 2026
+COMP_068,Vihaan Zara,passable grades- low time investment,both ok,java,Data Science & Data Mining,backend,5,4,2,4,6,Computer Science - Class 2026
+COMP_069,Rohan Vihaan,startup idea,online,python,Software Engineering,backend,5,10,9,10,5,Computer Science - Class 2026
+COMP_070,Rohan Kabir,passable grades- low time investment,online,java,Blockchain,backend,1,9,3,5,1,Computer Science - Class 2026
+COMP_071,Isha Vihaan,passable grades- low time investment,both ok,python,Theory of Computation,backend,2,1,10,5,8,Computer Science - Class 2026
+COMP_072,Reyansh Saanvi,passable grades- low time investment,online,python,Data Science & Data Mining,backend,2,2,7,8,2,Computer Science - Class 2026
+COMP_073,Myra Isha,decent grades- medium time investment,online,c++,Data Science & Data Mining,frontend,4,2,9,7,10,Computer Science - Class 2026
+COMP_074,Shaurya Shaurya,decent grades- medium time investment,both ok,java,Computer Graphics & Vizualization,backend,5,10,7,5,10,Computer Science - Class 2026
+COMP_075,Shaurya Isha,hackathon focused,both ok,python,Database Systems,frontend,4,5,2,3,4,Computer Science - Class 2026
+COMP_076,Vikram Vihaan,good grades- high time investment,online,python,Networking & Distributed Systems,backend,10,8,5,1,4,Computer Science - Class 2026
+COMP_077,Arjun Arjun,startup idea,offline,python,Theory of Computation,frontend,5,10,4,7,2,Computer Science - Class 2026
+COMP_078,Vihaan Aditi,startup idea,online,java,Blockchain,frontend,1,3,5,10,10,Computer Science - Class 2026
+COMP_079,Arjun Saanvi,good grades- high time investment,offline,c++,Data Science & Data Mining,backend,5,9,9,8,8,Computer Science - Class 2026
+COMP_080,Neha Shaurya,good grades- high time investment,offline,c++,Computer Architecture & Hardware,backend,1,2,4,10,10,Computer Science - Class 2026
+COMP_081,Aarav Meera,hackathon focused,online,python,Computer Graphics & Vizualization,backend,5,3,10,7,8,Computer Science - Class 2026
+COMP_082,Neha Reyansh,passable grades- low time investment,offline,java,Computer Architecture & Hardware,frontend,3,6,7,8,5,Computer Science - Class 2026
+COMP_083,Anaya Vihaan,good grades- high time investment,offline,python,Computer Architecture & Hardware,backend,6,2,7,9,1,Computer Science - Class 2026
+COMP_084,Vihaan Saanvi,research,online,python,Human-Computer Interaction,backend,10,8,8,1,4,Computer Science - Class 2026
+COMP_085,Meera Vihaan,decent grades- medium time investment,offline,java,Cloud Computing,backend,2,1,10,4,3,Computer Science - Class 2026
+COMP_086,Arjun Vihaan,good grades- high time investment,both ok,java,Cybersecurity,frontend,2,8,2,3,8,Computer Science - Class 2026
+COMP_087,Arjun Tara,startup idea,offline,java,Computer Graphics & Vizualization,backend,4,8,9,3,7,Computer Science - Class 2026
+COMP_088,Kabir Shaurya,hackathon focused,both ok,python,Cybersecurity,backend,7,6,9,5,1,Computer Science - Class 2026
+COMP_089,Arjun Arjun,hackathon focused,both ok,c++,Computer Graphics & Vizualization,frontend,8,9,8,6,6,Computer Science - Class 2026
+COMP_090,Vihaan Vihaan,research,offline,java,Software Engineering,frontend,10,7,4,7,1,Computer Science - Class 2026
+COMP_091,Zara Reyansh,startup idea,offline,java,Theory of Computation,frontend,8,1,3,9,10,Computer Science - Class 2026
+COMP_092,Zara Rohan,research,online,c++,Computer Graphics & Vizualization,frontend,3,7,3,2,8,Computer Science - Class 2026
+COMP_093,Meera Zara,hackathon focused,both ok,java,Theory of Computation,frontend,6,9,7,6,8,Computer Science - Class 2026
+COMP_094,Vihaan Isha,hackathon focused,online,python,Theory of Computation,backend,4,2,7,2,2,Computer Science - Class 2026
+COMP_095,Saanvi Vikram,startup idea,offline,python,AI-ML,backend,1,5,6,6,7,Computer Science - Class 2026
+COMP_096,Diya Aditi,hackathon focused,offline,c++,Theory of Computation,frontend,3,3,2,10,7,Computer Science - Class 2026
+COMP_097,Shaurya Aditi,research,both ok,python,Software Engineering,backend,5,8,5,1,8,Computer Science - Class 2026
+COMP_098,Arjun Vihaan,decent grades- medium time investment,online,java,Computer Architecture & Hardware,backend,7,5,8,5,4,Computer Science - Class 2026
+COMP_099,Anaya Reyansh,good grades- high time investment,online,java,Robotics,backend,10,5,5,1,7,Computer Science - Class 2026
+COMP_100,Meera Aarav,hackathon focused,both ok,c++,AI-ML,backend,5,4,10,6,4,Computer Science - Class 2026

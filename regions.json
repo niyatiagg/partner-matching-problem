@@ -1,12 +1,25 @@
 {
   "synthetic_region": {
-    "type": "synthetic"
+    "type": "synthetic",
+    "kind": "roommate"
   },
   "girls_pg_hostel_region": {
     "type": "csv",
-    "path": "Girls_pg_hostel_CSV_data-1.csv"
+    "path": "Girls_pg_hostel_CSV_data-1.csv",
+    "kind": "roommate"
   },
   "new town 1": {
-    "type": "synthetic"
+    "type": "synthetic",
+    "kind": "roommate"
+  },
+  "Computer Science - Class 2026": {
+    "type": "csv",
+    "path": "computer_science_class_2026.csv",
+    "kind": "teammate"
+  },
+  "Hogwarts - Class 2026": {
+    "type": "csv",
+    "path": "hogwarts_class_2026.csv",
+    "kind": "teammate"
   }
 }
